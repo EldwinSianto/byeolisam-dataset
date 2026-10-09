@@ -13,7 +13,8 @@ Dibuat untuk proyek kuliah text mining & profil karakter.
 | `data/dialog.csv` | **Dataset utama.** 7.282 teks, satu baris per teks, sudah urut baca |
 | `data/tokoh.csv` | Daftar 37 pembicara: romanisasi nama, jenis, jumlah teks per tipe, rentang chapter |
 | `data/dibuang.csv` | 617 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
-| `analisis.ipynb` | Notebook awal: kemunculan tokoh, bicara vs. berpikir, gaya bicara, kata khas, siapa bicara dengan siapa, pencarian teks |
+| `panels/chNNN/panel_PPP.jpg` | Gambar webtoon (4.029 potongan, ±1600 px tinggi, urut atas → bawah) untuk mengecek teks |
+| `analisis.ipynb` | Notebook awal: kemunculan tokoh, bicara vs. berpikir, gaya bicara, kata khas, siapa bicara dengan siapa, pencarian teks, `lihat()` untuk menampilkan gambar |
 
 ## Mulai
 
@@ -32,6 +33,10 @@ jupyter lab analisis.ipynb
 
 Atau buka `data/dialog.csv` langsung di Excel / Google Sheets (encoding UTF-8).
 
+**Mengecek teks ke gambarnya:** di notebook, `lihat("ch006_panel_037_02")` menampilkan panelnya dengan kotak merah pada
+teks itu dan label pembicara untuk teks lain di panel yang sama. Tanpa notebook: buka file di kolom `gambar`, lalu cari
+kotak di koordinat kolom `kotak`.
+
 ## Kolom `data/dialog.csv`
 
 | Kolom | Arti |
@@ -47,6 +52,9 @@ Atau buka `data/dialog.csv` langsung di Excel / Google Sheets (encoding UTF-8).
 | `tipe` | Jenis teks — lihat di bawah |
 | `teks` | **Teks final** (sudah dikoreksi bila ada koreksi OCR), satu baris |
 | `layar` | `1` = teks yang tampil di layar HP/komputer (chat, komentar, notifikasi); 52 baris |
+| `gambar` | File panel tempat teks berada, mis. `panels/ch006/panel_002.jpg` |
+| `kotak` | Letak teks di gambar itu: `x1,y1,x2,y2` (piksel) |
+| `posisi_persen` | Posisi teks dalam chapter (0 = awal, 100 = akhir) — berguna kalau mencocokkan dengan webtoon resmi |
 | `teks_ocr_asli` | Teks hasil OCR sebelum dikoreksi |
 | `teks_dikoreksi` | `1` = teks OCR sudah diperbaiki (154 baris) |
 | `teks_ragu` | `1` = koreksi teks masih ragu karena gambar kurang jelas (14 baris) |
