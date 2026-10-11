@@ -14,6 +14,7 @@ Dibuat untuk proyek kuliah text mining & profil karakter.
 | `data/tokoh.csv` | Daftar 37 pembicara: romanisasi nama, jenis, jumlah teks per tipe, rentang chapter |
 | `data/dibuang.csv` | 617 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
 | `panels/chNNN/panel_PPP.jpg` | Gambar webtoon (4.029 potongan, ±1600 px tinggi, urut atas → bawah) untuk mengecek teks |
+| `profil_karakter.py` → `profil/` | Kartu profil otomatis per tokoh (kemunculan, gaya bicara, kata khas, lawan bicara, honorifik, ucapan vs pikiran) + `gaya_bicara.csv`, `relasi.csv`, `honorifik.csv` |
 | `analisis.ipynb` | Notebook awal: kemunculan tokoh, bicara vs. berpikir, gaya bicara, kata khas, siapa bicara dengan siapa, pencarian teks, `lihat()` untuk menampilkan gambar |
 
 ## Mulai
