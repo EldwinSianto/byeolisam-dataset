@@ -47,18 +47,18 @@ kotak di koordinat kolom `kotak`.
 | `panel` | Indeks potongan gambar dalam chapter (gambar webtoon dipotong per ±1600 px, atas → bawah) |
 | `urut_panel` | Urutan teks di dalam potongan itu |
 | `bubble_id` | ID unik teks, `chNNN_panel_PPP_BB` |
-| `jenis_kotak` | `dialog_bubble` (balon bicara, 5.471) atau `narration_box` (kotak narasi/pikiran, 1.811) |
+| `jenis_kotak` | `dialog_bubble` (balon bicara, 5.328) atau `narration_box` (kotak narasi/pikiran, 1.704) |
 | `pembicara` | Nama tokoh (Hangul), `anon_cNNN`, `Unknown`, `Narration`, atau `SFX` — lihat di bawah |
 | `pembicara_romawi` | Nama pembicara dalam huruf Latin (지수원 → Ji Suwon) |
 | `tipe` | Jenis teks — lihat di bawah |
 | `teks` | **Teks final** (sudah dikoreksi bila ada koreksi OCR), satu baris |
-| `layar` | `1` = teks yang tampil di layar HP/komputer (chat, komentar, notifikasi); 52 baris |
+| `layar` | `1` = teks yang tampil di layar HP/komputer (chat, komentar, notifikasi); 43 baris |
 | `gambar` | File panel tempat teks berada, mis. `panels/ch006/panel_002.jpg` |
 | `kotak` | Letak teks di gambar itu: `x1,y1,x2,y2` (piksel) |
 | `posisi_persen` | Posisi teks dalam chapter (0 = awal, 100 = akhir) — berguna kalau mencocokkan dengan webtoon resmi |
 | `teks_ocr_asli` | Teks hasil OCR sebelum dikoreksi |
-| `teks_dikoreksi` | `1` = teks OCR sudah diperbaiki (154 baris) |
-| `teks_ragu` | `1` = koreksi teks masih ragu karena gambar kurang jelas (14 baris) |
+| `teks_dikoreksi` | `1` = teks OCR sudah diperbaiki (287 baris) |
+| `teks_ragu` | `1` = koreksi teks masih ragu karena gambar kurang jelas (12 baris) |
 | `catatan` | Catatan anotator |
 
 ### Nilai `pembicara`
