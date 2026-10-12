@@ -10,7 +10,7 @@ Dibuat untuk proyek kuliah text mining & profil karakter.
 
 | File | Isi |
 |---|---|
-| `data/dialog.csv` | **Dataset utama.** 7.032 teks, satu baris per teks, sudah urut baca |
+| `data/dialog.csv` | **Dataset utama.** 7.033 teks, satu baris per teks, sudah urut baca |
 | `data/tokoh.csv` | Daftar 37 pembicara: romanisasi nama, jenis, jumlah teks per tipe, rentang chapter |
 | `data/dibuang.csv` | 867 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
 | `panels/chNNN/panel_PPP.jpg` | Gambar webtoon (4.029 potongan, ±1600 px tinggi, urut atas → bawah) untuk mengecek teks |
@@ -42,7 +42,7 @@ kotak di koordinat kolom `kotak`.
 
 | Kolom | Arti |
 |---|---|
-| `urutan` | Nomor urut baca global (1 … 7032), lintas chapter |
+| `urutan` | Nomor urut baca global (1 … 7033), lintas chapter |
 | `chapter` | `ch006` … `ch060` |
 | `panel` | Indeks potongan gambar dalam chapter (gambar webtoon dipotong per ±1600 px, atas → bawah) |
 | `urut_panel` | Urutan teks di dalam potongan itu |
@@ -86,7 +86,7 @@ Untuk profil gaya bicara biasanya pakai `tipe` `ucapan` + `tulisan`; untuk sisi 
 2. **Pembicara dan tipe dilabel manual** untuk semua chapter ch006–ch060, dibantu foto referensi wajah tiap tokoh.
 3. Koreksi OCR untuk teks berskor OCR < 0,85 (dicek terhadap gambar).
 4. Urutan baca dibakukan atas → bawah, kiri → kanan.
-5. Pembersihan (dicek visual): balon yang terbelah batas potongan gambar digabung (143), deteksi dobel dibuang, kredit/judul/antarmuka messenger dibuang (85). 11 balon punya label pembicara bertentangan — ditandai di kolom `catatan`.
+5. Pembersihan (dicek visual): balon yang terbelah batas potongan gambar digabung (143), deteksi dobel dibuang, kredit/judul/antarmuka messenger dibuang (85). Balon yang diucapkan dua tokoh bersamaan dicatat sebagai dua baris (`bubble_id` berakhiran `#2` untuk tokoh kedua).
 
 ## Keterbatasan
 

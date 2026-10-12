@@ -1,16 +1,16 @@
 # Lee Rina (이리나)
 
 ## Kemunculan
-- Total **354 teks** di **29 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▄    ▃▂▃▁▁▃▁   ▁▃▂▂  ▁  ▃  ▁ ▂▂▁          ▁▂▁  ▁▄▂▆▃▂▂█`
-- Chapter tersibuk: ch060 (48), ch056 (41), ch054 (25)
+- Total **355 teks** di **28 chapter** (ch006 – ch060)
+- Per chapter (ch006 → ch060): `▄    ▃▂▃▁▁▃▁   ▁▃▂▂     ▃  ▁ ▂▂▁          ▁▂▁  ▁▄▂▆▃▂▂█`
+- Chapter tersibuk: ch060 (49), ch056 (41), ch054 (25)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 347 | 5 | 2 | 0 |
+| 347 | 6 | 2 | 0 |
 
-Porsi pikiran **1%** → jarang terlihat isi pikirannya.
+Porsi pikiran **2%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
@@ -19,7 +19,7 @@ Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 | panjang | 13.7 | 12.9 |  |
 | % sopan | 2.0 | 3.0 |  |
 | % tanya | 29.5 | 24.4 |  |
-| % seru | 24.6 | 14.4 | ⬆ jauh lebih tinggi |
+| % seru | 24.4 | 14.4 | ⬆ jauh lebih tinggi |
 | % ragu (...) | 10.3 | 23.7 | ⬇ jauh lebih rendah |
 | % ㅋ/ㅎ | 13.2 | 8.2 | ⬆ jauh lebih tinggi |
 | % makian | 2.3 | 7.0 | ⬇ jauh lebih rendah |
@@ -40,7 +40,7 @@ Contoh ucapan:
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
 | Seol Hyorim | 70 | 3% |
-| Park Dong | 53 | 2% |
+| Park Dong | 54 | 2% |
 | Kim Jingyeong | 52 | 0% |
 | Yang Jinsu | 27 | 0% |
 | Ji Suwon | 18 | 0% |

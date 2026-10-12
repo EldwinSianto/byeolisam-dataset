@@ -16,11 +16,11 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 9.4 | 12.9 |  |
+| panjang | 9.6 | 12.9 |  |
 | % sopan | 0.0 | 3.0 | ⬇ jauh lebih rendah |
-| % tanya | 19.8 | 24.4 |  |
+| % tanya | 21.0 | 24.4 |  |
 | % seru | 3.7 | 14.4 | ⬇ jauh lebih rendah |
-| % ragu (...) | 13.6 | 23.7 | ⬇ jauh lebih rendah |
+| % ragu (...) | 12.3 | 23.7 | ⬇ jauh lebih rendah |
 | % ㅋ/ㅎ | 0.0 | 8.2 | ⬇ jauh lebih rendah |
 | % makian | 1.2 | 7.0 | ⬇ jauh lebih rendah |
 
@@ -39,8 +39,8 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Seol Hyorim | 39 | 0% |
-| Yang Jinsu | 6 | – |
+| Seol Hyorim | 38 | 0% |
+| Yang Jinsu | 7 | – |
 | Sung Huijun | 4 | – |
 | Park Dong | 2 | – |
 | Kim Jiseong | 1 | – |

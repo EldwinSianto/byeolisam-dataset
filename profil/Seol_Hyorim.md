@@ -40,10 +40,10 @@ Contoh ucapan:
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
 | Ji Suwon | 79 | 0% |
-| Lee Rina | 70 | 0% |
-| Park Dong | 51 | 2% |
-| Yang Jinsu | 42 | 2% |
-| Seol Minsu | 41 | 0% |
+| Lee Rina | 71 | 0% |
+| Park Dong | 50 | 2% |
+| Yang Jinsu | 43 | 2% |
+| Seol Minsu | 40 | 0% |
 | Kim Jingyeong | 28 | 0% |
 
 Yang bicara sopan kepadanya: Ji Suwon 6%, Yang Jinsu 5%, Park Dong 3%, Lee Rina 3%, Kim Jingyeong 0%

@@ -1,14 +1,14 @@
 # Park Dong (박동)
 
 ## Kemunculan
-- Total **1098 teks** di **50 chapter** (ch007 – ch060)
+- Total **1097 teks** di **50 chapter** (ch007 – ch060)
 - Per chapter (ch006 → ch060): ` ▃▄▂▃▁▁   ▃▄▃▄▅▂▃▅▆▆▄▂▂▂▃▂▆▆ ▃▃▃▄▂▂▁▅▅▄▁▃▁▂▃▁▄▃▆▂▁█▄▅▆▂`
 - Chapter tersibuk: ch056 (54), ch024 (46), ch059 (46)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 919 | 173 | 2 | 4 |
+| 919 | 172 | 2 | 4 |
 
 Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -57,7 +57,7 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 | % sopan | 3.5 | 1.2 |
 | % tanya | 23.1 | 8.7 |
 | % seru | 13.1 | 5.8 |
-| % ragu (...) | 22.4 | 35.3 |
+| % ragu (...) | 22.4 | 34.9 |
 | % ㅋ/ㅎ | 5.6 | 0.0 |
 | % makian | 14.1 | 5.8 |
 
@@ -69,6 +69,6 @@ Contoh pikiran:
 
 - ch020: 이젠 설효 안 좋아한다고..?  `ch020_panel_031_00`
 - ch023: 신경 안 쓴다고.  `ch023_panel_054_04`
+- ch024: 이제 다 같이 매점으로 가서  `ch024_panel_010_01`
 - ch025: 양진 성격상 쪽팔려서 너 안 보려고 할 거야, 백퍼.  `ch025_panel_029_01`
 - ch032: 학교는 여자애들 보기 쪽팔려서  `ch032_panel_037_00`
-- ch035: 안 좋은 상황 맞지?  `ch035_panel_077_01`

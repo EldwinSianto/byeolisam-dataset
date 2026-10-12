@@ -309,8 +309,8 @@ ch024,10,ch024_panel_011_00,narration_box,내가 평계를 만들어서,digabung
 ch036,71,ch036_panel_072_00,narration_box,해코지할게 뻔해.,digabung ke ch036_panel_071_02 (satu caption dua baris)
 ch037,34,ch037_panel_035_00,narration_box,떠나모내긴 아밉지만,digabung ke ch037_panel_034_02 (satu caption dua baris)
 ch047,80,ch047_panel_081_00,narration_box,정철규들,digabung ke ch047_panel_080_02 (satu caption dua baris)
-ch028,46,ch028_panel_047_00,dialog_bubble,제발 좀..!!,digabung ke ch028_panel_046_03 (satu balon terbelah; label bertentangan: 설효림 vs 설민수 (sementara dipakai label pertama))
-ch029,80,ch029_panel_081_00,narration_box,아니겠지..?,digabung ke ch029_panel_080_03 (satu balon terbelah; label bertentangan: 지수원 vs 박동 (sementara dipakai label pertama))
+ch028,46,ch028_panel_047_00,dialog_bubble,제발 좀..!!,digabung ke ch028_panel_046_03 (satu balon terbelah; label dikonfirmasi pengguna)
+ch029,80,ch029_panel_081_00,narration_box,아니겠지..?,digabung ke ch029_panel_080_03 (satu balon terbelah; label dikonfirmasi pengguna)
 ch009,28,ch009_panel_029_07,narration_box,시간문제.,"digabung ke ch009_panel_029_05 (satu balon/caption, terdeteksi per baris)"
 ch014,8,ch014_panel_009_02,narration_box,숨길 수가 없어.,"digabung ke ch014_panel_009_00 (satu balon/caption, terdeteksi per baris)"
 ch017,9,ch017_panel_010_02,narration_box,근ㅆ ㅁㅋㄴ 인사를 나누는 사이가 되었다.,"digabung ke ch017_panel_010_05 (satu balon/caption, terdeteksi per baris)"

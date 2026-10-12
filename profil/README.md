@@ -3,10 +3,10 @@
 | tokoh | teks | pikiran | chapter | file |
 |---|---|---|---|---|
 | Ji Suwon (지수원) | 1310 | 641 | 53 | [Ji_Suwon.md](Ji_Suwon.md) |
-| Park Dong (박동) | 1098 | 173 | 50 | [Park_Dong.md](Park_Dong.md) |
+| Park Dong (박동) | 1097 | 172 | 50 | [Park_Dong.md](Park_Dong.md) |
 | Yang Jinsu (양진수) | 863 | 183 | 45 | [Yang_Jinsu.md](Yang_Jinsu.md) |
 | Seol Hyorim (설효림) | 608 | 104 | 37 | [Seol_Hyorim.md](Seol_Hyorim.md) |
-| Lee Rina (이리나) | 354 | 5 | 29 | [Lee_Rina.md](Lee_Rina.md) |
+| Lee Rina (이리나) | 355 | 6 | 28 | [Lee_Rina.md](Lee_Rina.md) |
 | Jung Cheolgyu (정철규) | 333 | 20 | 16 | [Jung_Cheolgyu.md](Jung_Cheolgyu.md) |
 | Sung Huijun (성희준) | 307 | 50 | 18 | [Sung_Huijun.md](Sung_Huijun.md) |
 | Kim Inseop (김인섭) | 207 | 24 | 18 | [Kim_Inseop.md](Kim_Inseop.md) |

@@ -41,7 +41,7 @@ Contoh ucapan:
 |---|---|---|
 | Park Dong | 40 | 2% |
 | Jung Cheolgyu | 32 | 3% |
-| Yang Jinsu | 30 | 0% |
+| Yang Jinsu | 29 | 0% |
 | Jo Uri | 20 | 0% |
 | Ji Suwon | 15 | 0% |
 | Kim Jiseong | 5 | – |
