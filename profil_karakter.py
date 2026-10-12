@@ -19,7 +19,7 @@ df = pd.read_csv("data/dialog.csv", encoding="utf-8-sig").sort_values("urutan")
 df["teks"] = df.teks.astype(str)
 tokoh = pd.read_csv("data/tokoh.csv", encoding="utf-8-sig")
 NAMA = dict(zip(tokoh.pembicara, tokoh.pembicara_romawi))
-BUKAN = {"Unknown", "Narration", "SFX"}
+BUKAN = {"Unknown", "Narration", "SFX", "Komik dalam komik"}
 CHAPTERS = sorted(df.chapter.unique())
 MIN_TEKS = 30                      # tokoh dengan teks lebih sedikit tidak dibuatkan kartu
 

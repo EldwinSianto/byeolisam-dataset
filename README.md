@@ -67,6 +67,7 @@ kotak di koordinat kolom `kotak`.
 - **`Unknown`**: figuran / pembicara yang tidak bisa ditentukan.
 - **`Narration`**: narator, keterangan, teks sistem.
 - **`SFX`**: efek suara yang tertulis di balon.
+- **`Komik dalam komik`**: tokoh fiksi di dalam komik yang digambar tokoh cerita (ch009, ch010, ch017). Bukan pembicara sungguhan — keluarkan dari analisis tokoh.
 
 ### Nilai `tipe`
 | Tipe | Arti | Jumlah |
