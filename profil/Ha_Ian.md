@@ -1,14 +1,14 @@
 # Ha Ian (하이안)
 
 ## Kemunculan
-- Total **34 teks** di **4 chapter** (ch057 – ch060)
-- Per chapter (ch006 → ch060): `                                                   ▃█▁▄`
-- Chapter tersibuk: ch058 (17), ch060 (9), ch057 (7)
+- Total **33 teks** di **4 chapter** (ch057 – ch060)
+- Per chapter (ch006 → ch060): `                                                   ▄█▁▄`
+- Chapter tersibuk: ch058 (16), ch060 (9), ch057 (7)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 34 | 0 | 0 | 0 |
+| 33 | 0 | 0 | 0 |
 
 Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 7.9 | 12.6 |  |
-| % sopan | 5.9 | 2.9 | ⬆ jauh lebih tinggi |
-| % tanya | 20.6 | 23.8 |  |
-| % seru | 11.8 | 14.3 |  |
-| % ragu (...) | 29.4 | 23.1 |  |
-| % ㅋ/ㅎ | 2.9 | 8.0 | ⬇ jauh lebih rendah |
-| % makian | 0.0 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 8.1 | 12.9 |  |
+| % sopan | 6.1 | 3.0 | ⬆ jauh lebih tinggi |
+| % tanya | 21.2 | 24.4 |  |
+| % seru | 12.1 | 14.4 |  |
+| % ragu (...) | 30.3 | 23.7 |  |
+| % ㅋ/ㅎ | 3.0 | 8.2 | ⬇ jauh lebih rendah |
+| % makian | 0.0 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 

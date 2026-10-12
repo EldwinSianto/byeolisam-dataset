@@ -1,46 +1,83 @@
 ﻿chapter,panel,bubble_id,jenis_kotak,teks,alasan
 ch006,44,ch006_panel_045_00,narration_box,Xㄱ002 8ea& .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch006,44,ch006_panel_045_01,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch007,44,ch007_panel_045_05,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch009,26,ch009_panel_027_00,narration_box,안다...라.,duplikat: separuh bawah dari ch009_panel_026_01
 ch011,48,ch011_panel_049_00,narration_box,4Xㄱ002 80 ㅋe .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch012,47,ch012_panel_048_00,dialog_bubble,ㄹ니 미즈니니 가자!,duplikat: separuh dari ch012_panel_047_04
+ch012,53,ch012_panel_054_01,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch014,33,ch014_panel_034_00,dialog_bubble,1아ㄹ아리ㅆ,duplikat: separuh dari ch014_panel_033_04
 ch014,71,ch014_panel_072_00,narration_box,Xㄱ002 80ㄱaX.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch014,71,ch014_panel_072_01,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch015,68,ch015_panel_069_01,narration_box,rXwㄱ002 80ㄱe.0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch015,68,ch015_panel_069_02,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch016,84,ch016_panel_085_02,narration_box,Xㄱ002 8eㄱ&. .ㄷ0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch018,67,ch018_panel_068_01,narration_box,Xㄱ002 8eㄱae. .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch019,62,ch019_panel_063_00,narration_box,Xㄱ002 80nae.0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch020,76,ch020_panel_077_01,narration_box,채색도움두진,kredit/judul/antarmuka
 ch022,77,ch022_panel_078_02,narration_box,4Xㄱ002 80n&.ㅅ0,"kredit: kredit penulis, bukan cerita"
+ch022,77,ch022_panel_078_01,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch023,65,ch023_panel_066_01,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch024,77,ch024_panel_078_00,narration_box,4Xㄱ002 80ㄱae. .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch025,68,ch025_panel_069_02,narration_box,rXㄱ002 80ㄱae.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch025,68,ch025_panel_069_03,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch026,64,ch026_panel_065_00,dialog_bubble,——,duplikat: separuh dari ch026_panel_064_04
+ch026,78,ch026_panel_079_00,narration_box,채색도움두진,kredit/judul/antarmuka
 ch027,90,ch027_panel_091_03,narration_box,Xㄱ002 80ㄱae. .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch027,90,ch027_panel_091_04,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch028,81,ch028_panel_082_00,narration_box,4Xㄱ002 80ㄱae.0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch028,81,ch028_panel_082_01,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch029,80,ch029_panel_081_01,narration_box,Xㄱ002 80 ㅋke .ㄷ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch029,80,ch029_panel_081_02,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch030,68,ch030_panel_069_00,narration_box,4X70021 8en& .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch030,68,ch030_panel_069_01,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch031,13,ch031_panel_014_02,narration_box,정철규 (건들지마라) 님의 말:,kredit/judul/antarmuka
+ch031,13,ch031_panel_014_04,narration_box,정철규 (건들지마라) 님의 말:,kredit/judul/antarmuka
+ch031,14,ch031_panel_015_00,narration_box,정철규 (건들지마라) 님의 말:,kredit/judul/antarmuka
+ch031,14,ch031_panel_015_01,narration_box,정철규 (건들지마라) 님의 말:,kredit/judul/antarmuka
+ch031,14,ch031_panel_015_02,narration_box,정철규 (건들지마라) 님의 말:,kredit/judul/antarmuka
+ch031,79,ch031_panel_080_03,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch032,0,ch032_panel_001_00,narration_box,제32화,kredit/judul/antarmuka
 ch032,74,ch032_panel_075_01,narration_box,요 며칠 동안,belum dilabel
 ch032,74,ch032_panel_075_00,narration_box,애들 기분 좀 풀릴까,belum dilabel
 ch032,74,ch032_panel_075_02,narration_box,기다렸는데 계속,belum dilabel
+ch032,80,ch032_panel_081_04,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch033,33,ch033_panel_034_00,dialog_bubble,...!!,duplikat: separuh dari ch033_panel_033_02
 ch033,80,ch033_panel_081_00,narration_box,Xㄱ002 80ㄱaX.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch034,70,ch034_panel_071_00,narration_box,Xㄱ002 8enk& .ㄷ0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch035,76,ch035_panel_077_02,narration_box,ㅋ,duplikat: kotak ganda dari ch035_panel_077_01
+ch035,77,ch035_panel_078_01,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch036,71,ch036_panel_072_04,narration_box,4Xㄱ002 80ㄱe.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch036,71,ch036_panel_072_03,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch037,18,ch037_panel_019_00,narration_box,미그ㄷㅋ이!!!!!,duplikat: separuh dari ch037_panel_018_04
 ch038,86,ch038_panel_087_03,narration_box,Xㄱ002 8eㅋ& .C0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch039,0,ch039_panel_001_02,narration_box,별이삼샵 글/그림 혀노,kredit/judul/antarmuka
 ch039,76,ch039_panel_077_02,narration_box,Xㄱ002 8eㄱ& .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch039,76,ch039_panel_077_03,narration_box,이 인별 LLLnS,"kredit: kredit penulis, bukan cerita"
+ch040,1,ch040_panel_002_00,narration_box,별이삼삼 글/그림 혀노,kredit/judul/antarmuka
+ch040,1,ch040_panel_002_01,narration_box,글/그림 혀노,kredit/judul/antarmuka
 ch040,48,ch040_panel_049_00,dialog_bubble,..ㅋ ㅋ오미ㅆ닌가 알지?,duplikat: separuh dari ch040_panel_048_00
+ch041,89,ch041_panel_090_00,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch042,74,ch042_panel_075_00,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch044,25,ch044_panel_026_03,narration_box,제44화,kredit/judul/antarmuka
 ch044,32,ch044_panel_033_00,dialog_bubble,야동!,belum dilabel
 ch044,63,ch044_panel_064_00,narration_box,4Xㄱ002 8eㄱa& .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch045,68,ch045_panel_069_04,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch046,0,ch046_panel_001_00,dialog_bubble,#,belum dilabel
 ch046,76,ch046_panel_077_01,narration_box,Xㄱ002 8ea .ㄷ0ㄲ,"kredit: kredit penulis, bukan cerita"
 ch046,76,ch046_panel_077_03,narration_box,이 인별 neLn,"kredit: kredit penulis, bukan cerita"
+ch046,76,ch046_panel_077_02,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch047,2,ch047_panel_003_03,narration_box,글/그림 혀노,kredit/judul/antarmuka
+ch047,2,ch047_panel_003_04,narration_box,글/그림 혀노,kredit/judul/antarmuka
 ch047,45,ch047_panel_046_00,dialog_bubble,애안대 진와애시 사과하던지.,duplikat: separuh dari ch047_panel_045_01
 ch047,85,ch047_panel_086_00,narration_box,고&,duplikat: potongan teks yang sama (efek teks berulang)
 ch047,85,ch047_panel_086_01,narration_box,그&아퍽아ㅋ고ㅆ,duplikat: teks berulang di panel yang sama
 ch047,85,ch047_panel_086_02,narration_box,아퍽ㅂㅂ고ㄴㅆㅆㅋ.,duplikat: teks berulang di panel yang sama
 ch047,85,ch047_panel_086_03,narration_box,퍽ㅂㅂ고ㅆㅆㅋ.,duplikat: teks berulang di panel yang sama
+ch047,85,ch047_panel_086_04,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch048,84,ch048_panel_085_01,narration_box,Xㄱ002 80ㄱa& .Z0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch048,84,ch048_panel_085_02,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch049,75,ch049_panel_076_02,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch050,90,ch050_panel_091_00,narration_box,결혼 합니다 ㅋㅋㅋ,belum dilabel
 ch050,90,ch050_panel_091_01,narration_box,결혼 합니다 ㅋㅋㅋ,belum dilabel
 ch050,90,ch050_panel_091_02,narration_box,야직은 아니고 다음주,belum dilabel
@@ -53,20 +90,239 @@ ch051,16,ch051_panel_017_03,dialog_bubble,ㅅ등!ㄹㅋ ㅅ너거 그ㅅ꺄&,dup
 ch051,16,ch051_panel_017_04,narration_box,ㅅ1등!ㅋ ㅅㄹ그럼 ㅅ1꺄&,duplikat: teks berulang
 ch051,17,ch051_panel_018_00,narration_box,소ㄹ고음ㅆ닌슝닥노시,duplikat: teks berulang
 ch051,88,ch051_panel_089_03,narration_box,Xㄱ002 8enae. .ㄷ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch051,88,ch051_panel_089_04,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch052,20,ch052_panel_021_01,narration_box,제52화,kredit/judul/antarmuka
+ch054,10,ch054_panel_011_00,narration_box,제54화,kredit/judul/antarmuka
 ch054,80,ch054_panel_081_00,narration_box,Xㄱ002 80ae.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch054,80,ch054_panel_081_02,narration_box,채색도움_두진,kredit/judul/antarmuka
 ch055,27,ch055_panel_028_02,narration_box,효림남의 미니홈피,belum dilabel
 ch055,27,ch055_panel_028_01,narration_box,설효림,belum dilabel
 ch055,27,ch055_panel_028_03,narration_box,T 2005. .스크램:,belum dilabel
 ch055,83,ch055_panel_084_00,narration_box,ㅋㅋ,duplikat: separuh dari ch055_panel_083_02
 ch055,83,ch055_panel_084_04,narration_box,"4w00021 18ennw&, .ㄷ이","kredit: kredit penulis, bukan cerita"
+ch056,9,ch056_panel_010_00,dialog_bubble,X23#,kredit/judul/antarmuka
 ch056,9,ch056_panel_010_01,narration_box,별! 빠,"kredit: judul seri, bukan cerita"
+ch056,9,ch056_panel_010_03,narration_box,글/그림 혀노,kredit/judul/antarmuka
 ch056,73,ch056_panel_074_03,dialog_bubble,배ㅂㅆㅋ 에휴,duplikat: separuh dari ch056_panel_074_02
 ch056,80,ch056_panel_081_05,narration_box,이 인별,"kredit: kredit penulis, bukan cerita"
+ch056,80,ch056_panel_081_04,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch057,0,ch057_panel_001_00,narration_box,#23#,kredit/judul/antarmuka
+ch057,0,ch057_panel_001_01,narration_box,#23#,kredit/judul/antarmuka
 ch057,0,ch057_panel_001_02,narration_box,ㅂ 사야,"kredit: judul seri, bukan cerita"
+ch057,0,ch057_panel_001_04,narration_box,별이삼샵,kredit/judul/antarmuka
 ch057,71,ch057_panel_072_01,narration_box,Xㄱ0021 80ㄱae.ㅅ0ㄲ,"kredit: kredit penulis, bukan cerita"
+ch057,71,ch057_panel_072_02,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch058,7,ch058_panel_008_00,narration_box,글/그림 혀노,kredit/judul/antarmuka
 ch058,72,ch058_panel_073_00,dialog_bubble,안골어왔는ㅎ,duplikat: separuh dari ch058_panel_072_03
+ch059,15,ch059_panel_016_00,narration_box,X23#,kredit/judul/antarmuka
+ch059,15,ch059_panel_016_01,narration_box,별! 글/크림-혀노 US& 6 임진국 작가님,kredit/judul/antarmuka
+ch059,15,ch059_panel_016_02,narration_box,US 6 임진국 작가님,kredit/judul/antarmuka
+ch059,29,ch059_panel_030_01,narration_box,제59화,kredit/judul/antarmuka
 ch060,31,ch060_panel_032_01,narration_box,ㅈX 기분 나쁘네 ㅇ0,duplikat: teks sama dari ch060_panel_032_00
 ch060,78,ch060_panel_079_00,dialog_bubble,ㅂ군 먹ㅆ어?,duplikat: separuh dari ch060_panel_078_02
+ch060,81,ch060_panel_082_04,narration_box,채색도움_두진,kredit/judul/antarmuka
+ch020,75,ch020_panel_076_01,narration_box,Xㄱ002 80ㄱㅋe.ㅅ0,dicek visual: kredit (email/instagram penulis)
+ch020,76,ch020_panel_077_00,narration_box,이 SㅋSㅋ 0,dicek visual: kredit (email/instagram penulis)
+ch037,31,ch037_panel_032_06,narration_box,마건ㅅ이ㄴ 요기야,"dicek visual: deteksi dobel, OCR rusak"
+ch047,51,ch047_panel_052_01,narration_box,갈진 않아.,"dicek visual: potongan baris terakhir, sudah termuat"
+ch036,70,ch036_panel_071_01,dialog_bubble,그ㅅㄲ 너한테,dicek visual: deteksi dobel (label Narration)
+ch037,31,ch037_panel_032_07,dialog_bubble,건ㅅ이누요기야!,"dicek visual: deteksi dobel, OCR rusak"
+ch037,32,ch037_panel_033_01,narration_box,인지도가 필요했고,"dicek visual: potongan baris, sudah termuat"
+ch009,6,ch009_panel_007_02,narration_box,난이 학교의 반항아.,dicek visual: deteksi dobel; label bertentangan: Unknown vs anon_c026 (sementara dipakai label pertama)
+ch009,28,ch009_panel_029_03,narration_box,내 인생초 최초였어.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch011,37,ch011_panel_038_11,narration_box,뽀 X0X 누가 그려준고얌 (03.20),"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch011,38,ch011_panel_039_05,narration_box,나도그큭ㅋ줄 0,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch015,34,ch015_panel_035_02,narration_box,팀장님! 보안쪽 인원 이게 다예요?,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch024,34,ch024_panel_035_01,dialog_bubble,"맞아, 맛있어.",dicek visual: deteksi dobel; label bertentangan: 설효림 vs 이리나 (sementara dipakai label pertama)
+ch024,48,ch024_panel_049_01,narration_box,양진수를 설효림에게 밀어주,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch026,44,ch026_panel_045_03,dialog_bubble,ㅅㅂ,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch027,1,ch027_panel_002_02,dialog_bubble,설효 하이~!!!,dicek visual: deteksi dobel; label bertentangan: 이리나 vs Unknown (sementara dipakai label pertama)
+ch027,44,ch027_panel_045_01,dialog_bubble,워우~!!,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch028,35,ch028_panel_036_04,narration_box,싹싹 빌어도,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch028,40,ch028_panel_041_10,narration_box,상대의 분노를 줄일 가능성이 크다.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch028,49,ch028_panel_050_02,dialog_bubble,아니 ‘뽀뽀해’는 좀 잖아 그치?,dicek visual: deteksi dobel; label bertentangan: 양진수 vs 설민수 (sementara dipakai label pertama)
+ch028,78,ch028_panel_079_02,dialog_bubble,흐아앙..,dicek visual: deteksi dobel; label bertentangan: 설민수 vs 설효림 (sementara dipakai label pertama)
+ch029,18,ch029_panel_019_02,dialog_bubble,아..뭐.,dicek visual: deteksi dobel; label bertentangan: 성희준 vs 조우리 (sementara dipakai label pertama)
+ch031,40,ch031_panel_041_03,dialog_bubble,대사 쓰기 그형이네,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch033,72,ch033_panel_073_01,dialog_bubble,-,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch037,35,ch037_panel_036_03,narration_box,나세끼시고그닌ㄹ: 그릴 수는 없잖아.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch037,66,ch037_panel_067_01,dialog_bubble,나도 운동장에서,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch039,0,ch039_panel_001_01,narration_box,사야,dicek visual: judul & kredit chapter
+ch039,10,ch039_panel_011_05,narration_box,ㅈㄹ했으니까.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch041,5,ch041_panel_006_01,dialog_bubble,나형걸애기 없어.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch041,50,ch041_panel_051_02,narration_box,왜 구경만 했냐고 ㅋ하 가느서ㄷ 이어,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch042,16,ch042_panel_017_02,narration_box,사실이잖아.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch042,70,ch042_panel_071_03,dialog_bubble,!?,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch043,26,ch043_panel_027_03,narration_box,끝을 보자고.,dicek visual: deteksi dobel; label bertentangan: 박동 vs 김지성 (sementara dipakai label pertama)
+ch044,31,ch044_panel_032_03,narration_box,"대체 뭐야,","dicek visual: deteksi dobel / potongan, sudah termuat"
+ch046,55,ch046_panel_056_00,dialog_bubble,안 돼.,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch047,17,ch047_panel_018_01,dialog_bubble,?,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch047,51,ch047_panel_052_00,narration_box,이ㄹㅆㄹ 같진 않아.,"dicek visual: deteksi dobel, sudah termuat di ch047_panel_051_04"
+ch049,16,ch049_panel_017_06,narration_box,이 그 ㅅ까!!,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch049,25,ch049_panel_026_01,narration_box,최진우 쪽 애들이,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch054,31,ch054_panel_032_04,narration_box,상상할 수도 없는,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch054,56,ch054_panel_057_02,narration_box,꽉띠대 스쳐가던 설효림에 대한,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch054,57,ch054_panel_058_03,narration_box,내 궁금증을 ㄲㄴㄴ 나ㅆ어ㅈ,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch054,79,ch054_panel_080_01,dialog_bubble,"야, 진짜","dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,34,ch055_panel_035_03,narration_box,리하테 싸가지업게옷더니ㅋㅋ,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,34,ch055_panel_035_07,narration_box,김유라 : 그ㄴ : 퍼가요 ~,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,34,ch055_panel_035_15,narration_box,최광훈 : 퍼기 송성한 : 왜 전화십앙ㄲ,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,40,ch055_panel_041_01,narration_box,1.이름,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,48,ch055_panel_049_04,narration_box,고데기도 잘함ㅋ ㅋ,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch055,62,ch055_panel_063_02,narration_box,급 현타,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch056,79,ch056_panel_080_03,dialog_bubble,끄아악!!,dicek visual: deteksi dobel; label bertentangan: 박동 vs 김지성 (sementara dipakai label pertama)
+ch057,21,ch057_panel_022_01,dialog_bubble,히의 !,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch059,41,ch059_panel_042_02,dialog_bubble,없어. !나글,"dicek visual: deteksi dobel / potongan, sudah termuat"
+ch060,30,ch060_panel_031_03,narration_box,.맞는 말이긴,dicek visual: deteksi dobel; label bertentangan: 박동 vs 이리나 (sementara dipakai label pertama)
+ch011,37,ch011_panel_038_04,narration_box,박동:ㅋㅋㅋ(03.20),dicek visual: komentar layar yang sama ditampilkan ulang (diperbesar)
+ch011,38,ch011_panel_039_03,narration_box,김유라 퍼가요 ~ (03.20),dicek visual: komentar layar yang sama ditampilkan ulang (diperbesar)
+ch015,14,ch015_panel_015_03,narration_box,한대만이라도 좋으니,"dicek visual: potongan baris, sudah termuat"
+ch026,9,ch026_panel_010_02,narration_box,처음본 그 순간부터,"dicek visual: potongan baris, sudah termuat"
+ch050,16,ch050_panel_017_02,dialog_bubble,네? 왜요 쌤.,dicek visual: deteksi dobel
+ch060,68,ch060_panel_069_00,dialog_bubble,그랬어요~,dicek visual: deteksi dobel
+ch006,30,ch006_panel_031_00,narration_box,100 가세요 ~! 오래,digabung ke ch006_panel_030_03 (satu balon terbelah batas potongan)
+ch007,9,ch007_panel_010_00,dialog_bubble,그럼 됬네~,digabung ke ch007_panel_009_03 (satu balon terbelah batas potongan)
+ch007,11,ch007_panel_012_00,dialog_bubble,누가 잘되고 싶어서 이러는줄 알아?,digabung ke ch007_panel_011_04 (satu balon terbelah batas potongan)
+ch007,21,ch007_panel_022_00,dialog_bubble,다니던게 이걸 위한 거였나 ㅋㅋ,digabung ke ch007_panel_021_03 (satu balon terbelah batas potongan)
+ch007,33,ch007_panel_034_00,dialog_bubble,가서 자르세요,digabung ke ch007_panel_033_06 (satu balon terbelah batas potongan)
+ch008,6,ch008_panel_007_02,dialog_bubble,짜식아.,digabung ke ch008_panel_006_04 (satu balon terbelah batas potongan)
+ch008,43,ch008_panel_044_00,dialog_bubble,머리도 기르는데,digabung ke ch008_panel_043_03 (satu balon terbelah batas potongan)
+ch008,44,ch008_panel_045_00,dialog_bubble,그냥?ㅋㅋ,digabung ke ch008_panel_044_04 (satu balon terbelah batas potongan)
+ch008,44,ch008_panel_045_02,dialog_bubble,"자퇴하나, ㅅ까 ㅋㅋ",digabung ke ch008_panel_044_05 (satu balon terbelah batas potongan)
+ch009,19,ch009_panel_020_01,dialog_bubble,반대인가..,digabung ke ch009_panel_019_03 (satu balon terbelah batas potongan)
+ch009,44,ch009_panel_045_01,dialog_bubble,뒤져보는 것저럼 긴장된다.,digabung ke ch009_panel_044_03 (satu balon terbelah batas potongan)
+ch010,46,ch010_panel_047_00,dialog_bubble,진짜로 죽는다.,digabung ke ch010_panel_046_04 (satu balon terbelah batas potongan)
+ch010,50,ch010_panel_051_00,dialog_bubble,급식실로 ㅈㄴ 뛰어!!,digabung ke ch010_panel_050_02 (satu balon terbelah batas potongan)
+ch012,19,ch012_panel_020_00,dialog_bubble,지는 ㅈㄴ 양아치였으면서.,digabung ke ch012_panel_019_03 (satu balon terbelah batas potongan)
+ch013,2,ch013_panel_003_00,dialog_bubble,많겠어?,digabung ke ch013_panel_002_04 (satu balon terbelah batas potongan)
+ch013,23,ch013_panel_024_00,dialog_bubble,용기가 없으면 걸리지라도 말든가.,digabung ke ch013_panel_023_04 (satu balon terbelah batas potongan)
+ch013,44,ch013_panel_045_00,dialog_bubble,할 수 있을까?,digabung ke ch013_panel_044_02 (satu balon terbelah batas potongan)
+ch013,49,ch013_panel_050_00,dialog_bubble,ㅆㅂㄹ라이야!!,digabung ke ch013_panel_049_04 (satu balon terbelah batas potongan)
+ch013,50,ch013_panel_051_01,dialog_bubble,# 70&!!,digabung ke ch013_panel_050_06 (satu balon terbelah batas potongan)
+ch014,36,ch014_panel_037_00,dialog_bubble,바..방금 얼마 있냐고 했잖아요!!,digabung ke ch014_panel_036_03 (satu balon terbelah batas potongan)
+ch014,56,ch014_panel_057_00,dialog_bubble,근데 뭐 어쩌자고 자꾸 난리야.,digabung ke ch014_panel_056_03 (satu balon terbelah batas potongan)
+ch015,61,ch015_panel_062_01,dialog_bubble,일부러.,digabung ke ch015_panel_061_01 (satu balon terbelah batas potongan)
+ch016,16,ch016_panel_017_01,dialog_bubble,금도 아플걸?,digabung ke ch016_panel_016_03 (satu balon terbelah batas potongan)
+ch016,20,ch016_panel_021_00,dialog_bubble,버릴 거니까.,digabung ke ch016_panel_020_02 (satu balon terbelah batas potongan)
+ch016,24,ch016_panel_025_00,dialog_bubble,아니라니까 뭐..,digabung ke ch016_panel_024_02 (satu balon terbelah batas potongan)
+ch016,26,ch016_panel_027_00,dialog_bubble,이 꼴이야?,digabung ke ch016_panel_026_01 (satu balon terbelah batas potongan)
+ch016,32,ch016_panel_033_00,dialog_bubble,자란거겠냐,digabung ke ch016_panel_032_03 (satu balon terbelah batas potongan)
+ch016,63,ch016_panel_064_00,dialog_bubble,ㅋㅋㅋㅋ,digabung ke ch016_panel_063_04 (satu balon terbelah batas potongan)
+ch018,19,ch018_panel_020_00,dialog_bubble,달라붙을 텐네~,digabung ke ch018_panel_019_03 (satu balon terbelah batas potongan)
+ch018,41,ch018_panel_042_00,narration_box,님배 안 피우면 쩐ㄸ나..,digabung ke ch018_panel_041_02 (satu balon terbelah batas potongan)
+ch019,11,ch019_panel_012_00,dialog_bubble,다닐 맛 나겠다.,digabung ke ch019_panel_011_03 (satu balon terbelah batas potongan)
+ch019,14,ch019_panel_015_00,dialog_bubble,"기죽있지, 뭐.",digabung ke ch019_panel_014_02 (satu balon terbelah batas potongan)
+ch019,27,ch019_panel_028_00,dialog_bubble,너ㅋㅋㅋㅋ,digabung ke ch019_panel_027_02 (satu balon terbelah batas potongan)
+ch019,53,ch019_panel_054_00,dialog_bubble,커들 새키들은 어디갔어.,digabung ke ch019_panel_053_04 (satu balon terbelah batas potongan)
+ch020,64,ch020_panel_065_00,dialog_bubble,임마.,digabung ke ch020_panel_064_02 (satu balon terbelah batas potongan)
+ch021,23,ch021_panel_024_00,dialog_bubble,강냅두면 풀릴거야.,digabung ke ch021_panel_023_01 (satu balon terbelah batas potongan)
+ch021,34,ch021_panel_035_00,dialog_bubble,내껀 왜 시켜!,digabung ke ch021_panel_034_03 (satu balon terbelah batas potongan)
+ch021,35,ch021_panel_036_01,dialog_bubble,먹들거야!,digabung ke ch021_panel_035_02 (satu balon terbelah batas potongan)
+ch021,44,ch021_panel_045_00,dialog_bubble,덕이들대? 으흠~,digabung ke ch021_panel_044_04 (satu balon terbelah batas potongan)
+ch021,63,ch021_panel_064_00,dialog_bubble,편지 중!,digabung ke ch021_panel_063_03 (satu balon terbelah batas potongan)
+ch022,12,ch022_panel_013_00,dialog_bubble,ㅋㅋ 밥 사준대서.,digabung ke ch022_panel_012_04 (satu balon terbelah batas potongan)
+ch022,14,ch022_panel_015_00,dialog_bubble,!,digabung ke ch022_panel_014_03 (satu balon terbelah batas potongan)
+ch022,52,ch022_panel_053_00,dialog_bubble,ㅈㄴ 떨려 ㅋㅋㅋ,digabung ke ch022_panel_052_06 (satu balon terbelah batas potongan)
+ch022,57,ch022_panel_058_00,dialog_bubble,설효 때문이었어,digabung ke ch022_panel_057_02 (satu balon terbelah batas potongan)
+ch022,58,ch022_panel_059_00,dialog_bubble,인터넷 소설이야 뭐야!!!,digabung ke ch022_panel_058_02 (satu balon terbelah batas potongan)
+ch023,2,ch023_panel_003_01,dialog_bubble,굴하지 않아.,digabung ke ch023_panel_002_02 (satu balon terbelah batas potongan)
+ch023,7,ch023_panel_008_00,dialog_bubble,없어봤으니 뭐 아는게 있어야지.,digabung ke ch023_panel_007_02 (satu balon terbelah batas potongan)
+ch023,25,ch023_panel_026_00,dialog_bubble,이상해졌어.,digabung ke ch023_panel_025_02 (satu balon terbelah batas potongan)
+ch023,32,ch023_panel_033_00,dialog_bubble,"그치, 퍽아ㄱ제ㄹ뿌ㄹㄹ: 수원아 ㅋㅋ",digabung ke ch023_panel_032_04 (satu balon terbelah batas potongan)
+ch023,46,ch023_panel_047_00,narration_box,그 자리에서 강제 이별했지.,digabung ke ch023_panel_046_02 (satu balon terbelah batas potongan)
+ch023,65,ch023_panel_066_00,narration_box,결성 되었다.,digabung ke ch023_panel_065_02 (satu balon terbelah batas potongan)
+ch024,68,ch024_panel_069_00,dialog_bubble,ㅋㅋㅋ,digabung ke ch024_panel_068_03 (satu balon terbelah batas potongan)
+ch025,23,ch025_panel_024_00,dialog_bubble,더 싫어지는 거 몰라?,digabung ke ch025_panel_023_02 (satu balon terbelah batas potongan)
+ch028,77,ch028_panel_078_00,dialog_bubble,관심 없지?,digabung ke ch028_panel_077_02 (satu balon terbelah batas potongan)
+ch029,70,ch029_panel_071_00,dialog_bubble,얼빵아!,digabung ke ch029_panel_070_00 (satu balon terbelah batas potongan)
+ch030,1,ch030_panel_002_00,dialog_bubble,나들 잘 생겼잖아?,digabung ke ch030_panel_001_01 (satu balon terbelah batas potongan)
+ch030,14,ch030_panel_015_00,dialog_bubble,ㅋㅋㅋㅋㅋㅋ,digabung ke ch030_panel_014_02 (satu balon terbelah batas potongan)
+ch030,24,ch030_panel_025_00,dialog_bubble,진짜로,digabung ke ch030_panel_024_02 (satu balon terbelah batas potongan)
+ch030,30,ch030_panel_031_00,dialog_bubble,못생겼닥 ㅋㅋㅋㅋㅋ,digabung ke ch030_panel_030_02 (satu balon terbelah batas potongan)
+ch030,43,ch030_panel_044_00,dialog_bubble,1,digabung ke ch030_panel_043_02 (satu balon terbelah batas potongan)
+ch031,9,ch031_panel_010_00,dialog_bubble,"안 간 거냐, , 닌?",digabung ke ch031_panel_009_03 (satu balon terbelah batas potongan)
+ch031,31,ch031_panel_032_00,dialog_bubble,야나!!,digabung ke ch031_panel_031_03 (satu balon terbelah batas potongan)
+ch032,80,ch032_panel_081_00,dialog_bubble,설효림.,digabung ke ch032_panel_080_01 (satu balon terbelah batas potongan)
+ch033,6,ch033_panel_007_00,dialog_bubble,뭐야~?,digabung ke ch033_panel_006_01 (satu balon terbelah batas potongan)
+ch033,7,ch033_panel_008_00,dialog_bubble,이상형이냐?,digabung ke ch033_panel_007_01 (satu balon terbelah batas potongan)
+ch033,22,ch033_panel_023_00,dialog_bubble,누니서ㅈ고시ㅂ 양진수 저렇게 ㅈ랄난 것도 어떻게 보면 그날 때문인데.,digabung ke ch033_panel_022_02 (satu balon terbelah batas potongan)
+ch034,57,ch034_panel_058_00,dialog_bubble,좋았을텐데.,digabung ke ch034_panel_057_04 (satu balon terbelah batas potongan)
+ch035,25,ch035_panel_026_00,dialog_bubble,얼른 끊어~,digabung ke ch035_panel_025_01 (satu balon terbelah batas potongan)
+ch035,55,ch035_panel_056_00,dialog_bubble,이젠 인사도 안 받어.,digabung ke ch035_panel_055_01 (satu balon terbelah batas potongan)
+ch036,10,ch036_panel_011_00,dialog_bubble,터져서 죽겠네 ㅋㅋㅋㅋ,digabung ke ch036_panel_010_02 (satu balon terbelah batas potongan)
+ch036,23,ch036_panel_024_00,dialog_bubble,훨 낫네.,digabung ke ch036_panel_023_02 (satu balon terbelah batas potongan)
+ch036,65,ch036_panel_066_00,dialog_bubble,"어이가 없네, 어이가.",digabung ke ch036_panel_065_02 (satu balon terbelah batas potongan)
+ch037,28,ch037_panel_029_00,dialog_bubble,못하는 붕신새키,digabung ke ch037_panel_028_03 (satu balon terbelah batas potongan)
+ch037,73,ch037_panel_074_00,dialog_bubble,가끔 연락해라. 밖에서 보자.,digabung ke ch037_panel_073_01 (satu balon terbelah batas potongan)
+ch038,11,ch038_panel_012_00,dialog_bubble,친해졌대도 이걸 공유할리는 없는데.,digabung ke ch038_panel_011_02 (satu balon terbelah batas potongan)
+ch038,22,ch038_panel_023_00,dialog_bubble,1ㅆㄴ,digabung ke ch038_panel_022_00 (satu balon terbelah batas potongan)
+ch038,33,ch038_panel_034_00,dialog_bubble,ㅈㄹ이야.,digabung ke ch038_panel_033_02 (satu balon terbelah batas potongan)
+ch038,48,ch038_panel_049_00,dialog_bubble,"희준이한테 처맞는거야, 알어?",digabung ke ch038_panel_048_03 (satu balon terbelah batas potongan)
+ch038,77,ch038_panel_078_00,dialog_bubble,알아서 해.,digabung ke ch038_panel_077_03 (satu balon terbelah batas potongan)
+ch039,42,ch039_panel_043_00,dialog_bubble,"양진수 ㅋ ㅆㅂㄹ아. 난세내,",digabung ke ch039_panel_042_01 (satu balon terbelah batas potongan)
+ch040,13,ch040_panel_014_00,dialog_bubble,누가 누구랑 친구야,digabung ke ch040_panel_013_03 (satu balon terbelah batas potongan)
+ch040,14,ch040_panel_015_00,dialog_bubble,뒤질..,digabung ke ch040_panel_014_03 (satu balon terbelah batas potongan)
+ch040,17,ch040_panel_018_00,dialog_bubble,싸내기를 우리는 게 정상이냐?,digabung ke ch040_panel_017_01 (satu balon terbelah batas potongan)
+ch040,20,ch040_panel_021_00,dialog_bubble,!1 ! ㅂㅅ 저 찌질이 ㅅㄲ를.,digabung ke ch040_panel_020_03 (satu balon terbelah batas potongan)
+ch040,23,ch040_panel_024_00,dialog_bubble,그런 저질스런 말..,digabung ke ch040_panel_023_02 (satu balon terbelah batas potongan)
+ch041,1,ch041_panel_002_00,dialog_bubble,"얘기 좀 하자, 성희준.",digabung ke ch041_panel_001_02 (satu balon terbelah batas potongan)
+ch041,19,ch041_panel_020_00,dialog_bubble,안 봐.,digabung ke ch041_panel_019_02 (satu balon terbelah batas potongan)
+ch041,44,ch041_panel_045_00,dialog_bubble,칭찬으로 듣는 니 정신머리가,digabung ke ch041_panel_044_01 (satu balon terbelah batas potongan)
+ch041,47,ch041_panel_048_00,narration_box,잘 싸우는 건 알았지만,digabung ke ch041_panel_047_01 (satu balon terbelah batas potongan)
+ch043,43,ch043_panel_044_00,dialog_bubble,이 그 ㅅ까!!,digabung ke ch043_panel_043_01 (satu balon terbelah batas potongan)
+ch044,13,ch044_panel_014_00,dialog_bubble,뭐가 있냐.,digabung ke ch044_panel_013_02 (satu balon terbelah batas potongan)
+ch044,42,ch044_panel_043_00,dialog_bubble,주억도 없어그ㅅㄲ.,digabung ke ch044_panel_042_03 (satu balon terbelah batas potongan)
+ch046,40,ch046_panel_041_00,dialog_bubble,반 ㅂㅅ돼서 집 가는 거야.,digabung ke ch046_panel_040_04 (satu balon terbelah batas potongan)
+ch047,4,ch047_panel_005_00,dialog_bubble,소공이 있을 것이지 이게 뭐 하는 거야?,digabung ke ch047_panel_004_01 (satu balon terbelah batas potongan)
+ch047,54,ch047_panel_055_00,dialog_bubble,그래.,digabung ke ch047_panel_054_01 (satu balon terbelah batas potongan)
+ch048,1,ch048_panel_002_00,dialog_bubble,"학교에서 지낸 시간이 있으니까 안 패는 거다, 엉?",digabung ke ch048_panel_001_00 (satu balon terbelah batas potongan)
+ch048,3,ch048_panel_004_00,dialog_bubble,이제 잘 좀 지내자.,digabung ke ch048_panel_003_02 (satu balon terbelah batas potongan)
+ch048,4,ch048_panel_005_00,dialog_bubble,정철규?,digabung ke ch048_panel_004_05 (satu balon terbelah batas potongan)
+ch050,13,ch050_panel_014_00,dialog_bubble,ㅅㄲ들이랑.,digabung ke ch050_panel_013_02 (satu balon terbelah batas potongan)
+ch050,37,ch050_panel_038_00,dialog_bubble,"늘라, 얼 같도 없어~",digabung ke ch050_panel_037_02 (satu balon terbelah batas potongan)
+ch050,53,ch050_panel_054_00,dialog_bubble,구라 안지고 태어나서 본 사람중에 제일 못생겼네,digabung ke ch050_panel_053_01 (satu balon terbelah batas potongan)
+ch050,57,ch050_panel_058_00,dialog_bubble,까,digabung ke ch050_panel_057_02 (satu balon terbelah batas potongan)
+ch052,10,ch052_panel_011_00,dialog_bubble,저러면..?,digabung ke ch052_panel_010_03 (satu balon terbelah batas potongan)
+ch052,11,ch052_panel_012_00,dialog_bubble,그건 맞지.,digabung ke ch052_panel_011_04 (satu balon terbelah batas potongan)
+ch052,69,ch052_panel_070_00,dialog_bubble,어디 다치고 오기만 해봐!!,digabung ke ch052_panel_069_03 (satu balon terbelah batas potongan)
+ch053,68,ch053_panel_069_00,dialog_bubble,맘댕이네 ㅋㅋㅋㅋ,digabung ke ch053_panel_068_03 (satu balon terbelah batas potongan)
+ch054,44,ch054_panel_045_00,dialog_bubble,아니니깐..,digabung ke ch054_panel_044_09 (satu balon terbelah batas potongan)
+ch054,72,ch054_panel_073_00,dialog_bubble,동ㄹ빈이니ㅆ이모 더 노는 건데.,digabung ke ch054_panel_072_01 (satu balon terbelah batas potongan)
+ch055,80,ch055_panel_081_00,dialog_bubble,ㄹ끄 ㄴㄴ 그 누구야 진짜..,digabung ke ch055_panel_080_00 (satu balon terbelah batas potongan)
+ch056,64,ch056_panel_065_00,dialog_bubble,"영님, 와 푸세요 제발..",digabung ke ch056_panel_064_03 (satu balon terbelah batas potongan)
+ch056,75,ch056_panel_076_00,narration_box,쉽게 풀리긴 할텐데..,digabung ke ch056_panel_075_02 (satu balon terbelah batas potongan)
+ch056,79,ch056_panel_080_00,dialog_bubble,뭐야!!,digabung ke ch056_panel_079_01 (satu balon terbelah batas potongan)
+ch057,37,ch057_panel_038_00,dialog_bubble,이모데 가서 자고 온대서.,digabung ke ch057_panel_037_01 (satu balon terbelah batas potongan)
+ch057,46,ch057_panel_047_00,dialog_bubble,이거만 했나..,digabung ke ch057_panel_046_01 (satu balon terbelah batas potongan)
+ch058,31,ch058_panel_032_00,dialog_bubble,... 그냥 피워.,digabung ke ch058_panel_031_01 (satu balon terbelah batas potongan)
+ch058,60,ch058_panel_061_00,dialog_bubble,이 먼 곳까지 왔구나..,digabung ke ch058_panel_060_01 (satu balon terbelah batas potongan)
+ch059,23,ch059_panel_024_00,dialog_bubble,후후후,digabung ke ch059_panel_023_03 (satu balon terbelah batas potongan)
+ch059,50,ch059_panel_051_00,dialog_bubble,남진얼굴 봤었는네,digabung ke ch059_panel_050_03 (satu balon terbelah batas potongan)
+ch060,9,ch060_panel_010_00,dialog_bubble,이공게 웃통까고 조져줘야 제맛이지.,digabung ke ch060_panel_009_02 (satu balon terbelah batas potongan)
+ch060,15,ch060_panel_016_00,dialog_bubble,땀에 쩔었어..,digabung ke ch060_panel_015_02 (satu balon terbelah batas potongan)
+ch060,23,ch060_panel_024_00,dialog_bubble,한명도 없는데.,digabung ke ch060_panel_023_02 (satu balon terbelah batas potongan)
+ch060,25,ch060_panel_026_00,dialog_bubble,옥시제각k놈 빌려줄 수 있어?,digabung ke ch060_panel_025_04 (satu balon terbelah batas potongan)
+ch060,36,ch060_panel_037_00,dialog_bubble,가져다줄까?,digabung ke ch060_panel_036_02 (satu balon terbelah batas potongan)
+ch060,69,ch060_panel_070_00,dialog_bubble,불편했어요~,digabung ke ch060_panel_069_04 (satu balon terbelah batas potongan)
+ch060,73,ch060_panel_074_00,dialog_bubble,ㄹㅋ;ㄹ아ㄹ 좀 그래. 심란할 텐데.,digabung ke ch060_panel_073_02 (satu balon terbelah batas potongan)
+ch024,10,ch024_panel_011_00,narration_box,내가 평계를 만들어서,digabung ke ch024_panel_010_03 (satu caption dua baris)
+ch036,71,ch036_panel_072_00,narration_box,해코지할게 뻔해.,digabung ke ch036_panel_071_02 (satu caption dua baris)
+ch037,34,ch037_panel_035_00,narration_box,떠나모내긴 아밉지만,digabung ke ch037_panel_034_02 (satu caption dua baris)
+ch047,80,ch047_panel_081_00,narration_box,정철규들,digabung ke ch047_panel_080_02 (satu caption dua baris)
+ch028,46,ch028_panel_047_00,dialog_bubble,제발 좀..!!,digabung ke ch028_panel_046_03 (satu balon terbelah; label bertentangan: 설효림 vs 설민수 (sementara dipakai label pertama))
+ch029,80,ch029_panel_081_00,narration_box,아니겠지..?,digabung ke ch029_panel_080_03 (satu balon terbelah; label bertentangan: 지수원 vs 박동 (sementara dipakai label pertama))
+ch009,28,ch009_panel_029_07,narration_box,시간문제.,"digabung ke ch009_panel_029_05 (satu balon/caption, terdeteksi per baris)"
+ch014,8,ch014_panel_009_02,narration_box,숨길 수가 없어.,"digabung ke ch014_panel_009_00 (satu balon/caption, terdeteksi per baris)"
+ch017,9,ch017_panel_010_02,narration_box,근ㅆ ㅁㅋㄴ 인사를 나누는 사이가 되었다.,"digabung ke ch017_panel_010_05 (satu balon/caption, terdeteksi per baris)"
+ch021,15,ch021_panel_016_05,narration_box,만드니까.,"digabung ke ch021_panel_016_02 (satu balon/caption, terdeteksi per baris)"
+ch024,54,ch024_panel_055_02,narration_box,드는데..,"digabung ke ch024_panel_055_00 (satu balon/caption, terdeteksi per baris)"
+ch032,59,ch032_panel_060_02,narration_box,까라고 하길래,"digabung ke ch032_panel_060_00 (satu balon/caption, terdeteksi per baris)"
+ch035,16,ch035_panel_017_03,narration_box,흘러가지?!,"digabung ke ch035_panel_017_01 (satu balon/caption, terdeteksi per baris)"
+ch037,2,ch037_panel_003_02,narration_box,있던거야,"digabung ke ch037_panel_003_01 (satu balon/caption, terdeteksi per baris)"
+ch037,51,ch037_panel_052_02,narration_box,없다는 것.,"digabung ke ch037_panel_052_00 (satu balon/caption, terdeteksi per baris)"
+ch037,51,ch037_panel_052_04,narration_box,깨지 않았는데,"digabung ke ch037_panel_052_03 (satu balon/caption, terdeteksi per baris)"
+ch051,41,ch051_panel_042_02,narration_box,내 안의 울분을,"digabung ke ch051_panel_042_00 (satu balon/caption, terdeteksi per baris)"
+ch056,71,ch056_panel_072_02,narration_box,한 번도 진짜로 때린 적 없었,"digabung ke ch056_panel_072_00 (satu balon/caption, terdeteksi per baris)"
 ch006,2,ch006_panel_003_06,dialog_bubble,뒤즐르? 그스ㄲ야?,duplikat dari ch006_panel_003_05
 ch006,2,ch006_panel_003_07,dialog_bubble,X밥 새..,duplikat dari ch006_panel_003_05
 ch007,1,ch007_panel_002_02,dialog_bubble,삼십..이..,duplikat dari ch007_panel_002_02 (diganti teks lebih lengkap dari ch007_panel_002_03)
@@ -138,8 +394,8 @@ ch016,52,ch016_panel_053_02,narration_box,다치던 순간의 나는,duplikat da
 ch016,53,ch016_panel_054_03,narration_box,그 많은 인파 속에서,duplikat dari ch016_panel_054_02
 ch016,53,ch016_panel_054_01,narration_box,나를 발견해 준 양진수도,duplikat dari ch016_panel_054_02
 ch016,54,ch016_panel_055_00,narration_box,적절히 판을 만들어준,duplikat dari ch016_panel_055_00 (diganti teks lebih lengkap dari ch016_panel_055_01)
-ch017,9,ch017_panel_010_03,narration_box,설효림과는 인사를 나누는 사이가 되었다.,duplikat dari ch017_panel_010_02
-ch017,9,ch017_panel_010_04,narration_box,사를 나누는 사이가 되었다.,duplikat dari ch017_panel_010_02
+ch017,9,ch017_panel_010_05,narration_box,설효림과는 인사를 나누는 사이가 되었다.,duplikat dari ch017_panel_010_03
+ch017,9,ch017_panel_010_04,narration_box,사를 나누는 사이가 되었다.,duplikat dari ch017_panel_010_03
 ch017,14,ch017_panel_015_01,narration_box,뭔가 싹트는 전개는,duplikat dari ch017_panel_015_01 (diganti teks lebih lengkap dari ch017_panel_015_02)
 ch017,41,ch017_panel_042_04,narration_box,중학교 때였으면,duplikat dari ch017_panel_042_01
 ch017,41,ch017_panel_042_05,narration_box,발상조차 안 해봤을 일이었다.,duplikat dari ch017_panel_042_01
@@ -194,7 +450,7 @@ ch024,31,ch024_panel_032_01,narration_box,투덜댈땐 언제고..,duplikat dari
 ch024,32,ch024_panel_033_02,narration_box,"나왔다, 박동의",duplikat dari ch024_panel_033_01
 ch024,33,ch024_panel_034_01,narration_box,이렇게 힘주고 들어갈,duplikat dari ch024_panel_034_00
 ch024,48,ch024_panel_049_03,narration_box,박동은 계속,duplikat dari ch024_panel_049_00
-ch024,48,ch024_panel_049_02,narration_box,진수를 설효림에게 밀어주려,duplikat dari ch024_panel_049_01
+ch024,48,ch024_panel_049_02,narration_box,진수를 설효림에게 밀어주려,duplikat dari ch024_panel_049_00
 ch024,53,ch024_panel_054_02,narration_box,단순히,duplikat dari ch024_panel_054_00
 ch024,53,ch024_panel_054_01,narration_box,타이딩이 어긋난 거라기엔,duplikat dari ch024_panel_054_00
 ch024,54,ch024_panel_055_01,narration_box,뭔가 일부러 피하는 느낌이,duplikat dari ch024_panel_055_00
@@ -215,7 +471,7 @@ ch025,46,ch025_panel_047_06,narration_box,서 저 웬수 커플의 알콩달콩�
 ch025,54,ch025_panel_055_00,narration_box,알고보면 좋은점도,duplikat dari ch025_panel_055_00 (diganti teks lebih lengkap dari ch025_panel_055_01)
 ch025,54,ch025_panel_055_02,narration_box,알고보면 좋은점도 있는 노이데,duplikat dari ch025_panel_055_00
 ch026,8,ch026_panel_009_01,dialog_bubble,괜찮냐?,duplikat dari ch026_panel_009_00
-ch026,9,ch026_panel_010_01,narration_box,어쩌면,duplikat dari ch026_panel_010_01 (diganti teks lebih lengkap dari ch026_panel_010_00)
+ch026,9,ch026_panel_010_00,narration_box,어쩌면 처음본 그 순간부터,duplikat dari ch026_panel_010_01
 ch026,14,ch026_panel_015_04,dialog_bubble,맞는 말이지.,duplikat dari ch026_panel_015_03
 ch026,44,ch026_panel_045_02,dialog_bubble,부정타게 ㅅㅂ,duplikat dari ch026_panel_045_01
 ch026,60,ch026_panel_061_02,narration_box,01X- 양진수,duplikat dari ch026_panel_061_01
@@ -339,7 +595,7 @@ ch036,47,ch036_panel_048_03,dialog_bubble,안 했네?,duplikat dari ch036_panel_
 ch036,53,ch036_panel_054_03,narration_box,이 ㅆㅂㅆㄲ...!!,duplikat dari ch036_panel_054_02
 ch036,63,ch036_panel_064_01,narration_box,호구 취급받으면서,duplikat dari ch036_panel_064_01 (diganti teks lebih lengkap dari ch036_panel_064_02)
 ch036,63,ch036_panel_064_03,narration_box,호구 취급받으면서 있어야 하나..?,duplikat dari ch036_panel_064_01
-ch037,3,ch037_panel_004_00,narration_box,... 있던거야.,duplikat dari ch037_panel_003_02
+ch037,3,ch037_panel_004_00,narration_box,... 있던거야.,duplikat dari ch037_panel_003_01
 ch037,3,ch037_panel_004_03,narration_box,나차일 때,duplikat dari ch037_panel_004_01
 ch037,3,ch037_panel_004_02,narration_box,속으로 얼마나 비웃었을까?,duplikat dari ch037_panel_004_01
 ch037,20,ch037_panel_021_01,narration_box,"장하다, 지수원..!! 떡볶이 코트 입고 다니던 때",duplikat dari ch037_panel_021_01 (diganti teks lebih lengkap dari ch037_panel_021_02)
@@ -354,8 +610,8 @@ ch037,35,ch037_panel_036_11,narration_box,만약 여자애들이나 샘들한테
 ch037,35,ch037_panel_036_12,narration_box,걸리기라도 해봐.,duplikat dari ch037_panel_036_10
 ch037,40,ch037_panel_041_02,dialog_bubble,어.. 어어..,duplikat dari ch037_panel_041_01
 ch037,49,ch037_panel_050_00,dialog_bubble,얘 학교 못 다닌다. 다녀도 개판일게 뻔하고.,duplikat dari ch037_panel_050_00 (diganti teks lebih lengkap dari ch037_panel_050_01)
-ch037,51,ch037_panel_052_00,narration_box,우리 반 밖으로는 가져갈 수 그1,duplikat dari ch037_panel_052_00 (diganti teks lebih lengkap dari ch037_panel_052_01)
-ch037,52,ch037_panel_053_00,narration_box,... 깨지 않았는데,duplikat dari ch037_panel_052_04
+ch037,51,ch037_panel_052_01,narration_box,우리 반 밖으로는 가져갈 수 없다는 것.,duplikat dari ch037_panel_052_00
+ch037,52,ch037_panel_053_00,narration_box,... 깨지 않았는데,duplikat dari ch037_panel_052_03
 ch037,56,ch037_panel_057_01,narration_box,어떡하지? 어떡하지? 어떡하지?,duplikat dari ch037_panel_057_00
 ch037,56,ch037_panel_057_02,narration_box,어떡하지?,duplikat dari ch037_panel_057_00
 ch037,56,ch037_panel_057_03,narration_box,어떡하지?,duplikat dari ch037_panel_057_00
@@ -381,7 +637,6 @@ ch039,40,ch039_panel_041_03,dialog_bubble,아..아냐 그냥 장난이야 ㅋ;,d
 ch039,45,ch039_panel_046_01,dialog_bubble,"너랑도 풀거 있잖아,",duplikat dari ch039_panel_046_00
 ch039,52,ch039_panel_053_01,dialog_bubble,..그만해 좀 ㅆㅂ,duplikat dari ch039_panel_053_00
 ch039,74,ch039_panel_075_01,dialog_bubble,뚫린 입이라고.,duplikat dari ch039_panel_075_02
-ch040,1,ch040_panel_002_01,narration_box,글/그림 혀노,duplikat dari ch040_panel_002_00
 ch040,27,ch040_panel_028_02,narration_box,아니 확신이 선다.,duplikat dari ch040_panel_028_01
 ch040,38,ch040_panel_039_02,dialog_bubble,"보긴 뭘 봐, 거울이나 봐",duplikat dari ch040_panel_039_01
 ch040,58,ch040_panel_059_03,dialog_bubble,언제적이야,duplikat dari ch040_panel_059_02
@@ -396,7 +651,7 @@ ch041,15,ch041_panel_016_01,dialog_bubble,아가리 다쳐라,duplikat dari ch04
 ch041,28,ch041_panel_029_00,dialog_bubble,ㅆㅂ롬아 뒤질래?,duplikat dari ch041_panel_029_01
 ch041,41,ch041_panel_042_01,dialog_bubble,크륵,duplikat dari ch041_panel_042_00
 ch041,41,ch041_panel_042_04,dialog_bubble,내가 착한게 아니라..,duplikat dari ch041_panel_042_03
-ch041,44,ch041_panel_045_01,dialog_bubble,칭찬으로 듣는 니 정신머리가,duplikat dari ch041_panel_045_00
+ch041,44,ch041_panel_045_01,dialog_bubble,칭찬으로 듣는 니 정신머리가,duplikat dari ch041_panel_044_01
 ch041,50,ch041_panel_051_03,narration_box,왜 구경만 했냐고,duplikat dari ch041_panel_051_01
 ch041,50,ch041_panel_051_00,narration_box,ㅈㄹ할 가능성도 있어.,duplikat dari ch041_panel_051_01
 ch041,50,ch041_panel_051_04,narration_box,ㅅㄹ할 가능성도 있어.,duplikat dari ch041_panel_051_01
@@ -431,8 +686,7 @@ ch044,22,ch044_panel_023_00,dialog_bubble,... 모여있네.,duplikat dari ch044_
 ch044,25,ch044_panel_026_02,narration_box,안됐 다고,duplikat dari ch044_panel_026_01
 ch044,30,ch044_panel_031_00,narration_box,얘네 무슨 맞짱 같은 거,duplikat dari ch044_panel_031_00 (diganti teks lebih lengkap dari ch044_panel_031_01)
 ch044,30,ch044_panel_031_02,narration_box,얘네 무슨 맞짱 같은 거 ㄸ려가?,duplikat dari ch044_panel_031_00
-ch044,31,ch044_panel_032_04,narration_box,"대체 뭐야,",duplikat dari ch044_panel_032_03
-ch044,31,ch044_panel_032_02,narration_box,죽으러 가는 사람처럼..,duplikat dari ch044_panel_032_01
+ch044,31,ch044_panel_032_04,narration_box,"대체 뭐야,",duplikat dari ch044_panel_032_04 (diganti teks lebih lengkap dari ch044_panel_032_01)
 ch044,35,ch044_panel_036_02,narration_box,막상 눈앞에,duplikat dari ch044_panel_036_01
 ch044,35,ch044_panel_036_00,narration_box,마주하고 나니,duplikat dari ch044_panel_036_01
 ch044,36,ch044_panel_037_01,narration_box,니들 편한 대로 짜봐,duplikat dari ch044_panel_037_00
@@ -458,7 +712,6 @@ ch046,54,ch046_panel_055_01,dialog_bubble,ㅋㅋㅋ,duplikat dari ch046_panel_05
 ch046,54,ch046_panel_055_02,dialog_bubble,ㅋㅋㅋ,duplikat dari ch046_panel_055_00
 ch046,55,ch046_panel_056_02,dialog_bubble,한 대.,duplikat dari ch046_panel_056_01
 ch046,60,ch046_panel_061_00,dialog_bubble,ㅆㅂ!!,duplikat dari ch046_panel_061_01
-ch047,2,ch047_panel_003_04,narration_box,글/그림 혀노,duplikat dari ch047_panel_003_03
 ch047,9,ch047_panel_010_03,dialog_bubble,왜케 전화를 안 발아!! 어디냐?,duplikat dari ch047_panel_010_02
 ch047,50,ch047_panel_051_03,narration_box,저놈들을,duplikat dari ch047_panel_051_03 (diganti teks lebih lengkap dari ch047_panel_051_02)
 ch047,70,ch047_panel_071_02,dialog_bubble,왜 쪼개,duplikat dari ch047_panel_071_02 (diganti teks lebih lengkap dari ch047_panel_071_01)
@@ -547,10 +800,9 @@ ch054,43,ch054_panel_044_02,narration_box,보낸이: 지수원,duplikat dari ch0
 ch054,43,ch054_panel_044_03,narration_box,보낸이: 지수원,duplikat dari ch054_panel_044_00
 ch054,44,ch054_panel_045_02,narration_box,근뭔 !그ㅋ— 런 식으로 날려버릴 정도로,duplikat dari ch054_panel_045_01
 ch054,44,ch054_panel_045_03,narration_box,어필할 기회조차,duplikat dari ch054_panel_045_01
-ch054,56,ch054_panel_057_00,narration_box,그동안 학교에서,duplikat dari ch054_panel_057_00 (diganti teks lebih lengkap dari ch054_panel_057_01)
+ch054,56,ch054_panel_057_01,narration_box,그동안 학교에서 얼콱 스쳐가던 설효림에 대한,duplikat dari ch054_panel_057_00
 ch054,56,ch054_panel_057_04,narration_box,그동안 학교에서,duplikat dari ch054_panel_057_00
-ch054,56,ch054_panel_057_03,narration_box,스쳐가던 설효림에 대한,duplikat dari ch054_panel_057_02
-ch054,56,ch054_panel_057_05,narration_box,얼럿 스져가던 설효림에 대한,duplikat dari ch054_panel_057_02
+ch054,56,ch054_panel_057_03,narration_box,스쳐가던 설효림에 대한,duplikat dari ch054_panel_057_03 (diganti teks lebih lengkap dari ch054_panel_057_05)
 ch054,57,ch054_panel_058_04,narration_box,내 궁금증을,duplikat dari ch054_panel_058_01
 ch054,57,ch054_panel_058_00,narration_box,하나하나 풀어가는 날이었다.,duplikat dari ch054_panel_058_01
 ch054,57,ch054_panel_058_02,narration_box,하나하나 풀어가는 날이었,duplikat dari ch054_panel_058_01
@@ -589,10 +841,9 @@ ch056,35,ch056_panel_036_03,dialog_bubble,어머 미안:,duplikat dari ch056_pan
 ch056,35,ch056_panel_036_01,dialog_bubble,어머 미안; ㅋㅋㅋ,duplikat dari ch056_panel_036_02
 ch056,64,ch056_panel_065_03,dialog_bubble,예...!?,duplikat dari ch056_panel_065_02
 ch056,71,ch056_panel_072_01,narration_box,수많은 장난을 치면서,duplikat dari ch056_panel_072_00
-ch056,71,ch056_panel_072_03,narration_box,도 진짜로 때린 적 없었는데..,duplikat dari ch056_panel_072_02
+ch056,71,ch056_panel_072_03,narration_box,도 진짜로 때린 적 없었는데..,duplikat dari ch056_panel_072_00
 ch056,73,ch056_panel_074_02,dialog_bubble,그래야겠다 ㅅㅂ 에휴,duplikat dari ch056_panel_074_01
 ch056,81,ch056_panel_082_00,narration_box,그러고 보니 왠지,duplikat dari ch056_panel_082_00 (diganti teks lebih lengkap dari ch056_panel_082_01)
-ch057,0,ch057_panel_001_01,narration_box,#23#,duplikat dari ch057_panel_001_00
 ch057,11,ch057_panel_012_01,narration_box,홍애라,duplikat dari ch057_panel_012_00
 ch057,35,ch057_panel_036_03,dialog_bubble,좋겠다~,duplikat dari ch057_panel_036_02
 ch057,41,ch057_panel_042_03,dialog_bubble,망할!!!,duplikat dari ch057_panel_042_02
@@ -600,7 +851,6 @@ ch057,44,ch057_panel_045_03,dialog_bubble,고전게임 다운받는종,duplikat 
 ch058,13,ch058_panel_014_02,dialog_bubble,"어쩌다 핀 거야, 어제ㅂ터?",duplikat dari ch058_panel_014_01
 ch058,39,ch058_panel_040_02,dialog_bubble,그치? 수원쓰 흐접쓰?,duplikat dari ch058_panel_040_03
 ch058,61,ch058_panel_062_03,narration_box,성인만화 그렸던,duplikat dari ch058_panel_062_02
-ch059,15,ch059_panel_016_02,narration_box,US 6 임진국 작가님,duplikat dari ch059_panel_016_01
 ch059,30,ch059_panel_031_01,narration_box,화장실 가는중,duplikat dari ch059_panel_031_00
 ch059,34,ch059_panel_035_00,narration_box,짧은 머리 여자애가,duplikat dari ch059_panel_035_00 (diganti teks lebih lengkap dari ch059_panel_035_01)
 ch059,41,ch059_panel_042_01,dialog_bubble,"담배 끊었어, 없어.",duplikat dari ch059_panel_042_00

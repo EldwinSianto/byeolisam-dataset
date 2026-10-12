@@ -1,14 +1,14 @@
 # Park Dong (박동)
 
 ## Kemunculan
-- Total **1130 teks** di **50 chapter** (ch007 – ch060)
-- Per chapter (ch006 → ch060): ` ▃▄▂▃▁▁   ▃▄▃▄▅▁▃▅▆▆▄▂▂▂▃▂▆▅ ▃▃▃▄▂▂▁▅▅▄▁▃▁▂▃▁▄▃▅▂▁█▄▅▆▂`
-- Chapter tersibuk: ch056 (58), ch024 (48), ch059 (47)
+- Total **1098 teks** di **50 chapter** (ch007 – ch060)
+- Per chapter (ch006 → ch060): ` ▃▄▂▃▁▁   ▃▄▃▄▅▂▃▅▆▆▄▂▂▂▃▂▆▆ ▃▃▃▄▂▂▁▅▅▄▁▃▁▂▃▁▄▃▆▂▁█▄▅▆▂`
+- Chapter tersibuk: ch056 (54), ch024 (46), ch059 (46)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 944 | 179 | 3 | 4 |
+| 919 | 173 | 2 | 4 |
 
 Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,17 +16,17 @@ Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 13.9 | 12.6 |  |
-| % sopan | 3.6 | 2.9 |  |
-| % tanya | 22.6 | 23.8 |  |
-| % seru | 13.0 | 14.3 |  |
-| % ragu (...) | 21.9 | 23.1 |  |
-| % ㅋ/ㅎ | 5.6 | 8.0 |  |
-| % makian | 13.7 | 6.9 | ⬆ jauh lebih tinggi |
+| panjang | 14.3 | 12.9 |  |
+| % sopan | 3.5 | 3.0 |  |
+| % tanya | 23.1 | 24.4 |  |
+| % seru | 13.1 | 14.4 |  |
+| % ragu (...) | 22.4 | 23.7 |  |
+| % ㅋ/ㅎ | 5.6 | 8.2 |  |
+| % makian | 14.1 | 7.0 | ⬆ jauh lebih tinggi |
 
 ## Kata khas (dibanding tokoh lain)
 
-**키** (19×), **붕** (15×), **신** (15×), **새꺄** (14×), **새키** (9×), **키다** (6×), **머리** (19×), **앉다** (7×), **예** (7×), **꼭** (6×), **사다** (11×), **먹이다** (4×), **설효** (19×), **돌리다** (5×), **지금** (13×)
+**키** (19×), **붕** (15×), **신** (15×), **새꺄** (14×), **새키** (9×), **키다** (6×), **머리** (19×), **앉다** (7×), **예** (7×), **꼭** (6×), **사다** (11×), **설효** (19×), **먹이다** (4×), **돌리다** (5×), **지금** (13×)
 
 Contoh ucapan:
 
@@ -40,10 +40,10 @@ Contoh ucapan:
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
 | Yang Jinsu | 166 | 1% |
-| Ji Suwon | 143 | 2% |
+| Ji Suwon | 141 | 2% |
 | Seol Hyorim | 62 | 3% |
-| Lee Rina | 58 | 2% |
-| Lee Daegyu | 42 | 2% |
+| Lee Rina | 57 | 2% |
+| Lee Daegyu | 41 | 0% |
 | Sung Huijun | 39 | 5% |
 
 Yang bicara sopan kepadanya: Jung Cheolgyu 4%, Sung Huijun 2%, Seol Hyorim 2%, Yang Jinsu 2%, Lee Rina 2%
@@ -53,17 +53,17 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 13.9 | 12.2 |
-| % sopan | 3.6 | 1.7 |
-| % tanya | 22.6 | 8.9 |
-| % seru | 13.0 | 5.6 |
-| % ragu (...) | 21.9 | 34.1 |
+| panjang | 14.3 | 12.4 |
+| % sopan | 3.5 | 1.2 |
+| % tanya | 23.1 | 8.7 |
+| % seru | 13.1 | 5.8 |
+| % ragu (...) | 22.4 | 35.3 |
 | % ㅋ/ㅎ | 5.6 | 0.0 |
-| % makian | 13.7 | 5.6 |
+| % makian | 14.1 | 5.8 |
 
-Kata yang muncul di **pikiran** tapi jarang diucapkan: **같다** (9×), **쪽팔리다** (3×), **역시** (4×), **쓰다** (3×), **신경** (3×), **끝나다** (3×), **설효** (7×), **이상** (3×), **좋다** (5×), **친구** (4×), **치다** (3×)
+Kata yang muncul di **pikiran** tapi jarang diucapkan: **같다** (9×), **쪽팔리다** (3×), **역시** (4×), **쓰다** (3×), **신경** (3×), **끝나다** (3×), **설효** (7×), **좋다** (5×), **친구** (4×), **이상** (3×), **치다** (3×), **사람** (3×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **야** (49×), **아** (55×), **가다** (44×), **키** (19×), **더** (14×), **새꺄** (14×), **하다** (94×), **사다** (11×), **자르다** (10×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **야** (49×), **아** (55×), **가다** (44×), **하다** (94×), **키** (19×), **더** (14×), **새꺄** (14×), **사다** (11×), **자르다** (10×)
 
 Contoh pikiran:
 

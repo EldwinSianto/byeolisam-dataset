@@ -1,28 +1,28 @@
 # anon_c009 (anon_c009)
 
 ## Kemunculan
-- Total **51 teks** di **3 chapter** (ch013 – ch015)
+- Total **49 teks** di **3 chapter** (ch013 – ch015)
 - Per chapter (ch006 → ch060): `       ▁█▅                                             `
-- Chapter tersibuk: ch014 (29), ch015 (20), ch013 (2)
+- Chapter tersibuk: ch014 (28), ch015 (19), ch013 (2)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 38 | 13 | 0 | 0 |
+| 38 | 11 | 0 | 0 |
 
-Porsi pikiran **25%** → kemungkinan tokoh sudut pandang (POV).
+Porsi pikiran **22%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 11.0 | 12.6 |  |
-| % sopan | 2.6 | 2.9 |  |
-| % tanya | 34.2 | 23.8 |  |
-| % seru | 18.4 | 14.3 |  |
-| % ragu (...) | 26.3 | 23.1 |  |
-| % ㅋ/ㅎ | 5.3 | 8.0 |  |
-| % makian | 5.3 | 6.9 |  |
+| panjang | 11.0 | 12.9 |  |
+| % sopan | 2.6 | 3.0 |  |
+| % tanya | 34.2 | 24.4 |  |
+| % seru | 18.4 | 14.4 |  |
+| % ragu (...) | 26.3 | 23.7 |  |
+| % ㅋ/ㅎ | 5.3 | 8.2 |  |
+| % makian | 5.3 | 7.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 

@@ -1,14 +1,14 @@
 # Sung Huijun (성희준)
 
 ## Kemunculan
-- Total **313 teks** di **18 chapter** (ch019 – ch059)
+- Total **307 teks** di **18 chapter** (ch019 – ch059)
 - Per chapter (ch006 → ch060): `             ▃▁     ▁▁▁▃  ▃     ▁▁▃▅▃▁ ▁▁▁█          ▁ `
-- Chapter tersibuk: ch048 (76), ch041 (50), ch032 (29)
+- Chapter tersibuk: ch048 (76), ch041 (47), ch032 (28)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 261 | 50 | 0 | 2 |
+| 255 | 50 | 0 | 2 |
 
 Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,17 +16,17 @@ Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.6 | 12.6 |  |
-| % sopan | 3.1 | 2.9 |  |
-| % tanya | 22.2 | 23.8 |  |
-| % seru | 10.7 | 14.3 |  |
-| % ragu (...) | 24.1 | 23.1 |  |
-| % ㅋ/ㅎ | 8.8 | 8.0 |  |
-| % makian | 5.0 | 6.9 |  |
+| panjang | 14.9 | 12.9 |  |
+| % sopan | 3.1 | 3.0 |  |
+| % tanya | 22.7 | 24.4 |  |
+| % seru | 11.0 | 14.4 |  |
+| % ragu (...) | 24.7 | 23.7 |  |
+| % ㅋ/ㅎ | 9.0 | 8.2 |  |
+| % makian | 5.1 | 7.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
-**친구** (14×), **정신** (4×), **발** (6×), **형** (7×), **마시다** (4×), **철규** (6×), **그래** (9×), **그러다** (7×), **친하다** (5×), **싸우다** (6×), **알다** (14×), **나가다** (4×), **얘기** (4×), **아냐** (4×), **집** (4×)
+**친구** (14×), **정신** (4×), **발** (6×), **마시다** (4×), **형** (6×), **철규** (6×), **그래** (9×), **그러다** (7×), **친하다** (5×), **싸우다** (6×), **알다** (14×), **나가다** (4×), **얘기** (4×), **아냐** (4×), **집** (4×)
 
 Contoh ucapan:
 
@@ -39,8 +39,8 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Park Dong | 41 | 2% |
-| Jung Cheolgyu | 33 | 3% |
+| Park Dong | 40 | 2% |
+| Jung Cheolgyu | 32 | 3% |
 | Yang Jinsu | 30 | 0% |
 | Jo Uri | 20 | 0% |
 | Ji Suwon | 15 | 0% |
@@ -53,17 +53,17 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 14.6 | 13.5 |
+| panjang | 14.9 | 13.5 |
 | % sopan | 3.1 | 0.0 |
-| % tanya | 22.2 | 2.0 |
-| % seru | 10.7 | 0.0 |
-| % ragu (...) | 24.1 | 6.0 |
-| % ㅋ/ㅎ | 8.8 | 0.0 |
-| % makian | 5.0 | 4.0 |
+| % tanya | 22.7 | 2.0 |
+| % seru | 11.0 | 0.0 |
+| % ragu (...) | 24.7 | 6.0 |
+| % ㅋ/ㅎ | 9.0 | 0.0 |
+| % makian | 5.1 | 4.0 |
 
 Kata yang muncul di **pikiran** tapi jarang diucapkan: **애** (8×), **철규** (9×), **중** (3×), **싫다** (3×), **더** (3×), **눈빛** (4×), **때** (4×), **되다** (4×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **친구** (14×), **그래** (9×), **아** (16×), **왜** (13×), **안** (19×), **형** (7×), **그러다** (7×), **발** (6×), **알다** (14×), **진짜** (9×), **싸우다** (6×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **친구** (14×), **그래** (9×), **아** (16×), **왜** (13×), **안** (19×), **그러다** (7×), **발** (6×), **형** (6×), **알다** (14×), **진짜** (9×), **싸우다** (6×)
 
 Contoh pikiran:
 

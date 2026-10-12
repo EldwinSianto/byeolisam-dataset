@@ -1,32 +1,32 @@
 # Lee Rina (이리나)
 
 ## Kemunculan
-- Total **373 teks** di **29 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▄    ▃▂▃▁▁▂▁   ▁▃▂▂  ▁  ▃  ▁ ▂▂▁          ▁▂▁  ▁▄▂▆▃▂▂█`
-- Chapter tersibuk: ch060 (53), ch056 (41), ch054 (27)
+- Total **354 teks** di **29 chapter** (ch006 – ch060)
+- Per chapter (ch006 → ch060): `▄    ▃▂▃▁▁▃▁   ▁▃▂▂  ▁  ▃  ▁ ▂▂▁          ▁▂▁  ▁▄▂▆▃▂▂█`
+- Chapter tersibuk: ch060 (48), ch056 (41), ch054 (25)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 365 | 6 | 2 | 0 |
+| 347 | 5 | 2 | 0 |
 
-Porsi pikiran **2%** → jarang terlihat isi pikirannya.
+Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 13.1 | 12.6 |  |
-| % sopan | 1.9 | 2.9 |  |
-| % tanya | 28.3 | 23.8 |  |
-| % seru | 24.0 | 14.3 | ⬆ jauh lebih tinggi |
-| % ragu (...) | 9.8 | 23.1 | ⬇ jauh lebih rendah |
-| % ㅋ/ㅎ | 12.5 | 8.0 | ⬆ jauh lebih tinggi |
-| % makian | 2.2 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 13.7 | 12.9 |  |
+| % sopan | 2.0 | 3.0 |  |
+| % tanya | 29.5 | 24.4 |  |
+| % seru | 24.6 | 14.4 | ⬆ jauh lebih tinggi |
+| % ragu (...) | 10.3 | 23.7 | ⬇ jauh lebih rendah |
+| % ㅋ/ㅎ | 13.2 | 8.2 | ⬆ jauh lebih tinggi |
+| % makian | 2.3 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
-**수원** (17×), **후** (7×), **타다** (7×), **체육복** (7×), **어떡하다** (6×), **웅** (4×), **빌리다** (6×), **따르다** (4×), **진경** (5×), **허세** (4×), **효림** (4×), **부르다** (6×), **다음** (4×), **좋아하다** (9×), **쓰다** (8×)
+**수원** (17×), **후** (7×), **타다** (7×), **체육복** (7×), **어떡하다** (6×), **빌리다** (6×), **웅** (4×), **따르다** (4×), **진경** (5×), **허세** (4×), **효림** (4×), **부르다** (6×), **다음** (4×), **좋아하다** (9×), **쓰다** (8×)
 
 Contoh ucapan:
 
@@ -39,10 +39,10 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Seol Hyorim | 73 | 3% |
-| Park Dong | 55 | 2% |
+| Seol Hyorim | 70 | 3% |
+| Park Dong | 53 | 2% |
 | Kim Jingyeong | 52 | 0% |
-| Yang Jinsu | 29 | 0% |
+| Yang Jinsu | 27 | 0% |
 | Ji Suwon | 18 | 0% |
 | Kim Gwangun | 14 | 7% |
 

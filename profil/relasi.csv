@@ -14,7 +14,7 @@ anon_c025,양진수,4,anon_c025,Yang Jinsu
 anon_c025,지수원,8,anon_c025,Ji Suwon
 anon_c040,양진수,1,anon_c040,Yang Jinsu
 anon_c045,정철규,7,anon_c045,Jung Cheolgyu
-anon_c046,설효림,5,anon_c046,Seol Hyorim
+anon_c046,설효림,4,anon_c046,Seol Hyorim
 anon_c053,박동,7,anon_c053,Park Dong
 anon_c053,양진수,9,anon_c053,Yang Jinsu
 anon_c074,김광운,5,anon_c074,Kim Gwangun
@@ -35,7 +35,7 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 강혁,박동,7,Kang Hyeok,Park Dong
 강혁,양진수,8,Kang Hyeok,Yang Jinsu
 강혁,이창범,1,Kang Hyeok,Lee Changbeom
-강혁,임용진,26,Kang Hyeok,Lim Yongjin
+강혁,임용진,24,Kang Hyeok,Lim Yongjin
 강혁,정철규,2,Kang Hyeok,Jung Cheolgyu
 강혁,지수원,7,Kang Hyeok,Ji Suwon
 강혁,최진우,2,Kang Hyeok,Choi Jinu
@@ -50,7 +50,7 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 김인섭,지수원,65,Kim Inseop,Ji Suwon
 김지성,김인섭,1,Kim Jiseong,Kim Inseop
 김지성,김진경,2,Kim Jiseong,Kim Jingyeong
-김지성,박동,23,Kim Jiseong,Park Dong
+김지성,박동,22,Kim Jiseong,Park Dong
 김지성,설효림,4,Kim Jiseong,Seol Hyorim
 김지성,성희준,3,Kim Jiseong,Sung Huijun
 김지성,양진수,18,Kim Jiseong,Yang Jinsu
@@ -63,64 +63,64 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 김진경,anon_c009,1,Kim Jingyeong,anon_c009
 김진경,김지성,2,Kim Jingyeong,Kim Jiseong
 김진경,박동,6,Kim Jingyeong,Park Dong
-김진경,설효림,27,Kim Jingyeong,Seol Hyorim
-김진경,양진수,6,Kim Jingyeong,Yang Jinsu
-김진경,이리나,40,Kim Jingyeong,Lee Rina
+김진경,설효림,26,Kim Jingyeong,Seol Hyorim
+김진경,양진수,5,Kim Jingyeong,Yang Jinsu
+김진경,이리나,39,Kim Jingyeong,Lee Rina
 김진경,이준현,1,Kim Jingyeong,Lee Junhyeon
 김진경,지수원,5,Kim Jingyeong,Ji Suwon
 박동,anon_c040,1,Park Dong,anon_c040
-박동,anon_c053,7,Park Dong,anon_c053
+박동,anon_c053,6,Park Dong,anon_c053
 박동,anon_c111,1,Park Dong,anon_c111
 박동,강혁,8,Park Dong,Kang Hyeok
 박동,김인섭,12,Park Dong,Kim Inseop
 박동,김지성,29,Park Dong,Kim Jiseong
-박동,김진경,11,Park Dong,Kim Jingyeong
+박동,김진경,10,Park Dong,Kim Jingyeong
 박동,설민수,2,Park Dong,Seol Minsu
 박동,설효림,62,Park Dong,Seol Hyorim
 박동,성희준,39,Park Dong,Sung Huijun
 박동,양진수,166,Park Dong,Yang Jinsu
 박동,오인호,1,Park Dong,Oh Inho
-박동,이대규,42,Park Dong,Lee Daegyu
-박동,이리나,58,Park Dong,Lee Rina
+박동,이대규,41,Park Dong,Lee Daegyu
+박동,이리나,57,Park Dong,Lee Rina
 박동,이준현,6,Park Dong,Lee Junhyeon
 박동,임용진,17,Park Dong,Lim Yongjin
 박동,정철규,24,Park Dong,Jung Cheolgyu
 박동,조우리,6,Park Dong,Jo Uri
-박동,지수원,143,Park Dong,Ji Suwon
+박동,지수원,141,Park Dong,Ji Suwon
 박동,홍애라,4,Park Dong,Hong Aera
 설민수,김지성,1,Seol Minsu,Kim Jiseong
 설민수,박동,2,Seol Minsu,Park Dong
 설민수,설효림,39,Seol Minsu,Seol Hyorim
-설민수,성희준,5,Seol Minsu,Sung Huijun
-설민수,양진수,7,Seol Minsu,Yang Jinsu
+설민수,성희준,4,Seol Minsu,Sung Huijun
+설민수,양진수,6,Seol Minsu,Yang Jinsu
 설민수,이대규,1,Seol Minsu,Lee Daegyu
 설민수,정철규,1,Seol Minsu,Jung Cheolgyu
 설효림,anon_c009,6,Seol Hyorim,anon_c009
 설효림,anon_c025,1,Seol Hyorim,anon_c025
-설효림,anon_c046,5,Seol Hyorim,anon_c046
+설효림,anon_c046,4,Seol Hyorim,anon_c046
 설효림,anon_c111,1,Seol Hyorim,anon_c111
 설효림,anon_c112,1,Seol Hyorim,anon_c112
 설효림,김지성,3,Seol Hyorim,Kim Jiseong
 설효림,김진경,28,Seol Hyorim,Kim Jingyeong
-설효림,박동,50,Seol Hyorim,Park Dong
-설효림,설민수,45,Seol Hyorim,Seol Minsu
-설효림,성희준,1,Seol Hyorim,Sung Huijun
+설효림,박동,51,Seol Hyorim,Park Dong
+설효림,설민수,41,Seol Hyorim,Seol Minsu
+설효림,성희준,2,Seol Hyorim,Sung Huijun
 설효림,양진수,42,Seol Hyorim,Yang Jinsu
 설효림,이대규,4,Seol Hyorim,Lee Daegyu
-설효림,이리나,71,Seol Hyorim,Lee Rina
+설효림,이리나,70,Seol Hyorim,Lee Rina
 설효림,이준현,1,Seol Hyorim,Lee Junhyeon
 설효림,조우리,1,Seol Hyorim,Jo Uri
-설효림,지수원,80,Seol Hyorim,Ji Suwon
+설효림,지수원,79,Seol Hyorim,Ji Suwon
 설효림,홍애라,2,Seol Hyorim,Hong Aera
 성희준,김지성,5,Sung Huijun,Kim Jiseong
-성희준,박동,41,Sung Huijun,Park Dong
+성희준,박동,40,Sung Huijun,Park Dong
 성희준,설민수,2,Sung Huijun,Seol Minsu
 성희준,설효림,1,Sung Huijun,Seol Hyorim
 성희준,양진수,30,Sung Huijun,Yang Jinsu
 성희준,이대규,4,Sung Huijun,Lee Daegyu
 성희준,이리나,1,Sung Huijun,Lee Rina
 성희준,이창범,4,Sung Huijun,Lee Changbeom
-성희준,정철규,33,Sung Huijun,Jung Cheolgyu
+성희준,정철규,32,Sung Huijun,Jung Cheolgyu
 성희준,조우리,20,Sung Huijun,Jo Uri
 성희준,지수원,15,Sung Huijun,Ji Suwon
 양진수,anon_c009,5,Yang Jinsu,anon_c009
@@ -135,12 +135,12 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 양진수,김인섭,1,Yang Jinsu,Kim Inseop
 양진수,김지성,25,Yang Jinsu,Kim Jiseong
 양진수,김진경,5,Yang Jinsu,Kim Jingyeong
-양진수,박동,158,Yang Jinsu,Park Dong
-양진수,설민수,7,Yang Jinsu,Seol Minsu
+양진수,박동,155,Yang Jinsu,Park Dong
+양진수,설민수,6,Yang Jinsu,Seol Minsu
 양진수,설효림,42,Yang Jinsu,Seol Hyorim
-양진수,성희준,27,Yang Jinsu,Sung Huijun
+양진수,성희준,28,Yang Jinsu,Sung Huijun
 양진수,이대규,15,Yang Jinsu,Lee Daegyu
-양진수,이리나,33,Yang Jinsu,Lee Rina
+양진수,이리나,32,Yang Jinsu,Lee Rina
 양진수,이준현,3,Yang Jinsu,Lee Junhyeon
 양진수,임용진,12,Yang Jinsu,Lim Yongjin
 양진수,정철규,42,Yang Jinsu,Jung Cheolgyu
@@ -148,7 +148,7 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 양진수,지수원,64,Yang Jinsu,Ji Suwon
 오인호,anon_c009,1,Oh Inho,anon_c009
 오인호,김인섭,10,Oh Inho,Kim Inseop
-오인호,이준현,10,Oh Inho,Lee Junhyeon
+오인호,이준현,9,Oh Inho,Lee Junhyeon
 오인호,지수원,9,Oh Inho,Ji Suwon
 이대규,김지성,18,Lee Daegyu,Kim Jiseong
 이대규,박동,37,Lee Daegyu,Park Dong
@@ -164,10 +164,10 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 이리나,김광운,14,Lee Rina,Kim Gwangun
 이리나,김지성,7,Lee Rina,Kim Jiseong
 이리나,김진경,52,Lee Rina,Kim Jingyeong
-이리나,박동,55,Lee Rina,Park Dong
-이리나,설효림,73,Lee Rina,Seol Hyorim
+이리나,박동,53,Lee Rina,Park Dong
+이리나,설효림,70,Lee Rina,Seol Hyorim
 이리나,성희준,1,Lee Rina,Sung Huijun
-이리나,양진수,29,Lee Rina,Yang Jinsu
+이리나,양진수,27,Lee Rina,Yang Jinsu
 이리나,이대규,2,Lee Rina,Lee Daegyu
 이리나,지수원,18,Lee Rina,Ji Suwon
 이리나,하이안,5,Lee Rina,Ha Ian
@@ -184,8 +184,8 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 이창범,성희준,4,Lee Changbeom,Sung Huijun
 이창범,임용진,1,Lee Changbeom,Lim Yongjin
 이창범,최진우,5,Lee Changbeom,Choi Jinu
-임용진,강혁,26,Lim Yongjin,Kang Hyeok
-임용진,박동,22,Lim Yongjin,Park Dong
+임용진,강혁,24,Lim Yongjin,Kang Hyeok
+임용진,박동,21,Lim Yongjin,Park Dong
 임용진,양진수,14,Lim Yongjin,Yang Jinsu
 임용진,이리나,1,Lim Yongjin,Lee Rina
 임용진,정철규,4,Lim Yongjin,Jung Cheolgyu
@@ -196,7 +196,7 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 정철규,김지성,8,Jung Cheolgyu,Kim Jiseong
 정철규,박동,25,Jung Cheolgyu,Park Dong
 정철규,설민수,1,Jung Cheolgyu,Seol Minsu
-정철규,성희준,34,Jung Cheolgyu,Sung Huijun
+정철규,성희준,33,Jung Cheolgyu,Sung Huijun
 정철규,양진수,47,Jung Cheolgyu,Yang Jinsu
 정철규,이대규,4,Jung Cheolgyu,Lee Daegyu
 정철규,이리나,1,Jung Cheolgyu,Lee Rina
@@ -205,30 +205,30 @@ anon_c112,이준현,1,anon_c112,Lee Junhyeon
 정철규,최진우,2,Jung Cheolgyu,Choi Jinu
 조우리,김지성,1,Jo Uri,Kim Jiseong
 조우리,박동,3,Jo Uri,Park Dong
-조우리,성희준,23,Jo Uri,Sung Huijun
+조우리,성희준,22,Jo Uri,Sung Huijun
 조우리,이대규,2,Jo Uri,Lee Daegyu
 조우리,지수원,3,Jo Uri,Ji Suwon
 지수원,anon_c009,1,Ji Suwon,anon_c009
 지수원,anon_c025,8,Ji Suwon,anon_c025
 지수원,anon_c053,1,Ji Suwon,anon_c053
 지수원,강혁,7,Ji Suwon,Kang Hyeok
-지수원,김인섭,65,Ji Suwon,Kim Inseop
+지수원,김인섭,64,Ji Suwon,Kim Inseop
 지수원,김지성,15,Ji Suwon,Kim Jiseong
 지수원,김진경,5,Ji Suwon,Kim Jingyeong
-지수원,박동,139,Ji Suwon,Park Dong
-지수원,설효림,67,Ji Suwon,Seol Hyorim
+지수원,박동,137,Ji Suwon,Park Dong
+지수원,설효림,65,Ji Suwon,Seol Hyorim
 지수원,성희준,10,Ji Suwon,Sung Huijun
 지수원,양진수,59,Ji Suwon,Yang Jinsu
 지수원,오인호,7,Ji Suwon,Oh Inho
 지수원,이대규,9,Ji Suwon,Lee Daegyu
-지수원,이리나,16,Ji Suwon,Lee Rina
-지수원,이준현,47,Ji Suwon,Lee Junhyeon
+지수원,이리나,15,Ji Suwon,Lee Rina
+지수원,이준현,46,Ji Suwon,Lee Junhyeon
 지수원,임용진,2,Ji Suwon,Lim Yongjin
 지수원,정철규,5,Ji Suwon,Jung Cheolgyu
 지수원,조우리,2,Ji Suwon,Jo Uri
 지수원,최진우,4,Ji Suwon,Choi Jinu
 최진우,김지성,1,Choi Jinu,Kim Jiseong
-최진우,이창범,6,Choi Jinu,Lee Changbeom
+최진우,이창범,5,Choi Jinu,Lee Changbeom
 최진우,정철규,2,Choi Jinu,Jung Cheolgyu
 최진우,지수원,5,Choi Jinu,Ji Suwon
 하이안,김광운,2,Ha Ian,Kim Gwangun

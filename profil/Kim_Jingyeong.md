@@ -1,14 +1,14 @@
 # Kim Jingyeong (김진경)
 
 ## Kemunculan
-- Total **96 teks** di **21 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▄    ▂█▄▁▆▅     █▂▃     ▅  ▁  ▂            ▁▁  ▃▃▂▄▁  ▂`
-- Chapter tersibuk: ch012 (12), ch022 (12), ch015 (9)
+- Total **93 teks** di **21 chapter** (ch006 – ch060)
+- Per chapter (ch006 → ch060): `▄    ▂█▃▁▆▅     ▇▂▃     ▅  ▁  ▂            ▁▁  ▂▃▂▄▁  ▂`
+- Chapter tersibuk: ch012 (12), ch022 (11), ch015 (9)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 94 | 0 | 2 | 0 |
+| 91 | 0 | 2 | 0 |
 
 Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.5 | 12.6 |  |
-| % sopan | 1.0 | 2.9 | ⬇ jauh lebih rendah |
-| % tanya | 27.1 | 23.8 |  |
-| % seru | 5.2 | 14.3 | ⬇ jauh lebih rendah |
-| % ragu (...) | 13.5 | 23.1 | ⬇ jauh lebih rendah |
-| % ㅋ/ㅎ | 29.2 | 8.0 | ⬆ jauh lebih tinggi |
-| % makian | 2.1 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 14.9 | 12.9 |  |
+| % sopan | 1.1 | 3.0 | ⬇ jauh lebih rendah |
+| % tanya | 28.0 | 24.4 |  |
+| % seru | 5.4 | 14.4 | ⬇ jauh lebih rendah |
+| % ragu (...) | 14.0 | 23.7 | ⬇ jauh lebih rendah |
+| % ㅋ/ㅎ | 28.0 | 8.2 | ⬆ jauh lebih tinggi |
+| % makian | 2.2 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
@@ -39,10 +39,10 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Lee Rina | 40 | 0% |
-| Seol Hyorim | 27 | 0% |
+| Lee Rina | 39 | 0% |
+| Seol Hyorim | 26 | 0% |
 | Park Dong | 6 | – |
-| Yang Jinsu | 6 | – |
+| Yang Jinsu | 5 | – |
 | Ji Suwon | 5 | – |
 | Kim Jiseong | 2 | – |
 

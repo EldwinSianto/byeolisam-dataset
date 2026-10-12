@@ -1,14 +1,14 @@
 # Seol Hyorim (설효림)
 
 ## Kemunculan
-- Total **626 teks** di **37 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▃    ▃▆▃▅▂▆▂   ▅▃▃▆█▅▅▆▆▃▃ ▁▁▄▄▁      ▁   ▁▂▁▁▂▇▅▄▂▁ ▂▃`
-- Chapter tersibuk: ch025 (42), ch053 (40), ch029 (35)
+- Total **608 teks** di **37 chapter** (ch006 – ch060)
+- Per chapter (ch006 → ch060): `▃    ▃▆▃▅▂▅▂   ▅▃▃▆█▅▅▆▆▃▃ ▁▁▄▃▁      ▁   ▁▂▁▁▂▇▅▄▂▁ ▂▂`
+- Chapter tersibuk: ch025 (41), ch053 (40), ch029 (34)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 515 | 105 | 6 | 0 |
+| 499 | 104 | 5 | 0 |
 
 Porsi pikiran **17%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,34 +16,34 @@ Porsi pikiran **17%** → kemungkinan tokoh sudut pandang (POV).
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 11.2 | 12.6 |  |
-| % sopan | 2.1 | 2.9 |  |
-| % tanya | 25.3 | 23.8 |  |
-| % seru | 13.6 | 14.3 |  |
-| % ragu (...) | 22.8 | 23.1 |  |
-| % ㅋ/ㅎ | 4.8 | 8.0 | ⬇ jauh lebih rendah |
-| % makian | 2.3 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 11.6 | 12.9 |  |
+| % sopan | 2.0 | 3.0 |  |
+| % tanya | 26.2 | 24.4 |  |
+| % seru | 13.9 | 14.4 |  |
+| % ragu (...) | 23.6 | 23.7 |  |
+| % ㅋ/ㅎ | 5.0 | 8.2 |  |
+| % makian | 2.4 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
-**얼** (12×), **빵** (11×), **애** (20×), **시키다** (4×), **빡** (5×), **왜** (28×), **싫다** (7×), **눈** (5×), **가다** (37×), **사과** (4×), **오빠** (11×), **오다** (22×), **그냥** (13×), **웃기다** (4×), **치다** (9×)
+**얼** (12×), **빵** (11×), **애** (20×), **시키다** (4×), **제발** (4×), **빡** (5×), **왜** (28×), **싫다** (7×), **눈** (5×), **가다** (37×), **사과** (4×), **오빠** (11×), **오다** (22×), **그냥** (13×), **웃기다** (4×)
 
 Contoh ucapan:
 
 - ch006: 깝치는 애들보다 그 수원인가 뭔가가 더 싫어.  `ch006_panel_026_01`
-- ch016: 왜 빡치지..?  `ch016_panel_062_04`
 - ch021: 그냥 애들이랑 구갈 가서 놀거야~  `ch021_panel_039_05`
 - ch024: 얼빵이 화장실 가?  `ch024_panel_062_00`
 - ch035: 얼빵이, 일로 와봐!  `ch035_panel_059_00`
+- ch036: 얼빵이, 일로 와봐!  `ch036_panel_001_00`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Ji Suwon | 80 | 0% |
-| Lee Rina | 71 | 0% |
-| Park Dong | 50 | 2% |
-| Seol Minsu | 45 | 0% |
+| Ji Suwon | 79 | 0% |
+| Lee Rina | 70 | 0% |
+| Park Dong | 51 | 2% |
 | Yang Jinsu | 42 | 2% |
+| Seol Minsu | 41 | 0% |
 | Kim Jingyeong | 28 | 0% |
 
 Yang bicara sopan kepadanya: Ji Suwon 6%, Yang Jinsu 5%, Park Dong 3%, Lee Rina 3%, Kim Jingyeong 0%
@@ -53,13 +53,13 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 11.2 | 11.2 |
-| % sopan | 2.1 | 1.0 |
-| % tanya | 25.3 | 15.2 |
-| % seru | 13.6 | 11.4 |
-| % ragu (...) | 22.8 | 23.8 |
-| % ㅋ/ㅎ | 4.8 | 0.0 |
-| % makian | 2.3 | 0.0 |
+| panjang | 11.6 | 11.2 |
+| % sopan | 2.0 | 1.0 |
+| % tanya | 26.2 | 14.4 |
+| % seru | 13.9 | 10.6 |
+| % ragu (...) | 23.6 | 24.0 |
+| % ㅋ/ㅎ | 5.0 | 0.0 |
+| % makian | 2.4 | 0.0 |
 
 Kata yang muncul di **pikiran** tapi jarang diucapkan: **거절** (5×), **친구** (8×), **남친** (4×), **아직** (3×), **나오다** (3×), **말** (5×), **심하다** (3×), **때** (3×), **있다** (7×)
 

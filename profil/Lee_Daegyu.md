@@ -1,14 +1,14 @@
 # Lee Daegyu (이대규)
 
 ## Kemunculan
-- Total **101 teks** di **25 chapter** (ch012 – ch059)
+- Total **100 teks** di **25 chapter** (ch012 – ch059)
 - Per chapter (ch006 → ch060): `      ▃      ▅  ▁  ▂▂▁▁▂ ▂   ▃  ▆▁▄ ▃▄▃▂▃▁ ▃ ▂ █▂ ▃  ▂ `
 - Chapter tersibuk: ch053 (14), ch038 (11), ch019 (8)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 101 | 0 | 0 | 0 |
+| 100 | 0 | 0 | 0 |
 
 Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.1 | 12.6 |  |
-| % sopan | 1.0 | 2.9 | ⬇ jauh lebih rendah |
-| % tanya | 25.7 | 23.8 |  |
-| % seru | 5.9 | 14.3 | ⬇ jauh lebih rendah |
-| % ragu (...) | 26.7 | 23.1 |  |
-| % ㅋ/ㅎ | 7.9 | 8.0 |  |
-| % makian | 3.0 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 14.2 | 12.9 |  |
+| % sopan | 1.0 | 3.0 | ⬇ jauh lebih rendah |
+| % tanya | 25.0 | 24.4 |  |
+| % seru | 5.0 | 14.4 | ⬇ jauh lebih rendah |
+| % ragu (...) | 27.0 | 23.7 |  |
+| % ㅋ/ㅎ | 8.0 | 8.2 |  |
+| % makian | 3.0 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
@@ -46,6 +46,6 @@ Contoh ucapan:
 | Ji Suwon | 7 | – |
 | Seol Hyorim | 3 | – |
 
-Yang bicara sopan kepadanya: Ji Suwon 22%, Park Dong 2%, Kim Jiseong 0%, Yang Jinsu 0%
+Yang bicara sopan kepadanya: Ji Suwon 22%, Kim Jiseong 0%, Park Dong 0%, Yang Jinsu 0%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._

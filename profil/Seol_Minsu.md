@@ -1,14 +1,14 @@
 # Seol Minsu (설민수)
 
 ## Kemunculan
-- Total **83 teks** di **10 chapter** (ch012 – ch053)
+- Total **81 teks** di **10 chapter** (ch012 – ch053)
 - Per chapter (ch006 → ch060): `      ▃  ▂     ▂    ▁▁█▁     ▁             ▁   ▂       `
-- Chapter tersibuk: ch028 (36), ch012 (11), ch021 (9)
+- Chapter tersibuk: ch028 (34), ch012 (11), ch021 (9)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 83 | 0 | 0 | 0 |
+| 81 | 0 | 0 | 0 |
 
 Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 9.5 | 12.6 |  |
-| % sopan | 0.0 | 2.9 | ⬇ jauh lebih rendah |
-| % tanya | 20.5 | 23.8 |  |
-| % seru | 4.8 | 14.3 | ⬇ jauh lebih rendah |
-| % ragu (...) | 14.5 | 23.1 |  |
-| % ㅋ/ㅎ | 0.0 | 8.0 | ⬇ jauh lebih rendah |
-| % makian | 1.2 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 9.4 | 12.9 |  |
+| % sopan | 0.0 | 3.0 | ⬇ jauh lebih rendah |
+| % tanya | 19.8 | 24.4 |  |
+| % seru | 3.7 | 14.4 | ⬇ jauh lebih rendah |
+| % ragu (...) | 13.6 | 23.7 | ⬇ jauh lebih rendah |
+| % ㅋ/ㅎ | 0.0 | 8.2 | ⬇ jauh lebih rendah |
+| % makian | 1.2 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
@@ -40,8 +40,8 @@ Contoh ucapan:
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
 | Seol Hyorim | 39 | 0% |
-| Yang Jinsu | 7 | – |
-| Sung Huijun | 5 | – |
+| Yang Jinsu | 6 | – |
+| Sung Huijun | 4 | – |
 | Park Dong | 2 | – |
 | Kim Jiseong | 1 | – |
 | Lee Daegyu | 1 | – |

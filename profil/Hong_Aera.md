@@ -16,13 +16,13 @@ Porsi pikiran **0%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 10.6 | 12.6 |  |
-| % sopan | 0.0 | 2.9 | ⬇ jauh lebih rendah |
-| % tanya | 20.5 | 23.8 |  |
-| % seru | 11.4 | 14.3 |  |
-| % ragu (...) | 36.4 | 23.1 | ⬆ jauh lebih tinggi |
-| % ㅋ/ㅎ | 9.1 | 8.0 |  |
-| % makian | 2.3 | 6.9 | ⬇ jauh lebih rendah |
+| panjang | 10.6 | 12.9 |  |
+| % sopan | 0.0 | 3.0 | ⬇ jauh lebih rendah |
+| % tanya | 20.5 | 24.4 |  |
+| % seru | 11.4 | 14.4 |  |
+| % ragu (...) | 36.4 | 23.7 | ⬆ jauh lebih tinggi |
+| % ㅋ/ㅎ | 9.1 | 8.2 |  |
+| % makian | 2.3 | 7.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 

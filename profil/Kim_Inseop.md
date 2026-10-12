@@ -1,32 +1,32 @@
 # Kim Inseop (김인섭)
 
 ## Kemunculan
-- Total **210 teks** di **18 chapter** (ch007 – ch058)
-- Per chapter (ch006 → ch060): ` █▁ ▃▃     ▃▃ ▄▃           ▂▄▃ ▁▅   ▁ ▁       ▂    ▁▁  `
-- Chapter tersibuk: ch007 (37), ch038 (23), ch020 (21)
+- Total **207 teks** di **18 chapter** (ch007 – ch058)
+- Per chapter (ch006 → ch060): ` █▁ ▃▃     ▃▃ ▅▃           ▂▅▃ ▁▅   ▂ ▁       ▂    ▁▁  `
+- Chapter tersibuk: ch007 (35), ch038 (22), ch020 (21)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 184 | 24 | 0 | 2 |
+| 181 | 24 | 0 | 2 |
 
-Porsi pikiran **11%** → jarang terlihat isi pikirannya.
+Porsi pikiran **12%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 13.6 | 12.6 |  |
-| % sopan | 0.5 | 2.9 | ⬇ jauh lebih rendah |
-| % tanya | 26.1 | 23.8 |  |
-| % seru | 8.7 | 14.3 |  |
-| % ragu (...) | 28.8 | 23.1 |  |
-| % ㅋ/ㅎ | 9.2 | 8.0 |  |
-| % makian | 8.7 | 6.9 |  |
+| panjang | 13.9 | 12.9 |  |
+| % sopan | 0.6 | 3.0 | ⬇ jauh lebih rendah |
+| % tanya | 26.5 | 24.4 |  |
+| % seru | 8.8 | 14.4 |  |
+| % ragu (...) | 29.3 | 23.7 |  |
+| % ㅋ/ㅎ | 9.4 | 8.2 |  |
+| % makian | 8.8 | 7.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
-**지수원** (9×), **냄새** (4×), **강** (5×), **다니다** (5×), **친하다** (4×), **이** (5×), **없다** (11×), **들** (4×), **그** (5×), **모르다** (4×), **미치다** (5×)
+**지수원** (9×), **냄새** (4×), **강** (5×), **다니다** (5×), **친하다** (4×), **이** (5×), **없다** (11×), **그** (5×), **들** (4×), **모르다** (4×), **미치다** (5×)
 
 Contoh ucapan:
 
@@ -53,13 +53,13 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 13.6 | 12.3 |
-| % sopan | 0.5 | 0.0 |
-| % tanya | 26.1 | 12.5 |
-| % seru | 8.7 | 8.3 |
-| % ragu (...) | 28.8 | 41.7 |
-| % ㅋ/ㅎ | 9.2 | 0.0 |
-| % makian | 8.7 | 0.0 |
+| panjang | 13.9 | 12.3 |
+| % sopan | 0.6 | 0.0 |
+| % tanya | 26.5 | 12.5 |
+| % seru | 8.8 | 8.3 |
+| % ragu (...) | 29.3 | 41.7 |
+| % ㅋ/ㅎ | 9.4 | 0.0 |
+| % makian | 8.8 | 0.0 |
 
 Kata yang muncul di **pikiran** tapi jarang diucapkan: 
 

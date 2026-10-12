@@ -1,14 +1,14 @@
 # Jung Cheolgyu (정철규)
 
 ## Kemunculan
-- Total **338 teks** di **16 chapter** (ch006 – ch049)
+- Total **333 teks** di **16 chapter** (ch006 – ch049)
 - Per chapter (ch006 → ch060): `▂                       ▁▇  ▅   ▁█▃▅▂▃▃▄▇▂▄▃           `
-- Chapter tersibuk: ch039 (46), ch031 (42), ch046 (41)
+- Chapter tersibuk: ch039 (45), ch031 (40), ch046 (40)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 318 | 20 | 0 | 0 |
+| 313 | 20 | 0 | 0 |
 
 Porsi pikiran **6%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **6%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 11.9 | 12.6 |  |
-| % sopan | 2.8 | 2.9 |  |
-| % tanya | 26.4 | 23.8 |  |
-| % seru | 7.9 | 14.3 | ⬇ jauh lebih rendah |
-| % ragu (...) | 8.8 | 23.1 | ⬇ jauh lebih rendah |
-| % ㅋ/ㅎ | 10.4 | 8.0 |  |
-| % makian | 9.7 | 6.9 |  |
+| panjang | 12.1 | 12.9 |  |
+| % sopan | 2.9 | 3.0 |  |
+| % tanya | 26.8 | 24.4 |  |
+| % seru | 8.0 | 14.4 | ⬇ jauh lebih rendah |
+| % ragu (...) | 8.9 | 23.7 | ⬇ jauh lebih rendah |
+| % ㅋ/ㅎ | 10.5 | 8.2 |  |
+| % makian | 9.9 | 7.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
@@ -40,7 +40,7 @@ Contoh ucapan:
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
 | Yang Jinsu | 47 | 0% |
-| Sung Huijun | 34 | 3% |
+| Sung Huijun | 33 | 3% |
 | Park Dong | 25 | 4% |
 | anon_c045 | 8 | 0% |
 | Kim Jiseong | 8 | 0% |
@@ -53,17 +53,17 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 11.9 | 10.8 |
-| % sopan | 2.8 | 0.0 |
-| % tanya | 26.4 | 5.0 |
-| % seru | 7.9 | 5.0 |
-| % ragu (...) | 8.8 | 40.0 |
-| % ㅋ/ㅎ | 10.4 | 0.0 |
-| % makian | 9.7 | 0.0 |
+| panjang | 12.1 | 10.8 |
+| % sopan | 2.9 | 0.0 |
+| % tanya | 26.8 | 5.0 |
+| % seru | 8.0 | 5.0 |
+| % ragu (...) | 8.9 | 40.0 |
+| % ㅋ/ㅎ | 10.5 | 0.0 |
+| % makian | 9.9 | 0.0 |
 
 Kata yang muncul di **pikiran** tapi jarang diucapkan: **빡** (3×), **치다** (3×), **양진** (3×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **하다** (37×), **친구** (12×), **다** (12×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **하다** (36×), **친구** (12×), **다** (12×)
 
 Contoh pikiran:
 

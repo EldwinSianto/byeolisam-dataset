@@ -1,14 +1,14 @@
 # Lee Junhyeon (이준현)
 
 ## Kemunculan
-- Total **146 teks** di **19 chapter** (ch007 – ch058)
+- Total **145 teks** di **19 chapter** (ch007 – ch058)
 - Per chapter (ch006 → ch060): ` ▇▁ ▂▄█▅▃▃▃▃▁ ▄▅           ▆▁       ▃ ▁            ▁▂  `
 - Chapter tersibuk: ch012 (19), ch007 (17), ch033 (16)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 143 | 1 | 2 | 0 |
+| 142 | 1 | 2 | 0 |
 
 Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,13 +16,13 @@ Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.8 | 12.6 |  |
-| % sopan | 3.4 | 2.9 |  |
-| % tanya | 29.7 | 23.8 |  |
-| % seru | 13.1 | 14.3 |  |
-| % ragu (...) | 20.0 | 23.1 |  |
-| % ㅋ/ㅎ | 2.8 | 8.0 | ⬇ jauh lebih rendah |
-| % makian | 9.7 | 6.9 |  |
+| panjang | 14.9 | 12.9 |  |
+| % sopan | 3.5 | 3.0 |  |
+| % tanya | 29.9 | 24.4 |  |
+| % seru | 13.2 | 14.4 |  |
+| % ragu (...) | 20.1 | 23.7 |  |
+| % ㅋ/ㅎ | 2.8 | 8.2 | ⬇ jauh lebih rendah |
+| % makian | 9.7 | 7.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 

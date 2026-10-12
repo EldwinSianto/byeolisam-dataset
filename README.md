@@ -10,9 +10,9 @@ Dibuat untuk proyek kuliah text mining & profil karakter.
 
 | File | Isi |
 |---|---|
-| `data/dialog.csv` | **Dataset utama.** 7.282 teks, satu baris per teks, sudah urut baca |
+| `data/dialog.csv` | **Dataset utama.** 7.032 teks, satu baris per teks, sudah urut baca |
 | `data/tokoh.csv` | Daftar 37 pembicara: romanisasi nama, jenis, jumlah teks per tipe, rentang chapter |
-| `data/dibuang.csv` | 617 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
+| `data/dibuang.csv` | 867 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
 | `panels/chNNN/panel_PPP.jpg` | Gambar webtoon (4.029 potongan, ±1600 px tinggi, urut atas → bawah) untuk mengecek teks |
 | `profil_karakter.py` → `profil/` | Kartu profil otomatis per tokoh (kemunculan, gaya bicara, kata khas, lawan bicara, honorifik, ucapan vs pikiran) + `gaya_bicara.csv`, `relasi.csv`, `honorifik.csv` |
 | `analisis.ipynb` | Notebook awal: kemunculan tokoh, bicara vs. berpikir, gaya bicara, kata khas, siapa bicara dengan siapa, pencarian teks, `lihat()` untuk menampilkan gambar |
@@ -42,7 +42,7 @@ kotak di koordinat kolom `kotak`.
 
 | Kolom | Arti |
 |---|---|
-| `urutan` | Nomor urut baca global (1 … 7282), lintas chapter |
+| `urutan` | Nomor urut baca global (1 … 7032), lintas chapter |
 | `chapter` | `ch006` … `ch060` |
 | `panel` | Indeks potongan gambar dalam chapter (gambar webtoon dipotong per ±1600 px, atas → bawah) |
 | `urut_panel` | Urutan teks di dalam potongan itu |
@@ -85,7 +85,8 @@ Untuk profil gaya bicara biasanya pakai `tipe` `ucapan` + `tulisan`; untuk sisi 
 1. Deteksi bubble & OCR otomatis (Magi + model OCR Korea).
 2. **Pembicara dan tipe dilabel manual** untuk semua chapter ch006–ch060, dibantu foto referensi wajah tiap tokoh.
 3. Koreksi OCR untuk teks berskor OCR < 0,85 (dicek terhadap gambar).
-4. Urutan baca dibakukan atas → bawah, kiri → kanan; bubble yang terbelah batas potongan atau terdeteksi ganda digabung.
+4. Urutan baca dibakukan atas → bawah, kiri → kanan.
+5. Pembersihan (dicek visual): balon yang terbelah batas potongan gambar digabung (143), deteksi dobel dibuang, kredit/judul/antarmuka messenger dibuang (85). 11 balon punya label pembicara bertentangan — ditandai di kolom `catatan`.
 
 ## Keterbatasan
 
