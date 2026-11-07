@@ -11,11 +11,11 @@
 | Kim Jingyeong (김진경) | 707 | 139 | 101 | [Kim_Jingyeong.md](Kim_Jingyeong.md) |
 | Park Mijin (박미진) | 701 | 112 | 50 | [Park_Mijin.md](Park_Mijin.md) |
 | Choi Giryang (최기량) | 635 | 88 | 26 | [Choi_Giryang.md](Choi_Giryang.md) |
-| Hong Aera (홍애라) | 577 | 180 | 31 | [Hong_Aera.md](Hong_Aera.md) |
+| Hong Aera (홍애라) | 561 | 180 | 30 | [Hong_Aera.md](Hong_Aera.md) |
 | Seol Minsu (설민수) | 521 | 100 | 32 | [Seol_Minsu.md](Seol_Minsu.md) |
 | Sung Huijun (성희준) | 513 | 60 | 35 | [Sung_Huijun.md](Sung_Huijun.md) |
 | Lee Daegyu (이대규) | 460 | 38 | 86 | [Lee_Daegyu.md](Lee_Daegyu.md) |
-| Kim Gwangun (김광운) | 402 | 85 | 30 | [Kim_Gwangun.md](Kim_Gwangun.md) |
+| Kim Gwangun (김광운) | 418 | 85 | 31 | [Kim_Gwangun.md](Kim_Gwangun.md) |
 | Ma Hangyeol (마한결) | 388 | 34 | 21 | [Ma_Hangyeol.md](Ma_Hangyeol.md) |
 | Lee Junhyeon (이준현) | 369 | 45 | 31 | [Lee_Junhyeon.md](Lee_Junhyeon.md) |
 | An Sihu (안시후) | 345 | 87 | 19 | [An_Sihu.md](An_Sihu.md) |

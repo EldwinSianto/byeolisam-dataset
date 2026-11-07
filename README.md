@@ -15,6 +15,9 @@ Dibuat untuk proyek kuliah text mining & profil karakter.
 | `data/dibuang.csv` | 4.824 teks yang dikeluarkan + alasannya (duplikat, kredit penerjemah/penulis, belum dilabel) |
 | `panels/chNNN/panel_PPP.jpg` | Gambar webtoon (16.822 potongan, ±1600 px tinggi, urut atas → bawah) untuk mengecek teks |
 | `profil_karakter.py` → `profil/` | Kartu profil otomatis per tokoh (kemunculan, gaya bicara, kata khas, lawan bicara, honorifik, ucapan vs pikiran) + `gaya_bicara.csv`, `relasi.csv`, `honorifik.csv` |
+| `ringkasan.py` → `ringkasan/` | Ringkasan otomatis per chapter dan per arc (ekstraktif TextRank/MMR/embedding + abstraktif KoBART) dan metrik tanpa acuan (`ringkasan/metrik.csv`) |
+| `acuan/ringkasan_acuan.csv` | Ringkasan acuan (bahasa Korea + terjemahan Indonesia) untuk 42 chapter (seluruh arc 1 + 4 chapter per arc musim 1 lainnya + 6 chapter musim 2) dan arc 1, ditulis Claude dari dialog berlabel; dipakai untuk ROUGE/`sim_acuan` |
+| `arc.csv` | Batas arc musim 1 (dari namu.wiki 별이삼샵/회차) |
 | `analisis.ipynb` | Notebook awal: kemunculan tokoh, bicara vs. berpikir, gaya bicara, kata khas, siapa bicara dengan siapa, pencarian teks, `lihat()` untuk menampilkan gambar |
 
 ## Mulai
@@ -37,6 +40,30 @@ Atau buka `data/dialog.csv` langsung di Excel / Google Sheets (encoding UTF-8).
 **Mengecek teks ke gambarnya:** di notebook, `lihat("ch006_panel_037_02")` menampilkan panelnya dengan kotak merah pada
 teks itu dan label pembicara untuk teks lain di panel yang sama. Tanpa notebook: buka file di kolom `gambar`, lalu cari
 kotak di koordinat kolom `kotak`.
+
+## Ringkasan otomatis
+
+```bash
+python ringkasan.py --ch ch001-ch016
+```
+
+Tanpa LLM generatif besar; model yang dipakai transformer kecil dari Hugging Face (diunduh otomatis saat pertama jalan):
+
+- **Ekstraktif** (memilih kalimat asli): `textrank`, `mmr`, `mmr_kw` (TF-IDF morfem Kiwi + kata kunci khas chapter),
+  `emb` (kemiripan dari `jhgan/ko-sroberta-multitask`). Baseline: `awal`, `acak`.
+- **Abstraktif**: `kobart` = `EbanLee/kobart-summary-v3` (KoBART ~124M), bertingkat: dialog chapter ditulis
+  `Nama: teks` per baris, dipotong per ±400 token, tiap potongan jadi satu kalimat; ringkasan arc = ringkasan dari
+  ringkasan chapter. Dipilih dari 4 kandidat yang dicoba pada ch001: `gogamza/kobart-summarization` dan
+  `digit82/kobart-summarization` (berita) mengarang nama/tempat, `alaggung/bart-r3f` (dialog chat) terlalu umum
+  ("남자친구가 여자친구에게…"); EbanLee paling sesuai bila nama pembicara ikut di input.
+- **Metrik tanpa acuan**: `js` (Jensen-Shannon sebaran morfem), `cakupan` (TF-IDF), `cak_emb` (embedding evaluasi
+  `snunlp/KR-SBERT-V40K-klueNLI-augSTS`, sengaja beda dari model pemilih), `ulang`, `nama_asing`. Metrik ini berbasis
+  kemiripan kata, jadi menguntungkan metode ekstraktif; ringkasan abstraktif perlu dinilai manusia juga.
+- **Metrik dengan acuan** (bila chapter/arc ada di `acuan/ringkasan_acuan.csv`): `rouge1/2/L` (morfem isi Kiwi) dan
+  `sim_acuan` (F1 kemiripan embedding per kalimat). Acuan dibuat dengan bantuan LLM (Claude), bukan oleh penulis
+  komik; tidak dipakai untuk melatih atau menyetel model.
+
+GPU NVIDIA: pasang torch versi CUDA dulu, mis. `pip install torch --index-url https://download.pytorch.org/whl/cu128`.
 
 ## Kolom `data/dialog.csv`
 
@@ -99,4 +126,4 @@ Untuk profil gaya bicara biasanya pakai `tipe` `ucapan` + `tulisan`; untuk sisi 
 - Slang/singkatan internet (ㅅㅂ, ㅋㅋ, 붕신, 새꺄) sengaja dipertahankan apa adanya. Tokenizer Korea (kiwipiepy)
   kadang memecah slang menjadi potongan aneh (붕신 → 붕 + 신), jadi hasil "kata khas" perlu dibaca dengan hati-hati.
 - ch200 (chapter spesial QnA, bukan cerita) tidak termasuk.
-- Sumber: versi beku `dataset_beku/v2026-11-07` di repo pipeline (MANIFEST berisi SHA-256 tiap file).
+- Sumber: versi beku `dataset_beku/v2026-11-07b` di repo pipeline (MANIFEST berisi SHA-256 tiap file).

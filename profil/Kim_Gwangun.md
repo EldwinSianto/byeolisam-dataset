@@ -1,32 +1,32 @@
 # Kim Gwangun (김광운)
 
 ## Kemunculan
-- Total **402 teks** di **30 chapter** (ch056 – ch214)
-- Per 5 chapter (ch001 → ch217): `           ▃▇█▄ ▁ ▁▂▅▂▂  ▁▁ ▁▁            ▁ `
+- Total **418 teks** di **31 chapter** (ch056 – ch214)
+- Per 5 chapter (ch001 → ch217): `           ▄▇█▄ ▁ ▁▂▅▂▂  ▁▁ ▁▁            ▁ `
 - Chapter tersibuk: ch066 (50), ch074 (47), ch061 (34)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 291 | 85 | 26 | 0 |
+| 307 | 85 | 26 | 0 |
 
-Porsi pikiran **21%** → kemungkinan tokoh sudut pandang (POV).
+Porsi pikiran **20%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
 | panjang | 12.3 | 12.8 |  |
-| % sopan | 2.5 | 4.0 |  |
-| % tanya | 19.9 | 23.0 |  |
-| % seru | 5.7 | 14.6 | ⬇ jauh lebih rendah |
-| % ragu (...) | 37.2 | 24.0 | ⬆ jauh lebih tinggi |
-| % ㅋ/ㅎ | 4.7 | 7.5 |  |
-| % makian | 3.2 | 4.0 |  |
+| % sopan | 2.4 | 4.0 |  |
+| % tanya | 19.5 | 23.0 |  |
+| % seru | 5.4 | 14.6 | ⬇ jauh lebih rendah |
+| % ragu (...) | 37.5 | 24.0 | ⬆ jauh lebih tinggi |
+| % ㅋ/ㅎ | 5.7 | 7.5 |  |
+| % makian | 3.0 | 4.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
-**리나** (12×), **읽다** (6×), **기량** (5×), **효림** (10×), **연락** (6×), **편지** (5×), **만나다** (6×), **지내다** (4×), **미안** (7×), **여자** (5×), **가** (4×), **생각** (10×), **여친** (5×), **들다** (4×), **문자** (5×)
+**리나** (12×), **읽다** (6×), **기량** (5×), **효림** (10×), **연락** (6×), **피우다** (4×), **편지** (5×), **만나다** (6×), **지내다** (4×), **미안** (7×), **여자** (5×), **가** (4×), **생각** (10×), **여친** (5×), **들다** (4×)
 
 Contoh ucapan:
 
@@ -39,14 +39,14 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Ha Ian | 56 | 2% |
+| Ha Ian | 68 | 1% |
 | Lee Rina | 39 | 8% |
 | Park Dong | 23 | 4% |
 | Choi Giryang | 19 | 0% |
 | Ji Suwon | 18 | 0% |
 | Seol Hyorim | 6 | – |
 
-Yang bicara sopan kepadanya: Park Dong 50%, Ji Suwon 27%, Ha Ian 20%, Lee Rina 7%, Choi Giryang 4%
+Yang bicara sopan kepadanya: Park Dong 50%, Ji Suwon 27%, Ha Ian 19%, Lee Rina 7%, Choi Giryang 4%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._
 
@@ -54,16 +54,16 @@ _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berde
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
 | panjang | 12.3 | 13.3 |
-| % sopan | 2.5 | 5.9 |
-| % tanya | 19.9 | 10.6 |
-| % seru | 5.7 | 1.2 |
-| % ragu (...) | 37.2 | 44.7 |
-| % ㅋ/ㅎ | 4.7 | 0.0 |
-| % makian | 3.2 | 2.4 |
+| % sopan | 2.4 | 5.9 |
+| % tanya | 19.5 | 10.6 |
+| % seru | 5.4 | 1.2 |
+| % ragu (...) | 37.5 | 44.7 |
+| % ㅋ/ㅎ | 5.7 | 0.0 |
+| % makian | 3.0 | 2.4 |
 
 Kata yang muncul di **pikiran** tapi jarang diucapkan: **일** (5×), **놔두다** (3×), **좋아하다** (4×), **마주치다** (3×), **벌써** (3×), **수원** (3×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **효림** (10×), **응** (9×), **알다** (18×), **잘** (12×), **여친** (5×), **기량** (5×), **읽다** (6×), **지내다** (4×), **좀** (10×), **가** (4×), **쓰다** (6×), **연락** (6×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **효림** (10×), **응** (9×), **알다** (18×), **여친** (5×), **잘** (12×), **기량** (5×), **피우다** (4×), **읽다** (6×), **지내다** (4×), **가** (4×), **하다** (44×), **좀** (10×)
 
 Contoh pikiran:
 

@@ -39,13 +39,13 @@ Contoh ucapan:
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Kim Gwangun | 55 | 20% |
-| Hong Aera | 37 | 3% |
+| Kim Gwangun | 64 | 19% |
+| Hong Aera | 28 | 0% |
 | Lee Rina | 14 | 7% |
 | Seol Hyorim | 13 | 0% |
 | Kim Jingyeong | 1 | – |
 | Park Dong | 1 | – |
 
-Yang bicara sopan kepadanya: Hong Aera 4%, Kim Gwangun 2%, Seol Hyorim 0%, Lee Rina 0%
+Yang bicara sopan kepadanya: Hong Aera 6%, Kim Gwangun 1%, Seol Hyorim 0%, Lee Rina 0%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._

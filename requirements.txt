@@ -2,3 +2,8 @@ pandas
 matplotlib
 kiwipiepy
 jupyterlab
+scikit-learn
+torch
+transformers
+sentence-transformers
+huggingface_hub

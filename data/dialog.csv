@@ -7296,30 +7296,30 @@
 7295,ch058,6,0,ch058_panel_007_00,dialog_bubble,이리나,Lee Rina,pikiran,좋긴 하겠다~,0,panels/ch058/panel_007.jpg,"136,2,543,155",7.8,좋긴 하겠다~,0,0,"tipe→pikiran (cek balon Claude, disetujui pengguna)"
 7296,ch058,11,0,ch058_panel_012_00,dialog_bubble,하이안,Ha Ian,ucapan,근데 오빠는..,0,panels/ch058/panel_012.jpg,"165,657,527,905",14.8,근데 오빠는..,0,0,
 7297,ch058,12,0,ch058_panel_013_00,dialog_bubble,하이안,Ha Ian,ucapan,담배 왜 퍼요?,0,panels/ch058/panel_013.jpg,"163,281,520,523",15.8,담배 왜 퍼요?,0,0,
-7298,ch058,12,1,ch058_panel_013_01,dialog_bubble,홍애라,Hong Aera,ucapan,어.. 그냥?,0,panels/ch058/panel_013.jpg,"38,925,342,1140",16.3,어.. 그냥?,0,0,
-7299,ch058,13,0,ch058_panel_014_00,dialog_bubble,홍애라,Hong Aera,ucapan,나도 모르게 끌려서.,0,panels/ch058/panel_014.jpg,"299,179,656,417",17.0,나도 모르게 끌려서.,0,0,
+7298,ch058,12,1,ch058_panel_013_01,dialog_bubble,김광운,Kim Gwangun,ucapan,어.. 그냥?,0,panels/ch058/panel_013.jpg,"38,925,342,1140",16.3,어.. 그냥?,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7299,ch058,13,0,ch058_panel_014_00,dialog_bubble,김광운,Kim Gwangun,ucapan,나도 모르게 끌려서.,0,panels/ch058/panel_014.jpg,"299,179,656,417",17.0,나도 모르게 끌려서.,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7300,ch058,13,1,ch058_panel_014_01,dialog_bubble,하이안,Ha Ian,ucapan,"어쩌다 핀 거야, 언제부터?",0,panels/ch058/panel_014.jpg,"46,1053,455,1323",17.7,"어쩌다 핀 거야, 언제부터?",0,0,
-7301,ch058,14,0,ch058_panel_015_00,dialog_bubble,홍애라,Hong Aera,ucapan,오래되진 않았어.,0,panels/ch058/panel_015.jpg,"236,396,656,533",18.4,오래되진 않았어.,0,0,
-7302,ch058,14,1,ch058_panel_015_01,dialog_bubble,홍애라,Hong Aera,ucapan,진짜 안 피려다가 우연히 한번 입에 댔는데,0,panels/ch058/panel_015.jpg,"89,1123,598,1388",19.1,진짜 안 피려다가 우연히 한번 입에 댔는데,0,0,
-7303,ch058,15,0,ch058_panel_016_00,dialog_bubble,홍애라,Hong Aera,ucapan,끊지를 못하겠어ㅋㅋ 집중도 안 되고.,0,panels/ch058/panel_016.jpg,"99,738,595,989",20.0,끊지를 못하겠어ㅋㅋ 집중도 안 되고.,0,0,
+7301,ch058,14,0,ch058_panel_015_00,dialog_bubble,김광운,Kim Gwangun,ucapan,오래되진 않았어.,0,panels/ch058/panel_015.jpg,"236,396,656,533",18.4,오래되진 않았어.,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7302,ch058,14,1,ch058_panel_015_01,dialog_bubble,김광운,Kim Gwangun,ucapan,진짜 안 피려다가 우연히 한번 입에 댔는데,0,panels/ch058/panel_015.jpg,"89,1123,598,1388",19.1,진짜 안 피려다가 우연히 한번 입에 댔는데,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7303,ch058,15,0,ch058_panel_016_00,dialog_bubble,김광운,Kim Gwangun,ucapan,끊지를 못하겠어ㅋㅋ 집중도 안 되고.,0,panels/ch058/panel_016.jpg,"99,738,595,989",20.0,끊지를 못하겠어ㅋㅋ 집중도 안 되고.,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7304,ch058,15,1,ch058_panel_016_01,dialog_bubble,하이안,Ha Ian,ucapan,"담배가 나빴네, 그쵸.",0,panels/ch058/panel_016.jpg,"29,1415,377,1600",20.6,"담배가 나뻤네, 그초.",1,0,
-7305,ch058,16,0,ch058_panel_017_00,dialog_bubble,홍애라,Hong Aera,ucapan,그니까ㅎㅎ,0,panels/ch058/panel_017.jpg,"338,329,657,542",21.0,그니까ㅎㅎ,0,0,
-7306,ch058,16,1,ch058_panel_017_01,dialog_bubble,홍애라,Hong Aera,ucapan,"고민이야, 자꾸 피우게 돼서.",0,panels/ch058/panel_017.jpg,"66,1268,457,1533",21.8,"고민이야, 자꾸 피우게 돼서.",0,0,
-7307,ch058,17,0,ch058_panel_018_00,dialog_bubble,홍애라,Hong Aera,ucapan,..피우지 말랬는데.,0,panels/ch058/panel_018.jpg,"275,0,617,204",22.0,..피우지 말랬는데.,0,0,
+7305,ch058,16,0,ch058_panel_017_00,dialog_bubble,김광운,Kim Gwangun,ucapan,그니까ㅎㅎ,0,panels/ch058/panel_017.jpg,"338,329,657,542",21.0,그니까ㅎㅎ,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7306,ch058,16,1,ch058_panel_017_01,dialog_bubble,김광운,Kim Gwangun,ucapan,"고민이야, 자꾸 피우게 돼서.",0,panels/ch058/panel_017.jpg,"66,1268,457,1533",21.8,"고민이야, 자꾸 피우게 돼서.",0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7307,ch058,17,0,ch058_panel_018_00,dialog_bubble,김광운,Kim Gwangun,ucapan,..피우지 말랬는데.,0,panels/ch058/panel_018.jpg,"275,0,617,204",22.0,..피우지 말랬는데.,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7308,ch058,19,0,ch058_panel_020_00,dialog_bubble,하이안,Ha Ian,ucapan,..그 애가?,0,panels/ch058/panel_020.jpg,"162,1032,522,1264",25.4,..그 애가?,0,0,
-7309,ch058,20,0,ch058_panel_021_00,dialog_bubble,홍애라,Hong Aera,ucapan,아.. 그냥 다들 피우지 말라 하지. 부모님도 선생들도ㅋㅋ,0,panels/ch058/panel_021.jpg,"93,317,593,643",26.2,아.. 그냥 다들 피우지 말라 하지. 부모님도 선생들도ㅋㅋ,0,0,
-7310,ch058,20,1,ch058_panel_021_02,dialog_bubble,홍애라,Hong Aera,ucapan,좋은 거 아니니깐ㅋㅋ;,0,panels/ch058/panel_021.jpg,"163,1360,518,1600",27.0,좋은 거 아니니깐ㅋㅋ;,0,0,
-7311,ch058,22,0,ch058_panel_023_01,dialog_bubble,홍애라,Hong Aera,ucapan,어....,0,panels/ch058/panel_023.jpg,"458,1060,636,1194",29.3,어....,0,0,
+7309,ch058,20,0,ch058_panel_021_00,dialog_bubble,김광운,Kim Gwangun,ucapan,아.. 그냥 다들 피우지 말라 하지. 부모님도 선생들도ㅋㅋ,0,panels/ch058/panel_021.jpg,"93,317,593,643",26.2,아.. 그냥 다들 피우지 말라 하지. 부모님도 선생들도ㅋㅋ,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7310,ch058,20,1,ch058_panel_021_02,dialog_bubble,김광운,Kim Gwangun,ucapan,좋은 거 아니니깐ㅋㅋ;,0,panels/ch058/panel_021.jpg,"163,1360,518,1600",27.0,좋은 거 아니니깐ㅋㅋ;,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7311,ch058,22,0,ch058_panel_023_01,dialog_bubble,김광운,Kim Gwangun,ucapan,어....,0,panels/ch058/panel_023.jpg,"458,1060,636,1194",29.3,어....,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7312,ch058,23,0,ch058_panel_024_00,dialog_bubble,하이안,Ha Ian,ucapan,콜록!!!!!,0,panels/ch058/panel_024.jpg,"33,195,290,367",29.9,콜록!!!!!,0,0,
 7313,ch058,23,1,ch058_panel_024_01,dialog_bubble,하이안,Ha Ian,ucapan,캬헥 콜록!!,0,panels/ch058/panel_024.jpg,"96,358,362,497",30.0,콜록!!,1,0,
-7314,ch058,23,2,ch058_panel_024_03,dialog_bubble,홍애라,Hong Aera,ucapan,야 그걸 왜 피냐..;,0,panels/ch058/panel_024.jpg,"393,330,654,515",30.0,야 그걸 왜 피냐..;,0,0,
-7315,ch058,24,0,ch058_panel_025_00,dialog_bubble,홍애라,Hong Aera,ucapan,괜찮아?,0,panels/ch058/panel_025.jpg,"77,1,364,109",31.0,괜잖아?,1,0,
+7314,ch058,23,2,ch058_panel_024_03,dialog_bubble,김광운,Kim Gwangun,ucapan,야 그걸 왜 피냐..;,0,panels/ch058/panel_024.jpg,"393,330,654,515",30.0,야 그걸 왜 피냐..;,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7315,ch058,24,0,ch058_panel_025_00,dialog_bubble,김광운,Kim Gwangun,ucapan,괜찮아?,0,panels/ch058/panel_025.jpg,"77,1,364,109",31.0,괜잖아?,1,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7316,ch058,24,1,ch058_panel_025_01,dialog_bubble,하이안,Ha Ian,ucapan,콜록!!,0,panels/ch058/panel_025.jpg,"359,17,625,198",31.0,콜록!!,0,0,
-7317,ch058,24,2,ch058_panel_025_02,dialog_bubble,홍애라,Hong Aera,ucapan,안 피우던 애가 갑자기..,0,panels/ch058/panel_025.jpg,"164,961,521,1201",31.8,안 피우던 애가 갑자기..,0,0,
+7317,ch058,24,2,ch058_panel_025_02,dialog_bubble,김광운,Kim Gwangun,ucapan,안 피우던 애가 갑자기..,0,panels/ch058/panel_025.jpg,"164,961,521,1201",31.8,안 피우던 애가 갑자기..,0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7318,ch058,26,0,ch058_panel_027_01,dialog_bubble,하이안,Ha Ian,ucapan,안 괜찮아.,0,panels/ch058/panel_027.jpg,"176,1474,505,1600",34.8,안 괜찮아.,0,0,
 7319,ch058,27,0,ch058_panel_028_01,dialog_bubble,하이안,Ha Ian,ucapan,어지러워요 ㅋㅋ,0,panels/ch058/panel_028.jpg,"158,720,519,968",35.5,어지러워요 ㅋㅋ,0,0,
-7320,ch058,28,0,ch058_panel_029_00,dialog_bubble,홍애라,Hong Aera,ucapan,"어,",0,panels/ch058/panel_029.jpg,"83,205,320,368",36.3,"어,",0,0,
-7321,ch058,28,1,ch058_panel_029_01,dialog_bubble,홍애라,Hong Aera,ucapan,"어지럽지, 당연히..",0,panels/ch058/panel_029.jpg,"312,313,597,525",36.4,"어지럽지, 당연히..",0,0,
+7320,ch058,28,0,ch058_panel_029_00,dialog_bubble,김광운,Kim Gwangun,ucapan,"어,",0,panels/ch058/panel_029.jpg,"83,205,320,368",36.3,"어,",0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
+7321,ch058,28,1,ch058_panel_029_01,dialog_bubble,김광운,Kim Gwangun,ucapan,"어지럽지, 당연히..",0,panels/ch058/panel_029.jpg,"312,313,597,525",36.4,"어지럽지, 당연히..",0,0,dikoreksi Claude 2026-11-07 (disetujui pengguna): 홍애라 -> 김광운
 7322,ch058,29,0,ch058_panel_030_00,dialog_bubble,하이안,Ha Ian,ucapan,..난 뭐라 안 할게.,0,panels/ch058/panel_030.jpg,"123,144,548,365",37.6,..난 뭐라 안 할게.,0,0,
 7323,ch058,29,1,ch058_panel_030_01,dialog_bubble,하이안,Ha Ian,ucapan,..부모님이나 선생님들처럼.,0,panels/ch058/panel_030.jpg,"249,1099,655,1360",38.4,..부모님이나 선생님들처럼.,0,0,
 7324,ch058,30,0,ch058_panel_031_00,dialog_bubble,하이안,Ha Ian,ucapan,앞으로는 물어보지 말고,0,panels/ch058/panel_031.jpg,"137,295,541,564",39.0,앞으로는 물어보지 말고,0,0,
