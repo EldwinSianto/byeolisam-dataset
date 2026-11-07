@@ -1,74 +1,74 @@
 # Ji Suwon (지수원)
 
 ## Kemunculan
-- Total **1310 teks** di **53 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▂▃▂▄▃▄▁▃▃▂▄▆▇▅▄▄▁▂▂▂▁▃▂▃▁▄▃▆▁▁▃▇▃▂▂ ▂▁▁ ▁▃▁▂▃▃▂▂▆█▂▁▂▂▁`
-- Chapter tersibuk: ch055 (75), ch018 (73), ch037 (70)
+- Total **4585 teks** di **193 chapter** (ch001 – ch217)
+- Per 5 chapter (ch001 → ch217): `▇▄▄█▃▃▄▅▁▂▆▂▃▁▂▄▃▃▅▂▃▂▄▁▄▃▅▃▇▃▃▅▂▃▃▂▅▃▄▂▅▂▁▁`
+- Chapter tersibuk: ch055 (75), ch001 (74), ch018 (73)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 664 | 641 | 1 | 4 |
+| 2736 | 1572 | 12 | 4 |
 
-Porsi pikiran **49%** → kemungkinan tokoh sudut pandang (POV).
+Porsi pikiran **34%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 11.0 | 12.9 |  |
-| % sopan | 3.0 | 3.0 |  |
-| % tanya | 22.3 | 24.4 |  |
-| % seru | 16.2 | 14.4 |  |
-| % ragu (...) | 43.6 | 23.7 | ⬆ jauh lebih tinggi |
-| % ㅋ/ㅎ | 6.0 | 8.2 |  |
-| % makian | 1.5 | 7.0 | ⬇ jauh lebih rendah |
+| panjang | 11.4 | 12.8 |  |
+| % sopan | 3.8 | 4.0 |  |
+| % tanya | 21.3 | 23.0 |  |
+| % seru | 15.5 | 14.6 |  |
+| % ragu (...) | 37.7 | 24.0 | ⬆ jauh lebih tinggi |
+| % ㅋ/ㅎ | 6.2 | 7.5 |  |
+| % makian | 0.5 | 4.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
-**응** (37×), **줄이다** (10×), **아** (53×), **으** (7×), **아아** (8×), **엉** (14×), **엄청** (6×), **예쁘다** (5×), **안녕** (5×), **그** (13×), **약속** (4×), **어** (21×), **잘** (20×), **잘못** (5×), **그냥** (16×)
+**응** (93×), **으응** (20×), **아냐** (29×), **아** (136×), **그림** (14×), **헤헤** (11×), **엥** (10×), **엉** (30×), **연습장** (7×), **화** (14×), **으** (19×), **만화** (11×), **화내다** (8×), **이따** (8×), **윽** (11×)
 
 Contoh ucapan:
 
-- ch006: 어, 어, 아, 안녕..  `ch006_panel_011_01`
-- ch007: 그냥 내가 잘못했으니까 용서받고 싶은거 뿐이지.  `ch007_panel_012_01`
+- ch009: 으..응, 여기!!  `ch009_panel_038_01`
+- ch010: 으..응. 안그래도 만화가가 꿈이야..!  `ch010_panel_006_01`
 - ch015: 응, , 아, 안녕!  `ch015_panel_033_01`
 - ch024: 아..응. 주말에 줄였어!  `ch024_panel_063_00`
-- ch054: 뭐야, 진경이 노래 엄청 잘하잖아 ..!? 어  `ch054_panel_048_01`
+- ch033: 아, 축축한 거 봐. 나 이따 입어야 되는데.  `ch033_panel_045_00`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Park Dong | 137 | 0% |
-| Seol Hyorim | 65 | 6% |
-| Kim Inseop | 64 | 2% |
-| Yang Jinsu | 59 | 3% |
-| Lee Junhyeon | 46 | 2% |
-| Kim Jiseong | 15 | 0% |
+| Seol Hyorim | 669 | 2% |
+| Park Dong | 409 | 2% |
+| Kim Inseop | 177 | 3% |
+| Lee Rina | 99 | 4% |
+| Won Suji | 74 | 3% |
+| Lee Junhyeon | 73 | 3% |
 
-Yang bicara sopan kepadanya: Lee Junhyeon 4%, Park Dong 2%, Yang Jinsu 2%, Kim Inseop 2%, anon_c025 0%
+Yang bicara sopan kepadanya: An Sihu 38%, Choi Giryang 11%, Lee Daegyu 9%, Won Suji 3%, Seol Hyorim 3%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._
 
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 11.0 | 12.0 |
-| % sopan | 3.0 | 0.9 |
-| % tanya | 22.3 | 10.5 |
-| % seru | 16.2 | 12.3 |
-| % ragu (...) | 43.6 | 26.7 |
-| % ㅋ/ㅎ | 6.0 | 0.0 |
-| % makian | 1.5 | 0.8 |
+| panjang | 11.4 | 12.6 |
+| % sopan | 3.8 | 1.7 |
+| % tanya | 21.3 | 12.0 |
+| % seru | 15.5 | 11.3 |
+| % ragu (...) | 37.7 | 29.6 |
+| % ㅋ/ㅎ | 6.2 | 0.4 |
+| % makian | 0.5 | 0.8 |
 
-Kata yang muncul di **pikiran** tapi jarang diucapkan: **설효림** (41×), **생각** (15×), **날** (7×), **어떡하다** (7×), **크다** (7×), **역시** (7×), **고백** (7×), **못** (12×), **기분** (6×), **만들다** (7×), **좋다** (14×), **시간** (6×)
+Kata yang muncul di **pikiran** tapi jarang diucapkan: **설효림** (61×), **역시** (22×), **양아치** (12×), **양진수** (19×), **예쁘다** (12×), **얼굴** (13×), **상상** (10×), **대체** (11×), **날** (12×), **여자** (14×), **기분** (17×), **자식** (9×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **아** (53×), **가다** (41×), **응** (37×), **어** (21×), **잘** (20×), **안** (34×), **진짜** (13×), **엉** (14×), **그** (13×), **아니** (10×), **그래** (9×), **뭐** (15×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **아** (136×), **가다** (153×), **응** (93×), **어** (60×), **그** (36×), **진짜** (53×), **그냥** (58×), **그래** (38×), **야** (41×), **엉** (30×), **아냐** (29×), **하다** (249×)
 
 Contoh pikiran:
 
-- ch008: 훨씬 기분 좋았는지도 모르겠다.  `ch008_panel_042_00`
-- ch009: 좋아 죽겠잖아!!  `ch009_panel_029_00`
-- ch011: 옆을 쳐다보지도 못했지만  `ch011_panel_023_00`
-- ch013: 이 날 이벤트는 주최 측의 수용인원 계산 미스로  `ch013_panel_047_01`
-- ch031: 그때와는 역시 느낌이 달라.  `ch031_panel_060_00`
+- ch001: 그런 양아치 같은 놈이 대체 뭐가 좋다고..  `ch001_panel_065_02`
+- ch002: 본인 제외 사람 자체에 관심이 없음.  `ch002_panel_023_04`
+- ch003: 항상 저런 예쁜 애들 주위엔 사람이 득실거린다.  `ch003_panel_013_05`
+- ch005: 그래도보는눈은 노 있는양아치네.  `ch005_panel_017_02`
+- ch007: 그 눈이 예쁜건데..  `ch007_panel_006_01`

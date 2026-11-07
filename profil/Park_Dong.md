@@ -1,74 +1,74 @@
 # Park Dong (박동)
 
 ## Kemunculan
-- Total **1097 teks** di **50 chapter** (ch007 – ch060)
-- Per chapter (ch006 → ch060): ` ▃▄▂▃▁▁   ▃▄▃▄▅▂▃▅▆▆▄▂▂▂▃▂▆▆ ▃▃▃▄▂▂▁▅▅▄▁▃▁▂▃▁▄▃▆▂▁█▄▅▆▂`
-- Chapter tersibuk: ch056 (54), ch024 (46), ch059 (46)
+- Total **3294 teks** di **171 chapter** (ch001 – ch217)
+- Per 5 chapter (ch001 → ch217): `▃▃▁▅▆▃▅▃▄▂▄▆▄▃▃▅▄▂▃▃▃▂▁▅▁▄▂▃▁▆▁▃▂▁ ▁▄▁▂▂▂▆█▁`
+- Chapter tersibuk: ch120 (81), ch216 (75), ch207 (67)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 919 | 172 | 2 | 4 |
+| 2667 | 567 | 8 | 4 |
 
-Porsi pikiran **16%** → kemungkinan tokoh sudut pandang (POV).
+Porsi pikiran **17%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.3 | 12.9 |  |
-| % sopan | 3.5 | 3.0 |  |
-| % tanya | 23.1 | 24.4 |  |
-| % seru | 13.1 | 14.4 |  |
-| % ragu (...) | 22.4 | 23.7 |  |
-| % ㅋ/ㅎ | 5.6 | 8.2 |  |
-| % makian | 14.1 | 7.0 | ⬆ jauh lebih tinggi |
+| panjang | 13.8 | 12.8 |  |
+| % sopan | 3.7 | 4.0 |  |
+| % tanya | 22.0 | 23.0 |  |
+| % seru | 14.2 | 14.6 |  |
+| % ragu (...) | 20.9 | 24.0 |  |
+| % ㅋ/ㅎ | 6.1 | 7.5 |  |
+| % makian | 10.7 | 4.0 | ⬆ jauh lebih tinggi |
 
 ## Kata khas (dibanding tokoh lain)
 
-**키** (19×), **붕** (15×), **신** (15×), **새꺄** (14×), **새키** (9×), **키다** (6×), **머리** (19×), **앉다** (7×), **예** (7×), **꼭** (6×), **사다** (11×), **설효** (19×), **먹이다** (4×), **돌리다** (5×), **지금** (13×)
+**키** (71×), **신** (48×), **붕** (44×), **새키** (22×), **지수** (16×), **캬** (18×), **새꺄** (15×), **새캬** (14×), **반장** (13×), **결혼** (12×), **키다** (13×), **새** (16×), **설효** (43×), **졸라** (9×), **붕신아** (8×)
 
 Contoh ucapan:
 
-- ch023: 설효랑 뭔가 기료 같은 것도 안 흐르면서 그냥 고백하면 무조건 차이지, 붕신아.  `ch023_panel_007_01`
-- ch036: 아 그러네. 붕신, 나 같으면 머리 잘라온다 강.  `ch036_panel_059_00`
-- ch040: ㅈㄹ마 붕신새카 니도 지금 ㅈㄴ 찌질하거든?  `ch040_panel_022_00`
+- ch001: 붕ㅋㅋㅋ신ㅋㅋㅋ 고백 할라고? ㅈㄴ 귀엽네ㅋㅋㅋ  `ch001_panel_047_01`
+- ch023: 설효랑 뭔가 기류 같은 것도 안 흐르면서 그냥 고백하면 무조건 차이지, 붕신아.  `ch023_panel_007_01`
 - ch052: 붕신같은 새키..  `ch052_panel_066_00`
-- ch053: 이 잘생긴 새키도 머리를 이렇게 잘라놓으니 꼭 돌추같잖아!!  `ch053_panel_017_02`
+- ch076: 김지성, 이 붕신새키!!  `ch076_panel_007_00`
+- ch179: ㅋㅋㅋㅋ 붕신새키 금연학교 언제 가냐?  `ch179_panel_070_02`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Yang Jinsu | 166 | 1% |
-| Ji Suwon | 141 | 2% |
-| Seol Hyorim | 62 | 3% |
-| Lee Rina | 57 | 2% |
-| Lee Daegyu | 41 | 0% |
-| Sung Huijun | 39 | 5% |
+| Lee Rina | 521 | 2% |
+| Ji Suwon | 451 | 2% |
+| Yang Jinsu | 171 | 1% |
+| Seol Hyorim | 164 | 1% |
+| Kim Inseop | 108 | 2% |
+| Lee Daegyu | 107 | 2% |
 
-Yang bicara sopan kepadanya: Jung Cheolgyu 4%, Sung Huijun 2%, Seol Hyorim 2%, Yang Jinsu 2%, Lee Rina 2%
+Yang bicara sopan kepadanya: An Sihu 25%, Jung Cheolgyu 5%, Kim Gwangun 4%, Kim Inseop 4%, Lee Daegyu 3%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._
 
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 14.3 | 12.4 |
-| % sopan | 3.5 | 1.2 |
-| % tanya | 23.1 | 8.7 |
-| % seru | 13.1 | 5.8 |
-| % ragu (...) | 22.4 | 34.9 |
-| % ㅋ/ㅎ | 5.6 | 0.0 |
-| % makian | 14.1 | 5.8 |
+| panjang | 13.8 | 13.2 |
+| % sopan | 3.7 | 2.1 |
+| % tanya | 22.0 | 12.3 |
+| % seru | 14.2 | 8.3 |
+| % ragu (...) | 20.9 | 38.1 |
+| % ㅋ/ㅎ | 6.1 | 0.5 |
+| % makian | 10.7 | 7.9 |
 
-Kata yang muncul di **pikiran** tapi jarang diucapkan: **같다** (9×), **쪽팔리다** (3×), **역시** (4×), **쓰다** (3×), **신경** (3×), **끝나다** (3×), **설효** (7×), **좋다** (5×), **친구** (4×), **이상** (3×), **치다** (3×), **사람** (3×)
+Kata yang muncul di **pikiran** tapi jarang diucapkan: **신경** (9×), **역시** (7×), **처음** (6×), **쓰이다** (5×), **동안** (5×), **메뚜기** (6×), **중** (5×), **짧다** (4×), **하필** (4×), **저** (4×), **어떡하다** (3×), **이리나** (11×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **야** (49×), **아** (55×), **가다** (44×), **하다** (94×), **키** (19×), **더** (14×), **새꺄** (14×), **사다** (11×), **자르다** (10×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **야** (109×), **가다** (185×), **아** (111×), **붕** (44×), **안** (167×), **아니** (36×), **뭐** (50×), **강** (21×), **어** (38×), **다** (70×), **사다** (23×), **새키** (22×)
 
 Contoh pikiran:
 
-- ch020: 이젠 설효 안 좋아한다고..?  `ch020_panel_031_00`
-- ch023: 신경 안 쓴다고.  `ch023_panel_054_04`
-- ch024: 이제 다 같이 매점으로 가서  `ch024_panel_010_01`
-- ch025: 양진 성격상 쪽팔려서 너 안 보려고 할 거야, 백퍼.  `ch025_panel_029_01`
-- ch032: 학교는 여자애들 보기 쪽팔려서  `ch032_panel_037_00`
+- ch004: 중딩때 봤던 고딩 형들처럼 어른스러워 지는건  `ch004_panel_030_02`
+- ch020: 중딩때도 잘 안 부리던 허세가 늘었다 했더니  `ch020_panel_028_02`
+- ch030: 저 ㅅㄲ는 중딩때랑 변한 게 없어..  `ch030_panel_016_00`
+- ch036: 아니, 그게 아니라 왜 하필 지금 저 ㅈㄹ인거야?!  `ch036_panel_029_01`
+- ch056: ㅈㄴ 신경 쓰이네..  `ch056_panel_076_01`

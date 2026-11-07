@@ -115,7 +115,8 @@ def kartu(p):
     L = [f"# {nama} ({p})", ""]
     L += ["## Kemunculan", f"- Total **{len(semua)} teks** di **{(per_ch > 0).sum()} chapter** "
           f"({per_ch[per_ch > 0].index.min()} – {per_ch[per_ch > 0].index.max()})",
-          f"- Per chapter (ch006 → ch060): `{spark(per_ch.tolist())}`",
+          f"- Per 5 chapter ({CHAPTERS[0]} → {CHAPTERS[-1]}): "
+          f"`{spark([sum(per_ch.tolist()[k:k + 5]) for k in range(0, len(CHAPTERS), 5)])}`",
           f"- Chapter tersibuk: " + ", ".join(f"{c} ({n})" for c, n in per_ch.nlargest(3).items()), ""]
     tp = semua.tipe.value_counts()
     L += ["## Porsi tipe teks", "| ucapan | pikiran | tulisan | ingatan* |", "|---|---|---|---|",

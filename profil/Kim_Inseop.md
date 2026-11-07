@@ -1,74 +1,74 @@
 # Kim Inseop (김인섭)
 
 ## Kemunculan
-- Total **207 teks** di **18 chapter** (ch007 – ch058)
-- Per chapter (ch006 → ch060): ` █▁ ▃▃     ▃▃ ▅▃           ▂▅▃ ▁▅   ▂ ▁       ▂    ▁▁  `
-- Chapter tersibuk: ch007 (35), ch038 (22), ch020 (21)
+- Total **1027 teks** di **88 chapter** (ch001 – ch217)
+- Per 5 chapter (ch001 → ch217): `▄▄▁▃▁ ▃▂▁ ▁▁▁ ▁▃▃▂▂▁ ▁▁   ▄▁▁▃█▂▂▃▁▂▃▂▁▁▅▄▂▅`
+- Chapter tersibuk: ch217 (72), ch206 (63), ch151 (55)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 181 | 24 | 0 | 2 |
+| 915 | 105 | 3 | 2 |
 
-Porsi pikiran **12%** → jarang terlihat isi pikirannya.
+Porsi pikiran **10%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 13.9 | 12.9 |  |
-| % sopan | 0.6 | 3.0 | ⬇ jauh lebih rendah |
-| % tanya | 26.5 | 24.4 |  |
-| % seru | 8.8 | 14.4 |  |
-| % ragu (...) | 29.3 | 23.7 |  |
-| % ㅋ/ㅎ | 9.4 | 8.2 |  |
-| % makian | 8.8 | 7.0 |  |
+| panjang | 14.0 | 12.8 |  |
+| % sopan | 1.7 | 4.0 | ⬇ jauh lebih rendah |
+| % tanya | 25.2 | 23.0 |  |
+| % seru | 11.7 | 14.6 |  |
+| % ragu (...) | 24.3 | 24.0 |  |
+| % ㅋ/ㅎ | 9.2 | 7.5 |  |
+| % makian | 4.9 | 4.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
-**지수원** (9×), **냄새** (4×), **강** (5×), **다니다** (5×), **친하다** (4×), **이** (5×), **없다** (11×), **그** (5×), **들** (4×), **모르다** (4×), **미치다** (5×)
+**빡미** (10×), **설효림** (16×), **혜원** (5×), **이준현** (4×), **역할** (4×), **넘다** (6×), **주** (8×), **냄새** (7×), **어색** (4×), **지수원** (15×), **만나다** (11×), **짝사랑** (4×), **여보** (4×), **배** (5×), **가르치다** (4×)
 
 Contoh ucapan:
 
-- ch007: 개네 ㅈㄴ 친한 베프야. 걱정할거 없겠네.  `ch007_panel_010_01`
-- ch011: 알려졌으면 너 학교 못다니지, ㅂㅅ아.  `ch011_panel_034_02`
-- ch018: 요즘 학교에서 맨날 불어 다니고, ㅈㄴ 맘에 안들어.  `ch018_panel_006_00`
-- ch020: 너그ㅅㄲ들이그냥 데리고 다니는 거야~  `ch020_panel_074_00`
-- ch021: 진짜 미쳤네, 이ㅅㅂ롬이..!  `ch021_panel_005_01`
+- ch002: 나배놀이터. 여보는?  `ch002_panel_018_01`
+- ch003: 설효림, 재 같은 애들은 아무나 안 만나.  `ch003_panel_017_03`
+- ch113: 설효림을 투명인간 취급하는 지수원.  `ch113_panel_011_01`
+- ch168: 아니, 빡미가 남굴희 역할이라니까 확짜증나가지고ㅋㅋ  `ch168_panel_036_01`
+- ch215: 헉주 만났다매?  `ch215_panel_069_03`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Ji Suwon | 65 | 2% |
-| Lee Junhyeon | 26 | 0% |
-| Park Dong | 13 | 0% |
-| Oh Inho | 8 | 0% |
-| anon_c081 | 4 | – |
-| anon_c111 | 1 | – |
+| Park Mijin | 189 | 3% |
+| Ji Suwon | 178 | 2% |
+| Park Dong | 93 | 4% |
+| Lee Junhyeon | 65 | 2% |
+| Song Sena | 26 | 0% |
+| Lee Rina | 23 | 0% |
 
-Yang bicara sopan kepadanya: Ji Suwon 2%, Park Dong 0%, Oh Inho 0%, Lee Junhyeon 0%
+Yang bicara sopan kepadanya: Lee Daegyu 6%, Ji Suwon 3%, Park Mijin 2%, Park Dong 2%, Lee Junhyeon 2%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._
 
 ## Ucapan vs pikiran
 | ciri | diucapkan | dipikirkan |
 |---|---|---|
-| panjang | 13.9 | 12.3 |
-| % sopan | 0.6 | 0.0 |
-| % tanya | 26.5 | 12.5 |
-| % seru | 8.8 | 8.3 |
-| % ragu (...) | 29.3 | 41.7 |
-| % ㅋ/ㅎ | 9.4 | 0.0 |
-| % makian | 8.8 | 0.0 |
+| panjang | 14.0 | 12.3 |
+| % sopan | 1.7 | 1.9 |
+| % tanya | 25.2 | 14.3 |
+| % seru | 11.7 | 6.7 |
+| % ragu (...) | 24.3 | 47.6 |
+| % ㅋ/ㅎ | 9.2 | 0.0 |
+| % makian | 4.9 | 1.9 |
 
-Kata yang muncul di **pikiran** tapi jarang diucapkan: 
+Kata yang muncul di **pikiran** tapi jarang diucapkan: **말** (9×), **대체** (3×), **역시** (3×), **알다** (6×), **친하다** (3×), **없다** (9×)
 
-Kata yang **diucapkan** tapi jarang dipikirkan: **지수원** (9×), **아** (15×)
+Kata yang **diucapkan** tapi jarang dipikirkan: **아** (44×), **만나다** (11×), **좋다** (28×), **야** (31×), **피다** (11×)
 
 Contoh pikiran:
 
-- ch010: 이...이 ㅅㄲ가지금  `ch010_panel_023_01`
-- ch034: 어린 시절의 우정은  `ch034_panel_006_00`
-- ch035: 어떤 사람이고 싶은거지?  `ch035_panel_029_01`
-- ch038: 잠깐, 이거..  `ch038_panel_013_00`
-- ch052: 뭔 일이야, 이게..?  `ch052_panel_009_00`
+- ch005: 역시 안되겠어.  `ch005_panel_042_00`
+- ch010: 응아는 역시 아무도 안쓰는 5층 교직원 화장실이  `ch010_panel_012_00`
+- ch038: 아무리 설효림이랑 친해졌대도 이걸 공유할리는 없는데.  `ch038_panel_011_02`
+- ch109: 왜 친해진 줄 알겠다.  `ch109_panel_014_04`
+- ch151: 아무도 안 쓰는 1층이 역시 응아하기 좋단 말이지.  `ch151_panel_005_01`

@@ -1,51 +1,74 @@
 # Kim Jingyeong (김진경)
 
 ## Kemunculan
-- Total **93 teks** di **21 chapter** (ch006 – ch060)
-- Per chapter (ch006 → ch060): `▄    ▂█▃▁▆▅     ▇▂▃     ▅  ▁  ▂            ▁▁  ▂▃▂▄▁  ▂`
-- Chapter tersibuk: ch012 (12), ch022 (11), ch015 (9)
+- Total **707 teks** di **101 chapter** (ch004 – ch213)
+- Per 5 chapter (ch001 → ch217): `▁▁▃▁▂▁▁▁ ▁▁▁▂▃▂▇▄▂▂▁▂▂▂▄▂▂▁▁▁▁█▂▄▃▁▁▃▁▁▁ ▁▂ `
+- Chapter tersibuk: ch155 (78), ch079 (50), ch119 (36)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 91 | 0 | 2 | 0 |
+| 565 | 139 | 3 | 0 |
 
-Porsi pikiran **0%** → jarang terlihat isi pikirannya.
+Porsi pikiran **20%** → kemungkinan tokoh sudut pandang (POV).
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 14.9 | 12.9 |  |
-| % sopan | 1.1 | 3.0 | ⬇ jauh lebih rendah |
-| % tanya | 28.0 | 24.4 |  |
-| % seru | 5.4 | 14.4 | ⬇ jauh lebih rendah |
-| % ragu (...) | 14.0 | 23.7 | ⬇ jauh lebih rendah |
-| % ㅋ/ㅎ | 28.0 | 8.2 | ⬆ jauh lebih tinggi |
-| % makian | 2.2 | 7.0 | ⬇ jauh lebih rendah |
+| panjang | 12.3 | 12.8 |  |
+| % sopan | 2.3 | 4.0 | ⬇ jauh lebih rendah |
+| % tanya | 26.2 | 23.0 |  |
+| % seru | 13.6 | 14.6 |  |
+| % ragu (...) | 31.3 | 24.0 |  |
+| % ㅋ/ㅎ | 12.5 | 7.5 | ⬆ jauh lebih tinggi |
+| % makian | 0.7 | 4.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
-**많다** (4×), **양진수** (4×), **애** (5×)
+**오인호** (8×), **밍키** (5×), **리나** (11×), **김지성** (5×), **꽤** (5×), **서다** (6×), **살** (4×), **빼다** (6×), **에** (4×), **빡미** (5×), **같이** (14×), **아프다** (4×), **멀다** (4×), **설효** (10×), **수원** (9×)
 
 Contoh ucapan:
 
-- ch012: 심한거 같긴 해. 아무리 3살 많대도 너무 애 취급이신데.  `ch012_panel_020_02`
-- ch015: 양진수! 우리 그냥 집 가기로 했는데 어쩔래? ㅁ  `ch015_panel_031_00`
-- ch016: 약, 목발한 거 봐~!! 안 아파 이제?  `ch016_panel_024_00`
-- ch023: 애들 보고 배운거지, 뭐.  `ch023_panel_026_01`
-- ch053: 아 쪽팔려 가까이 오지 마 ㅋㅋㅋ  `ch053_panel_070_01`
+- ch006: 오ㅋㅋㅋ 꽤 그럴듯한데?  `ch006_panel_035_02`
+- ch082: 수원아, 가는 김에 설효 뭐하나 봐줘. 왜 안 나오지?  `ch082_panel_034_02`
+- ch104: 어.. 오인호도 같이 하는구나?  `ch104_panel_040_01`
+- ch124: ..랑 수원이도 같이 있네?  `ch124_panel_082_02`
+- ch155: 쪼끔이지만 뺐던 살도 다시 쪘어..ㅎㅎ  `ch155_panel_046_01`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Lee Rina | 39 | 0% |
-| Seol Hyorim | 26 | 0% |
-| Park Dong | 6 | – |
-| Yang Jinsu | 5 | – |
-| Ji Suwon | 5 | – |
-| Kim Jiseong | 2 | – |
+| Seol Hyorim | 115 | 1% |
+| Lee Rina | 97 | 2% |
+| Park Mijin | 51 | 4% |
+| Ji Suwon | 48 | 0% |
+| Oh Inho | 32 | 0% |
+| Park Dong | 22 | 0% |
 
-Yang bicara sopan kepadanya: Park Dong 0%, Seol Hyorim 0%, Lee Rina 0%
+Yang bicara sopan kepadanya: Oh Inho 6%, Seol Hyorim 3%, Lee Rina 2%, Park Mijin 2%, Kim Inseop 0%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._
+
+## Ucapan vs pikiran
+| ciri | diucapkan | dipikirkan |
+|---|---|---|
+| panjang | 12.3 | 11.4 |
+| % sopan | 2.3 | 1.4 |
+| % tanya | 26.2 | 12.9 |
+| % seru | 13.6 | 11.5 |
+| % ragu (...) | 31.3 | 46.0 |
+| % ㅋ/ㅎ | 12.5 | 0.7 |
+| % makian | 0.7 | 0.0 |
+
+Kata yang muncul di **pikiran** tapi jarang diucapkan: **대하다** (3×), **싫다** (3×), **순간** (3×), **김진경** (3×), **여행** (3×), **못** (5×), **잠재력** (4×), **요시키** (3×)
+
+Kata yang **diucapkan** tapi jarang dipikirkan: **같이** (14×), **리나** (11×), **설효** (10×), **수원** (9×), **괜찮다** (9×), **빼다** (6×), **그러다** (8×), **먹다** (13×), **김지성** (5×), **꽤** (5×), **같다** (22×), **뭐** (14×)
+
+Contoh pikiran:
+
+- ch016: ㅋㅋ역시 솔직하지 못해.  `ch016_panel_031_02`
+- ch078: 다들 짝(?)이 있는데  `ch078_panel_069_00`
+- ch079: 어울리지도 않고, 다 유지하단 것처럼.  `ch079_panel_015_01`
+- ch082: 얜 진짜 말이 없네..  `ch082_panel_033_03`
+- ch083: 기억 못하시나 어제 일..  `ch083_panel_028_00`

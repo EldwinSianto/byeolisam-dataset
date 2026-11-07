@@ -1,47 +1,51 @@
 # Ha Ian (하이안)
 
 ## Kemunculan
-- Total **33 teks** di **4 chapter** (ch057 – ch060)
-- Per chapter (ch006 → ch060): `                                                   ▄█▁▄`
-- Chapter tersibuk: ch058 (16), ch060 (9), ch057 (7)
+- Total **193 teks** di **24 chapter** (ch057 – ch214)
+- Per 5 chapter (ch001 → ch217): `           ▅█▅▆  ▁  ▁▁ ▁    ▁   ▁         ▁ `
+- Chapter tersibuk: ch066 (22), ch074 (21), ch061 (19)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 33 | 0 | 0 | 0 |
+| 187 | 6 | 0 | 0 |
 
-Porsi pikiran **0%** → jarang terlihat isi pikirannya.
+Porsi pikiran **3%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
 
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 8.1 | 12.9 |  |
-| % sopan | 6.1 | 3.0 | ⬆ jauh lebih tinggi |
-| % tanya | 21.2 | 24.4 |  |
-| % seru | 12.1 | 14.4 |  |
-| % ragu (...) | 30.3 | 23.7 |  |
-| % ㅋ/ㅎ | 3.0 | 8.2 | ⬇ jauh lebih rendah |
-| % makian | 0.0 | 7.0 | ⬇ jauh lebih rendah |
+| panjang | 10.0 | 12.8 |  |
+| % sopan | 10.7 | 4.0 | ⬆ jauh lebih tinggi |
+| % tanya | 25.7 | 23.0 |  |
+| % seru | 12.8 | 14.6 |  |
+| % ragu (...) | 42.8 | 24.0 | ⬆ jauh lebih tinggi |
+| % ㅋ/ㅎ | 7.0 | 7.5 |  |
+| % makian | 0.0 | 4.0 | ⬇ jauh lebih rendah |
 
 ## Kata khas (dibanding tokoh lain)
 
--
+**오빠** (18×), **응** (21×), **연락** (4×), **좋다** (9×), **여친** (4×), **담배** (4×), **문자** (4×), **괜찮다** (5×), **미안** (4×), **나다** (5×), **왜** (11×)
 
 Contoh ucapan:
 
-- ch057: 딱히 그런 애 같지는 않은데..  `ch057_panel_010_03`
-- ch058: 근데 오빠는..  `ch058_panel_012_00`
-- ch059: 담배 좀 그만 퍼~  `ch059_panel_037_02`
-- ch060: 내꺼라도 빌려줄까?  `ch060_panel_035_00`
+- ch058: 담배 왜 퍼요?  `ch058_panel_013_00`
+- ch061: 오늘 여친이랑 왜 데이트 안 해요?  `ch061_panel_043_00`
+- ch062: 응, 괜찮아용~  `ch062_panel_075_00`
+- ch065: 오빠는 왜 여친 없어요,  `ch065_panel_032_01`
+- ch086: 그냥.. 친구! 담배 피고 왔지, 너.  `ch086_panel_040_02`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Hong Aera | 14 | 7% |
-| Lee Rina | 4 | – |
-| Kim Gwangun | 2 | – |
+| Kim Gwangun | 55 | 20% |
+| Hong Aera | 37 | 3% |
+| Lee Rina | 14 | 7% |
+| Seol Hyorim | 13 | 0% |
+| Kim Jingyeong | 1 | – |
+| Park Dong | 1 | – |
 
-Yang bicara sopan kepadanya: Hong Aera 0%
+Yang bicara sopan kepadanya: Hong Aera 4%, Kim Gwangun 2%, Seol Hyorim 0%, Lee Rina 0%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._

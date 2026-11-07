@@ -1,14 +1,14 @@
 # Kang Hyeok (강혁)
 
 ## Kemunculan
-- Total **73 teks** di **11 chapter** (ch006 – ch050)
-- Per chapter (ch006 → ch060): `▁ ▂▅▂                    ▂    ▁         ▁█▂▂▁          `
-- Chapter tersibuk: ch047 (24), ch009 (17), ch010 (6)
+- Total **195 teks** di **36 chapter** (ch006 – ch205)
+- Per 5 chapter (ch001 → ch217): ` ▆    ▁▁ █    ▁  ▁       ▁▁ ▁▂▁▆▂▁ ▁▄▁ ▅▂   `
+- Chapter tersibuk: ch047 (24), ch009 (17), ch160 (15)
 
 ## Porsi tipe teks
 | ucapan | pikiran | tulisan | ingatan* |
 |---|---|---|---|
-| 72 | 1 | 0 | 0 |
+| 193 | 2 | 0 | 0 |
 
 Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 *ingatan = kalimatnya yang terngiang di kepala tokoh lain.
@@ -16,36 +16,36 @@ Porsi pikiran **1%** → jarang terlihat isi pikirannya.
 ## Gaya bicara (ucapan + tulisan)
 | ciri | tokoh ini | rata-rata semua | |
 |---|---|---|---|
-| panjang | 18.2 | 12.9 |  |
-| % sopan | 0.0 | 3.0 | ⬇ jauh lebih rendah |
-| % tanya | 22.2 | 24.4 |  |
-| % seru | 15.3 | 14.4 |  |
-| % ragu (...) | 15.3 | 23.7 |  |
-| % ㅋ/ㅎ | 16.7 | 8.2 | ⬆ jauh lebih tinggi |
-| % makian | 6.9 | 7.0 |  |
+| panjang | 16.5 | 12.8 |  |
+| % sopan | 1.6 | 4.0 | ⬇ jauh lebih rendah |
+| % tanya | 21.8 | 23.0 |  |
+| % seru | 13.5 | 14.6 |  |
+| % ragu (...) | 13.0 | 24.0 | ⬇ jauh lebih rendah |
+| % ㅋ/ㅎ | 13.5 | 7.5 | ⬆ jauh lebih tinggi |
+| % makian | 4.1 | 4.0 |  |
 
 ## Kata khas (dibanding tokoh lain)
 
-**주인공** (4×), **그리다** (4×), **재밌다** (4×), **보이다** (4×), **잘** (5×)
+**진우** (7×), **주인공** (4×), **수원** (11×), **내일** (4×), **지내다** (4×), **재밌다** (5×), **그리다** (4×), **좋다** (9×)
 
 Contoh ucapan:
 
-- ch006: 냅뒤~ 저ㅅㄲ는 진짜 양아치야.  `ch006_panel_022_02`
-- ch009: ㅋㅋㅋㅋ 야, 잘그렸다. 나 만화 좋아하는데.  `ch009_panel_009_01`
-- ch010: 남주인공 ㅈㄴ 느끼하긴 한데 매력이 있다 ㅋㅋㅋㅋ  `ch010_panel_035_03`
-- ch047: 자퇴했으면 요등 소공이 있을 것이지 이게 뭐 하는 거야?  `ch047_panel_004_01`
+- ch009: 잘 봤다! 진짜 잘 봤어!  `ch009_panel_025_00`
+- ch010: 진우, 가자. 종 쳤어.  `ch010_panel_007_03`
+- ch031: 수원이, 이 응큼한 스얘끼♡ 넘 재밌는 거 아냐?  `ch031_panel_044_01`
 - ch048: 야, 고등학생인데 이제 잘 좀 지내자.  `ch048_panel_003_02`
+- ch049: ㅋㅋ하여간 잘 풀려서 다행이다. 쪽팔려서 다신 사고 안 치긴 하겠네.  `ch049_panel_032_01`
 
 ## Lawan bicara tersering
 | lawan | pertukaran | % sopan ke dia |
 |---|---|---|
-| Lim Yongjin | 24 | 0% |
-| Yang Jinsu | 8 | 0% |
-| Park Dong | 7 | – |
-| Ji Suwon | 7 | – |
-| Jung Cheolgyu | 2 | – |
-| Choi Jinu | 2 | – |
+| Lim Yongjin | 38 | 0% |
+| Ji Suwon | 25 | 0% |
+| Park Dong | 21 | 0% |
+| Yang Jinsu | 7 | – |
+| Lee Rina | 5 | – |
+| Jung Hyeonseong | 5 | – |
 
-Yang bicara sopan kepadanya: Lim Yongjin 4%, Park Dong 0%
+Yang bicara sopan kepadanya: Lim Yongjin 2%, Park Dong 0%, Ji Suwon 0%
 
 _Lawan bicara = pembicara tepat sesudah/sebelumnya di panel yang sama atau berdekatan (perkiraan)._

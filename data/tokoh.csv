@@ -1,39 +1,69 @@
 ﻿pembicara,pembicara_romawi,jenis,jumlah_teks,ucapan,pikiran,narasi,tulisan,ingatan,efek_suara,jumlah_chapter,chapter_pertama,chapter_terakhir
-지수원,Ji Suwon,tokoh bernama,1310,664,641,0,1,4,0,53,ch006,ch060
-박동,Park Dong,tokoh bernama,1097,919,172,0,2,4,0,50,ch007,ch060
-양진수,Yang Jinsu,tokoh bernama,863,676,183,0,1,3,0,45,ch007,ch054
-설효림,Seol Hyorim,tokoh bernama,608,499,104,0,5,0,0,37,ch006,ch060
-Unknown,Unknown,tidak dikenal / figuran,387,349,18,10,10,0,0,43,ch006,ch060
-이리나,Lee Rina,tokoh bernama,355,347,6,0,2,0,0,28,ch006,ch060
-Narration,Narration,bukan tokoh,350,0,0,350,0,0,0,50,ch006,ch060
-정철규,Jung Cheolgyu,tokoh bernama,333,313,20,0,0,0,0,16,ch006,ch049
-성희준,Sung Huijun,tokoh bernama,307,255,50,0,0,2,0,18,ch019,ch059
-김인섭,Kim Inseop,tokoh bernama,207,181,24,0,0,2,0,18,ch007,ch058
-이준현,Lee Junhyeon,tokoh bernama,145,142,1,0,2,0,0,19,ch007,ch058
-김지성,Kim Jiseong,tokoh bernama,118,111,7,0,0,0,0,26,ch019,ch060
-이대규,Lee Daegyu,tokoh bernama,100,100,0,0,0,0,0,25,ch012,ch059
-임용진,Lim Yongjin,tokoh bernama,96,95,1,0,0,0,0,13,ch006,ch050
-김진경,Kim Jingyeong,tokoh bernama,93,91,0,0,2,0,0,21,ch006,ch060
-설민수,Seol Minsu,tokoh bernama,81,81,0,0,0,0,0,10,ch012,ch053
-강혁,Kang Hyeok,tokoh bernama,73,72,1,0,0,0,0,11,ch006,ch050
-anon_c009,anon_c009,tokoh tanpa nama (wajah konsisten),49,38,11,0,0,0,0,3,ch013,ch015
-오인호,Oh Inho,tokoh bernama,46,41,5,0,0,0,0,14,ch007,ch058
+지수원,Ji Suwon,tokoh bernama,4585,2736,1572,261,12,4,0,193,ch001,ch217
+설효림,Seol Hyorim,tokoh bernama,3392,2787,532,61,12,0,0,175,ch001,ch213
+박동,Park Dong,tokoh bernama,3294,2667,567,48,8,4,0,171,ch001,ch217
+Unknown,Unknown,tidak dikenal / figuran,2844,2718,82,7,37,0,0,182,ch001,ch217
+이리나,Lee Rina,tokoh bernama,2011,1746,222,22,21,0,0,136,ch004,ch214
+김인섭,Kim Inseop,tokoh bernama,1027,915,105,2,3,2,0,88,ch001,ch217
+양진수,Yang Jinsu,tokoh bernama,916,702,209,0,2,3,0,52,ch001,ch205
+김진경,Kim Jingyeong,tokoh bernama,707,565,139,0,3,0,0,101,ch004,ch213
+Narration,Narration,bukan tokoh,701,0,0,701,0,0,0,158,ch001,ch213
+박미진,Park Mijin,tokoh bernama,701,573,112,16,0,0,0,50,ch068,ch217
+최기량,Choi Giryang,tokoh bernama,635,547,88,0,0,0,0,26,ch065,ch121
+홍애라,Hong Aera,tokoh bernama,577,388,180,8,1,0,0,31,ch057,ch179
+설민수,Seol Minsu,tokoh bernama,521,331,100,90,0,0,0,32,ch012,ch178
+성희준,Sung Huijun,tokoh bernama,513,451,60,0,0,2,0,35,ch019,ch207
+이대규,Lee Daegyu,tokoh bernama,460,422,38,0,0,0,0,86,ch012,ch216
+김광운,Kim Gwangun,tokoh bernama,402,291,85,0,26,0,0,30,ch056,ch214
+마한결,Ma Hangyeol,tokoh bernama,388,342,34,0,12,0,0,21,ch180,ch204
+이준현,Lee Junhyeon,tokoh bernama,369,304,45,18,2,0,0,31,ch001,ch164
+안시후,An Sihu,tokoh bernama,345,216,87,41,1,0,0,19,ch148,ch214
+정철규,Jung Cheolgyu,tokoh bernama,335,314,21,0,0,0,0,16,ch006,ch049
+원수지,Won Suji,tokoh bernama,322,225,44,49,4,0,0,19,ch127,ch165
+김지성,Kim Jiseong,tokoh bernama,280,256,24,0,0,0,0,66,ch019,ch201
+이창범,Lee Changbeom,tokoh bernama,260,260,0,0,0,0,0,14,ch046,ch205
+임용진,Lim Yongjin,tokoh bernama,213,208,3,0,2,0,0,36,ch006,ch211
+강혁,Kang Hyeok,tokoh bernama,195,193,2,0,0,0,0,36,ch006,ch205
+하이안,Ha Ian,tokoh bernama,193,187,6,0,0,0,0,24,ch057,ch214
+오인호,Oh Inho,tokoh bernama,158,130,28,0,0,0,0,40,ch002,ch185
+설민수's mom,Seol Minsu's mom,tokoh bernama,141,135,1,0,5,0,0,10,ch168,ch182
+우범준,Woo Beomjun,tokoh bernama,89,89,0,0,0,0,0,10,ch183,ch204
+한성옥,Han Seongok,tokoh bernama,88,45,42,0,1,0,0,7,ch208,ch217
+송세나,Song Sena,tokoh bernama,76,73,1,0,2,0,0,10,ch158,ch217
+쓰리형,Sseurihyeong,tokoh bernama,67,66,1,0,0,0,0,3,ch086,ch088
+권혁주,Kwon Hyeokju,tokoh bernama,63,46,14,0,3,0,0,4,ch209,ch215
+최진우,Choi Jinu,tokoh bernama,61,61,0,0,0,0,0,20,ch006,ch205
+조우리,Jo Uri,tokoh bernama,58,55,2,0,1,0,0,13,ch019,ch171
+김다슬,Kim Daseul,tokoh bernama,51,47,4,0,0,0,0,7,ch196,ch205
+신수정,Shin Sujeong,tokoh bernama,50,49,1,0,0,0,0,10,ch071,ch165
+anon_c009,anon_c009,tokoh tanpa nama (wajah konsisten),49,37,12,0,0,0,0,3,ch013,ch015
 Komik dalam komik,Komik dalam komik,bukan tokoh,45,45,0,0,0,0,0,3,ch009,ch017
-홍애라,Hong Aera,tokoh bernama,44,44,0,0,0,0,0,4,ch057,ch060
-조우리,Jo Uri,tokoh bernama,39,38,0,0,1,0,0,9,ch019,ch059
-김광운,Kim Gwangun,tokoh bernama,39,26,13,0,0,0,0,4,ch056,ch060
-SFX,SFX,bukan tokoh,36,0,0,0,0,0,36,16,ch016,ch060
-하이안,Ha Ian,tokoh bernama,33,33,0,0,0,0,0,4,ch057,ch060
+SFX,SFX,bukan tokoh,40,0,0,0,0,0,40,17,ch016,ch068
+정현성,Jung Hyeonseong,tokoh bernama,37,37,0,0,0,0,0,4,ch148,ch214
 anon_c025,anon_c025,tokoh tanpa nama (wajah konsisten),29,21,8,0,0,0,0,2,ch014,ch015
 anon_c053,anon_c053,tokoh tanpa nama (wajah konsisten),27,26,1,0,0,0,0,4,ch030,ch051
-최진우,Choi Jinu,tokoh bernama,25,25,0,0,0,0,0,7,ch006,ch049
+임지애,Lim Jiae,tokoh bernama,26,18,8,0,0,0,0,1,ch214,ch214
 anon_c111,anon_c111,tokoh tanpa nama (wajah konsisten),24,24,0,0,0,0,0,4,ch008,ch030
-이창범,Lee Changbeom,tokoh bernama,19,19,0,0,0,0,0,3,ch046,ch049
-anon_c074,anon_c074,tokoh tanpa nama (wajah konsisten),16,16,0,0,0,0,0,1,ch059,ch059
+anon_c074,anon_c074,tokoh tanpa nama (wajah konsisten),19,19,0,0,0,0,0,3,ch059,ch072
+박기태,Park Gitae,tokoh bernama,18,17,1,0,0,0,0,3,ch107,ch114
+배상언,Bae Sangeon,tokoh bernama,18,18,0,0,0,0,0,6,ch160,ch199
+황규,Hwang Gyu,tokoh bernama,15,15,0,0,0,0,0,3,ch148,ch184
+은정,Eunjeong,tokoh bernama,15,15,0,0,0,0,0,1,ch214,ch214
 anon_c045,anon_c045,tokoh tanpa nama (wajah konsisten),13,13,0,0,0,0,0,2,ch034,ch049
-anon_c112,anon_c112,tokoh tanpa nama (wajah konsisten),9,9,0,0,0,0,0,2,ch014,ch015
+설민수's dad,Seol Minsu's dad,tokoh bernama,13,13,0,0,0,0,0,2,ch173,ch174
+김새림,Kim Saerim,tokoh bernama,13,13,0,0,0,0,0,1,ch214,ch214
+김하랑,Kim Harang,tokoh bernama,10,9,1,0,0,0,0,1,ch001,ch001
+anon_c112,anon_c112,tokoh tanpa nama (wajah konsisten),9,8,1,0,0,0,0,2,ch014,ch015
+조영수,Jo Yeongsu,tokoh bernama,9,9,0,0,0,0,0,1,ch214,ch214
+유현지,Yoo Hyeonji,tokoh bernama,8,8,0,0,0,0,0,1,ch114,ch114
 anon_c046,anon_c046,tokoh tanpa nama (wajah konsisten),7,7,0,0,0,0,0,1,ch021,ch021
 anon_c081,anon_c081,tokoh tanpa nama (wajah konsisten),6,6,0,0,0,0,0,1,ch034,ch034
+지수원's mom,Ji Suwon's mom,tokoh bernama,5,5,0,0,0,0,0,2,ch001,ch052
+홍애솔,Hong Aesol,tokoh bernama,5,3,2,0,0,0,0,1,ch167,ch167
+양진수's mom,Yang Jinsu's mom,tokoh bernama,4,4,0,0,0,0,0,1,ch043,ch043
+혜원,Hyewon,tokoh bernama,3,3,0,0,0,0,0,1,ch002,ch002
 anon_c110,anon_c110,tokoh tanpa nama (wajah konsisten),2,2,0,0,0,0,0,2,ch014,ch015
+지수원's dad,Ji Suwon's dad,tokoh bernama,2,2,0,0,0,0,0,1,ch052,ch052
+이리나's dad,Lee Rina's dad,tokoh bernama,2,2,0,0,0,0,0,1,ch096,ch096
 anon_c026,anon_c026,tokoh tanpa nama (wajah konsisten),1,0,1,0,0,0,0,1,ch009,ch009
 anon_c040,anon_c040,tokoh tanpa nama (wajah konsisten),1,1,0,0,0,0,0,1,ch010,ch010
